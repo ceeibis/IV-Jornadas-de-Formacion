@@ -1,0 +1,142 @@
+\select@language {english}
+\gdef \the@ipfilectr {@-1}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-2}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-3}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-4}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-5}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-6}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-7}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Introduction}{3}{chapter.1}
+\contentsline {xpart}{Preliminaries}{3}{part.1}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-8}
+\addvspace {10\p@ }
+\contentsline {xchapter}{The post-genomic era}{9}{chapter.2}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Electron micrograph of a chicken chondrocyte}}{11}{figure.2.1}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces The molecular processes involved in the protein synthesis pathway}}{13}{figure.2.2}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces The genetic code table}}{14}{figure.2.3}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces A comparison of chromatin with a mitotic chromosome}}{16}{figure.2.4}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces The organization of the human genome}}{18}{figure.2.5}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Growth of the \textsc {\textsf {GenBank}}{} (1982-2004)}}{19}{figure.2.6}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces An example of \textsc {\textsf {GenBank}}{} entry}}{21}{figure.2.7}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces The human URO-D gene in the \textsc {\textsf {UCSC Genome Browser}}{} and \textsc {\textsf {Ensembl}}{}}}{23}{figure.2.8}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Using SNPs to locate susceptibility genes}}{25}{figure.2.9}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-9}
+\addvspace {10\p@ }
+\contentsline {xchapter}{The golden age of sequence analysis}{31}{chapter.3}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Gene evolution events}}{36}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces The maximum-match operation for necessary pathways}}{41}{figure.3.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces The \citeauthor {needleman:1970a} algorithm}}{44}{figure.3.3}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces The dynamic programming matrix}}{45}{figure.3.4}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces The \citeauthor {sellers:1974a} algorithm}}{46}{figure.3.5}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces The \citeauthor {hirschberg:1975a} linear space approach}}{47}{figure.3.6}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces An algorithm to compute $D(i,j)$ in $O(n)$ space cost}}{49}{figure.3.7}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces The \citeauthor {hirschberg:1975a} linear space algorithm}}{50}{figure.3.8}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces The \citeauthor {needleman:1970a} algorithm revisited}}{52}{figure.3.9}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces The generalized dynamic programming matrix}}{56}{figure.3.10}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces The \citeauthor {sellers:1974a} algorithm generalized}}{57}{figure.3.11}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces The \citeauthor {gotoh:1982a} algorithm}}{59}{figure.3.12}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces The \citeauthor {smith:1981c} algorithm}}{63}{figure.3.13}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Identification of sequence similarities by FASTA}}{66}{figure.3.14}
+\contentsline {figure}{\numberline {3.15}{\ignorespaces BLAST processing}}{68}{figure.3.15}
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Generalized MSA dynamic programming matrix}}{70}{figure.3.16}
+\contentsline {figure}{\numberline {3.17}{\ignorespaces The basic CLUSTALW alignment procedure}}{71}{figure.3.17}
+\contentsline {figure}{\numberline {3.18}{\ignorespaces DNA nucleotide sequences recognized by restriction nucleases}}{73}{figure.3.18}
+\contentsline {figure}{\numberline {3.19}{\ignorespaces A restriction map alignment}}{75}{figure.3.19}
+\contentsline {figure}{\numberline {3.20}{\ignorespaces The \citeauthor {waterman:1984c} map alignment algorithm}}{76}{figure.3.20}
+\contentsline {figure}{\numberline {3.21}{\ignorespaces Mapping the $D$ matrix over a grid}}{77}{figure.3.21}
+\contentsline {figure}{\numberline {3.22}{\ignorespaces An illustration of a $f$-curve}}{78}{figure.3.22}
+\contentsline {figure}{\numberline {3.23}{\ignorespaces An illustration of an $i$-profile}}{80}{figure.3.23}
+\contentsline {figure}{\numberline {3.24}{\ignorespaces An illustration of a $R$-profile and a $L$-profile}}{81}{figure.3.24}
+\contentsline {figure}{\numberline {3.25}{\ignorespaces The \citeauthor {myers:1992a} map alignment algorithm}}{82}{figure.3.25}
+\contentsline {xpart}{State of the Art}{31}{part.2}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-10}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Computational Gene and Promoter Characterization}{87}{chapter.4}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces The typical gene structure}}{89}{figure.4.1}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Other forms of gene structures}}{91}{figure.4.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Transcription of two tandem genes}}{92}{figure.4.3}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces A schematic representation of a promoter}}{93}{figure.4.4}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Nucleosomes and chromatin structure can influence gene expression}}{94}{figure.4.5}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Sources of information in the ab-initio gene-finding process}}{95}{figure.4.6}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Pattern-driven algorithms}}{97}{figure.4.7}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Alignment and representation of a set of TFBSs}}{98}{figure.4.8}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces A Position Weight Matrix}}{99}{figure.4.9}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Information content of \textsc {\textsf {Transfac}} 6.3 matrices}}{100}{figure.4.10}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces An example of coding statistic}}{102}{figure.4.11}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Comparative analysis of a gene}}{104}{figure.4.12}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Phylogenetic footprinting}}{105}{figure.4.13}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces A microarray experiment}}{106}{figure.4.14}
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Sequence-driven algorithms}}{108}{figure.4.15}
+\contentsline {figure}{\numberline {4.16}{\ignorespaces \texttt {geneid} dataflow}}{110}{figure.4.16}
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Transcriptional regulatory module architectures}}{112}{figure.4.17}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-11}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Meta-alignment of Biological Sequences}{125}{chapter.5}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces The human genome map}}{127}{figure.5.1}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces TF-maps: construction and alignment}}{130}{figure.5.2}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces The Naive TF-map alignment algorithm}}{133}{figure.5.3}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Sparse matrices}}{134}{figure.5.4}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces The Enhanced TF-map alignment algorithm}}{135}{figure.5.5}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Number of accessions to the matrix $S$}}{136}{figure.5.6}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Examples of the ABS data retrieval system}}{141}{figure.5.7}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces TF-map alignment of the human and mouse PLA1A gene}}{143}{figure.5.8}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces TF-map alignment on several genomic samples}}{145}{figure.5.9}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces TF-map alignment in promoter detection}}{147}{figure.5.10}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Alignment experiment with the CISRED genes}}{150}{figure.5.11}
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Score distribution of the CISRED TF-map alignments}}{152}{figure.5.12}
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Experimental annotation of the TTR gene}}{154}{figure.5.13}
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Construction and use of a PWM}}{156}{figure.5.14}
+\contentsline {figure}{\numberline {5.15}{\ignorespaces The $Q-$value distribution in \textsc {\textsf {Jaspar}} and \textsc {\textsf {Transfac}}}}{157}{figure.5.15}
+\contentsline {figure}{\numberline {5.16}{\ignorespaces Using local meta-alignment in pattern identification}}{161}{figure.5.16}
+\contentsline {figure}{\numberline {5.17}{\ignorespaces Local meta-alignment using the distance metric}}{162}{figure.5.17}
+\contentsline {figure}{\numberline {5.18}{\ignorespaces Gumbel distribution of local meta-alignments}}{163}{figure.5.18}
+\contentsline {xpart}{Meta-Alignment of Sequences}{125}{part.3}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-12}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Multiple Non-Collinear TF-map Alignment}{171}{chapter.6}
+\contentsline {figure}{\numberline {6.1}{\ignorespaces TF-mapping in a simple example}}{173}{figure.6.1}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces TF-mapping of the human promoter NM\_015900}}{174}{figure.6.2}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Progressive multiple map alignment algorithm}}{177}{figure.6.3}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces MMA algorithm: data structures and matrix}}{179}{figure.6.4}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Pairwise alignment of two clusters of TF-maps}}{180}{figure.6.5}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Two examples of non-collinear MMAs}}{181}{figure.6.6}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Diagonal filling of the alignment matrix}}{182}{figure.6.7}
+\contentsline {figure}{\numberline {6.8}{\ignorespaces The non-collinearity parameter}}{184}{figure.6.8}
+\contentsline {figure}{\numberline {6.9}{\ignorespaces Distinguishing promoters from other genomic regions}}{185}{figure.6.9}
+\contentsline {figure}{\numberline {6.10}{\ignorespaces Multiple promoter characterization}}{188}{figure.6.10}
+\contentsline {figure}{\numberline {6.11}{\ignorespaces MMA of the MMP13 promoter in 9 species}}{191}{figure.6.11}
+\contentsline {figure}{\numberline {6.12}{\ignorespaces Using MEME as a mapping function}}{193}{figure.6.12}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-13}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Conclusions}{197}{chapter.7}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-14}
+\contentsline {xpart}{\textbf {A}ppendices}{201}{part.4}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-15}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-16}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-17}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-18}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-19}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-20}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-21}
+\gdef \the@ipfilectr {}

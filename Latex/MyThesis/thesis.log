@@ -1,0 +1,2476 @@
+This is pdfTeX, Version 3.14159-1.10b (Web2C 7.4.5) (format=pdflatex 2004.3.25)  20 NOV 2006 13:54
+**./thesis.tex
+(./thesis.tex{/usr/share/texmf/pdftex/config/pdftex.cfg}
+LaTeX2e <2001/06/01>
+Babel <v3.7h> and hyphenation patterns for american, french, german, ngerman, n
+ohyphenation, loaded.
+(./conf/formatting.tex (/usr/share/texmf/tex/latex/base/book.cls
+Document Class: book 2001/04/21 v1.4e Standard LaTeX document class
+(/usr/share/texmf/tex/latex/base/bk10.clo
+File: bk10.clo 2001/04/21 v1.4e Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (./conf/define_booleans.tex
+(/usr/share/texmf/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\thesisWidth=\skip43
+\thesisHeight=\skip44
+) (./conf/geometry.sty
+Package: geometry 2002/07/08 v3.2 Page Geometry
+
+(/usr/share/texmf/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@dimlist=\toks15
+ (./conf/geometry.cfg))
+(./conf/pdfpages.sty
+Package: pdfpages 2004/01/31 v0.3e Insert pages of external PDF documents (AM)
+ (/usr/share/texmf/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/graphics.sty
+Package: graphics 2001/07/07 v1.0n Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2001/08/31 v1.1 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 80.
+ (./conf/pdftex.def
+File: pdftex.def 2002/06/19 v0.03k graphics/color for pdftex
+\Gread@gobject=\count91
+))
+\Gin@req@height=\dimen107
+\Gin@req@width=\dimen108
+)
+(/usr/share/texmf/tex/latex/tools/calc.sty
+Package: calc 1998/07/07 v4.1b Infix arithmetic (KKT,FJ)
+\calc@Acount=\count92
+\calc@Bcount=\count93
+\calc@Adimen=\dimen109
+\calc@Bdimen=\dimen110
+\calc@Askip=\skip45
+\calc@Bskip=\skip46
+LaTeX Info: Redefining \setlength on input line 59.
+LaTeX Info: Redefining \addtolength on input line 60.
+\calc@denominator=\count94
+)
+(/usr/share/texmf/tex/latex/misc/eso-pic.sty
+Package: eso-pic 2002/11/16 v1.1b eso-pic (RN)
+
+(/usr/share/texmf/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+)) (./conf/pppdftex.def
+File: pppdftex.def 2004/01/31 v0.3e Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box26
+\AM@toc@title=\toks16
+\c@AM@survey=\count95
+))
+(./conf/mythesis.sty (/usr/share/texmf/tex/latex/base/fontenc.sty
+Package: fontenc 2001/06/05 v1.94 Standard LaTeX package
+
+(/usr/share/texmf/tex/latex/base/t1enc.def
+File: t1enc.def 2001/06/05 v1.94 Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 38.
+))
+(/usr/share/texmf/tex/latex/base/textcomp.sty
+Package: textcomp 2001/06/05 v1.94 Standard LaTeX package
+
+(/usr/share/texmf/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+))
+(/usr/share/texmf/tex/latex/psnfss/pifont.sty
+Package: pifont 2002/09/08 PSNFSS-v9.0a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 62.
+
+(/usr/share/texmf/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 63.
+
+(/usr/share/texmf/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+(/usr/share/texmf/tex/latex/psnfss/charter.sty
+Package: charter 2002/09/08 PSNFSS-v9.0a (Peter Dyballa) 
+)
+(/usr/share/texmf/tex/latex/psnfss/helvet.sty
+Package: helvet 2002/09/08 PSNFSS-v9.0a (WaS) 
+)
+(/usr/share/texmf/tex/latex/misc/euler.sty
+Package: euler 1995/03/05 v2.5
+
+Package: `euler' v2.5 <1995/03/05> (FJ and FMi)
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 35.
+
+LaTeX Font Warning: Encoding `OML' has changed to `U' for symbol font
+(Font)              `letters' in the math version `normal' on input line 35.
+
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> U/eur/m/n on input line 35.
+
+LaTeX Font Warning: Encoding `OML' has changed to `U' for symbol font
+(Font)              `letters' in the math version `bold' on input line 35.
+
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> U/eur/m/n on input line 35.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  U/eur/m/n --> U/eur/b/n on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 47.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 49.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 50.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 51.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 53.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 54.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 55.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 56.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 57.
+\symEulerFraktur=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `EulerFraktur' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 63.
+LaTeX Info: Redefining \oldstylenums on input line 85.
+\symEulerScript=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `EulerScript' in version `bold'
+(Font)                  U/eus/m/n --> U/eus/b/n on input line 93.
+LaTeX Font Info:    Redeclaring math symbol \aleph on input line 97.
+LaTeX Font Info:    Redeclaring math symbol \Re on input line 98.
+LaTeX Font Info:    Redeclaring math symbol \Im on input line 99.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 101.
+LaTeX Font Info:    Redeclaring math delimiter \backslash on input line 103.
+LaTeX Font Info:    Redeclaring math symbol \neg on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \wedge on input line 108.
+LaTeX Font Info:    Redeclaring math symbol \vee on input line 110.
+LaTeX Font Info:    Redeclaring math symbol \setminus on input line 112.
+LaTeX Font Info:    Redeclaring math symbol \sim on input line 113.
+LaTeX Font Info:    Redeclaring math symbol \mid on input line 114.
+LaTeX Font Info:    Redeclaring math delimiter \arrowvert on input line 116.
+LaTeX Font Info:    Redeclaring math symbol \mathsection on input line 117.
+\symEulerExtension=\mathgroup6
+LaTeX Font Info:    Redeclaring math symbol \coprod on input line 125.
+LaTeX Font Info:    Redeclaring math symbol \prod on input line 125.
+LaTeX Font Info:    Redeclaring math symbol \sum on input line 125.
+LaTeX Font Info:    Redeclaring math symbol \intop on input line 130.
+LaTeX Font Info:    Redeclaring math symbol \ointop on input line 131.
+LaTeX Font Info:    Redeclaring math symbol \braceld on input line 132.
+LaTeX Font Info:    Redeclaring math symbol \bracerd on input line 133.
+LaTeX Font Info:    Redeclaring math symbol \bracelu on input line 134.
+LaTeX Font Info:    Redeclaring math symbol \braceru on input line 135.
+LaTeX Font Info:    Redeclaring math symbol \infty on input line 136.
+LaTeX Font Info:    Redeclaring math symbol \nearrow on input line 153.
+LaTeX Font Info:    Redeclaring math symbol \searrow on input line 154.
+LaTeX Font Info:    Redeclaring math symbol \nwarrow on input line 155.
+LaTeX Font Info:    Redeclaring math symbol \swarrow on input line 156.
+LaTeX Font Info:    Redeclaring math symbol \Leftrightarrow on input line 157.
+LaTeX Font Info:    Redeclaring math symbol \Leftarrow on input line 158.
+LaTeX Font Info:    Redeclaring math symbol \Rightarrow on input line 159.
+LaTeX Font Info:    Redeclaring math symbol \leftrightarrow on input line 160.
+LaTeX Font Info:    Redeclaring math symbol \leftarrow on input line 161.
+LaTeX Font Info:    Redeclaring math symbol \rightarrow on input line 163.
+LaTeX Font Info:    Redeclaring math delimiter \uparrow on input line 166.
+LaTeX Font Info:    Redeclaring math delimiter \downarrow on input line 168.
+LaTeX Font Info:    Redeclaring math delimiter \updownarrow on input line 170.
+LaTeX Font Info:    Redeclaring math delimiter \Uparrow on input line 172.
+LaTeX Font Info:    Redeclaring math delimiter \Downarrow on input line 174.
+LaTeX Font Info:    Redeclaring math delimiter \Updownarrow on input line 176.
+LaTeX Font Info:    Redeclaring math symbol \leftharpoonup on input line 177.
+LaTeX Font Info:    Redeclaring math symbol \leftharpoondown on input line 178.
+
+LaTeX Font Info:    Redeclaring math symbol \rightharpoonup on input line 179.
+LaTeX Font Info:    Redeclaring math symbol \rightharpoondown on input line 180
+.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 182.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 184.
+\symcmmigroup=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `cmmigroup' in version `bold'
+(Font)                  OML/cmm/m/it --> OML/cmm/b/it on input line 200.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 201.
+LaTeX Font Info:    Redeclaring math symbol \triangleleft on input line 202.
+LaTeX Font Info:    Redeclaring math symbol \triangleright on input line 203.
+LaTeX Font Info:    Redeclaring math symbol \star on input line 204.
+LaTeX Font Info:    Redeclaring math symbol \lhook on input line 205.
+LaTeX Font Info:    Redeclaring math symbol \rhook on input line 206.
+LaTeX Font Info:    Redeclaring math symbol \flat on input line 207.
+LaTeX Font Info:    Redeclaring math symbol \natural on input line 208.
+LaTeX Font Info:    Redeclaring math symbol \sharp on input line 209.
+LaTeX Font Info:    Redeclaring math symbol \smile on input line 210.
+LaTeX Font Info:    Redeclaring math symbol \frown on input line 211.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 245.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 246.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 247.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 248.
+LaTeX Font Info:    Redeclaring math accent \check on input line 249.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 250.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 251.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 252.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 254.
+) (/usr/share/texmf/tex/latex/psnfss/courier.sty
+Package: courier 2002/09/08 PSNFSS-v9.0a (WaS) 
+)
+(/usr/share/texmf/tex/latex/cite/chapterbib.sty
+\c@inputfile=\count96
+Package: chapterbib 2001/09/19  v 1.9
+)
+(/usr/share/texmf/tex/latex/natbib/natbib.sty
+Package: natbib 2000/07/24 7.0a (PWD)
+\bibhang=\skip47
+\bibsep=\skip48
+LaTeX Info: Redefining \cite on input line 508.
+\c@NAT@ctr=\count97
+) (./conf/fncychap.sty
+Package: fncychap 2004/09/20 v1.3 LaTeX package (Revised chapters)
+\RW=\skip49
+\mylen=\skip50
+\myhi=\skip51
+\px=\skip52
+\py=\skip53
+\pyy=\skip54
+\pxx=\skip55
+)
+(./conf/algorithmic.sty
+Package: algorithmic 2005/05/08
+
+Document Style `algorithmic' - environment
+\c@ALC@line=\count98
+\c@ALC@rem=\count99
+\c@ALC@depth=\count100
+\ALC@tlm=\skip56
+\algorithmicindent=\skip57
+) (./conf/algorithm.sty
+Package: algorithm 
+
+Document Style `algorithm' - floating environment
+(/usr/share/texmf/tex/latex/misc/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count101
+\float@exts=\toks17
+\float@box=\box27
+\@float@everytoks=\toks18
+\@floatcapt=\box28
+)
+\@float@every@algorithm=\toks19
+\c@algorithm=\count102
+)
+(/usr/share/texmf/tex/latex/fancyhdr/fancyhdr.sty
+\headwidth=\dimen111
+)
+(/usr/share/texmf/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen112
+)
+(/usr/share/texmf/tex/latex/tools/multicol.sty
+Package: multicol 2000/07/10 v1.5z multicolumn formatting (FMi)
+\c@tracingmulticols=\count103
+\mult@box=\box29
+\multicol@leftmargin=\dimen113
+\c@unbalance=\count104
+\c@collectmore=\count105
+\doublecol@number=\count106
+\multicoltolerance=\count107
+\multicolpretolerance=\count108
+\full@width=\dimen114
+\page@free=\dimen115
+\premulticols=\dimen116
+\postmulticols=\dimen117
+\multicolsep=\skip58
+\multicolbaselineskip=\skip59
+\partial@page=\box30
+\last@line=\box31
+\mult@rightbox=\box32
+\mult@grightbox=\box33
+\mult@gfirstbox=\box34
+\mult@firstbox=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\c@columnbadness=\count109
+\c@finalcolumnbadness=\count110
+\last@try=\dimen118
+\multicolovershoot=\dimen119
+\multicolundershoot=\dimen120
+\mult@nat@firstbox=\box53
+\colbreak@box=\box54
+)
+(/usr/share/texmf/tex/latex/tools/array.sty
+Package: array 1998/05/13 v2.3m Tabular extension package (FMi)
+\col@sep=\dimen121
+\extrarowheight=\dimen122
+\NC@list=\toks20
+\extratabsurround=\skip60
+\backup@length=\skip61
+)
+(/usr/share/texmf/tex/latex/carlisle/colortbl.sty
+Package: colortbl 1999/03/24 v0.1i Color table columns (DPC)
+
+(/usr/share/texmf/tex/latex/graphics/color.sty
+Package: color 1999/02/16 v1.0i Standard LaTeX Color (DPC)
+
+(/usr/share/texmf/tex/latex/config/color.cfg
+File: color.cfg 2001/08/31 v1.1 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 125.
+)
+\everycr=\toks21
+\minrowclearance=\skip62
+)
+(/usr/share/texmf/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2000/03/21
+
+Style option: `fancyvrb' v2.7, with DG/SPQR fixes <2000/03/21> (tvz)
+\FV@CodeLineNo=\count111
+\FV@InFile=\read1
+\FV@TabBox=\box55
+\c@FancyVerbLine=\count112
+\FV@StepNumber=\count113
+\FV@OutFile=\write3
+)
+(/usr/share/texmf/tex/latex/misc/comment.sty
+\CommentStream=\write4
+ Excluding comment 'comment')
+(/usr/share/texmf/tex/latex/misc/rotating.sty
+Package: rotating 1997/09/26, v2.13 Rotation package
+\c@r@tfl@t=\count114
+\rot@float@box=\box56
+)
+(/usr/share/texmf/tex/generic/babel/babel.sty
+Package: babel 2001/03/01 v3.7h The Babel package
+
+(/usr/share/texmf/tex/generic/babel/catalan.ldf
+Language: catalan 2001/02/19 v2.2n Catalan support from the babel system
+
+(/usr/share/texmf/tex/generic/babel/babel.def
+File: babel.def 2001/03/01 v3.7h Babel common definitions
+\babel@savecnt=\count115
+\U@D=\dimen123
+)
+
+Package babel Warning: No hyphenation patterns were loaded for
+(babel)                the language `Catalan'
+(babel)                I will use the patterns loaded for \language=0 instead.
+
+\l@catalan = a dialect from \language0
+Package babel Info: Making " an active character on input line 72.
+\leftllkern=\dimen124
+\rightllkern=\dimen125
+\raiselldim=\dimen126
+LaTeX Info: Redefining \l on input line 219.
+LaTeX Info: Redefining \L on input line 220.
+) (/usr/share/texmf/tex/generic/babel/spanish.ldf
+Language: spanish.ldf 2001/01/30 v4.1c Spanish support from the babel system
+
+
+Package babel Warning: No hyphenation patterns were loaded for
+(babel)                the language `Spanish'
+(babel)                I will use the patterns loaded for \language=0 instead.
+
+\l@spanish = a dialect from \language0
+\es@quottoks=\toks22
+\es@quotdepth=\count116
+Package babel Info: Making . an active character on input line 464.
+Package babel Info: Making " an active character on input line 495.
+Package babel Info: Making < an active character on input line 581.
+Package babel Info: Making > an active character on input line 582.
+) (/usr/share/texmf/tex/generic/babel/english.ldf
+Language: english 2001/04/15 v3.3l English support from the babel system
+\l@canadian = a dialect from \language\l@english 
+))
+(/usr/share/texmf/tex/generic/thumbpdf/thumbpdf.sty
+Package: thumbpdf 2002/05/26 v3.2 Inclusion of thumbnails (HO)
+\c@thumb=\count117
+ (./thesis.tpt))
+(./conf/pdflscape.sty
+Package: pdflscape 2004/05/11 v0.3 Landscape pages in PDF (HO)
+ (/usr/share/texmf/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: `pdftex' on input line 84.
+)
+(/usr/share/texmf/tex/latex/base/makeidx.sty
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+)
+(/usr/share/texmf/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2003/01/22 v6.73n Hypertext links for LaTeX
+\@linkdim=\dimen127
+\Hy@linkcounter=\count118
+\Hy@pagecounter=\count119
+
+(/usr/share/texmf/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2003/01/22 v6.73n Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texmf/tex/latex/config/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive and teTeX
+)
+Package hyperref Info: Option `setpagesize' set `true' on input line 1744.
+Package hyperref Info: Option `colorlinks' set `true' on input line 1744.
+Package hyperref Info: Option `linktocpage' set `true' on input line 1744.
+Package hyperref Info: Option `plainpages' set `false' on input line 1744.
+Package hyperref Info: Option `breaklinks' set `true' on input line 1744.
+Package hyperref Info: Hyper figures OFF on input line 1792.
+Package hyperref Info: Link nesting OFF on input line 1797.
+Package hyperref Info: Hyper index ON on input line 1800.
+Package hyperref Info: Plain pages OFF on input line 1807.
+Package hyperref Info: Backreferencing OFF on input line 1812.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 1916.
+(/usr/share/texmf/tex/latex/html/url.sty
+Package: url 1999/03/02  ver 1.4  Verb mode for urls, email addresses, and file
+ names
+)
+LaTeX Info: Redefining \url on input line 2055.
+\Fld@menulength=\count120
+\Field@Width=\dimen128
+\Fld@charsize=\dimen129
+\Choice@toks=\toks23
+\Field@toks=\toks24
+Package hyperref Info: Hyper figures OFF on input line 2513.
+Package hyperref Info: Link nesting OFF on input line 2518.
+Package hyperref Info: Hyper index ON on input line 2521.
+Package hyperref Info: backreferencing OFF on input line 2528.
+Package hyperref Info: Link coloring ON on input line 2531.
+\c@Item=\count121
+\c@Hfootnote=\count122
+)
+*hyperref using driver hpdftex*
+(/usr/share/texmf/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2003/01/22 v6.73n Hyperref driver for pdfTeX
+\Fld@listcount=\count123
+\@outlinefile=\write5
+)
+Package hyperref Info: Option `pdffitwindow' set `true' on input line 824.
+\@indexfile=\write6
+\openout6 = `thesis.idx'.
+
+
+Writing index file thesis.idx
+(./conf/glossary.sty
+Package: glossary 
+\gls@cols=\count124
+\istfile=\write7
+)
+\@glossaryfile=\write8
+\openout8 = `thesis.glo'.
+
+
+Writing glossary file thesis.glo 
+\@weblinkfile=\write9
+\openout9 = `thesis.wlt'.
+
+Writing weblink file thesis.wlt 
+(./conf/nextpage.sty
+Package: nextpage 2000/02/20 v1.1 additional page commands
+) (./conf/colores.tex
+Package color Info: Redefining color black on input line 14.
+Package color Info: Redefining color white on input line 20.
+Package color Info: Redefining color magenta on input line 24.
+Package color Info: Redefining color blue on input line 36.
+Package color Info: Redefining color cyan on input line 48.
+Package color Info: Redefining color darkgreen on input line 59.
+Package color Info: Redefining color green on input line 60.
+Package color Info: Redefining color yellow on input line 72.
+Package color Info: Redefining color red on input line 84.
+)
+(/usr/share/texmf/tex/latex/minitoc/minitoc.sty
+Package: minitoc 2000/12/13 v34 Package minitoc, patched for hyperref
+
+*** minitoc package, version 34 ***
+*** patched for hyperref ***
+*** part level macros available ***
+*** chapter level macros available ***
+\tf@mtc=\write10
+*** Autoconfiguration of extensions ***
+\openout10 = `thesis.mtc1'.
+
+\openout10 = `thesis.mtc'.
+
+(./thesis.mtc1)
+\openout10 = `thesis.mtc'.
+
+\openout10 = `thesis.mtc1'.
+
+
+*** Long extensions (Unix-like) will be used ***
+==> this version is configured for UNIX-like (long extensions) file names.
+\mtc@toks=\toks25
+\mtc@strutbox=\box57
+\c@mtc=\count125
+\c@minitocdepth=\count126
+\mtcindent=\skip63
+\c@ptc=\count127
+\c@parttocdepth=\count128
+\ptcindent=\skip64
+(/usr/share/texmf/tex/latex/minitoc/english.mld
+File: english.mld 1999/03/16
+))
+(/usr/share/texmf/tex/latex/misc/lettrine.sty
+File: lettrine.sty 2002/10/26 v1.4 (D. Flipo)
+\c@DefaultLines=\count129
+\DefaultFindent=\dimen130
+\DefaultNindent=\dimen131
+\DefaultSlope=\dimen132
+\L@lbox=\box58
+\L@tbox=\box59
+\c@L@lines=\count130
+\L@Pindent=\dimen133
+\L@Findent=\dimen134
+\L@Nindent=\dimen135
+\L@lraise=\dimen136
+\L@first=\dimen137
+\L@next=\dimen138
+\L@slope=\dimen139
+\L@height=\dimen140
+
+(/usr/share/texmf/tex/latex/config/lettrine.cfg))) (./thesis.aux
+(./sections/title.aux) (./sections/signatures.aux) (./sections/tomy.aux)
+(./sections/preface.aux) (./sections/acknowledgements.aux)
+(./sections/theabstracts.aux) (./sections/introduction.aux)
+(./sections/genomics.aux) (./sections/algorithms.aux)
+(./sections/genefinding.aux) (./sections/meta.aux
+
+LaTeX Warning: Label `sec:' multiply defined.
+
+) (./sections/mmeta.aux) (./sections/conclusions.aux) (./sections/cv.aux)
+(./sections/software.aux) (./sections/publications.aux)
+(./sections/fpublications.aux) (./sections/posters.aux)
+(./sections/miscellanea.aux)
+
+LaTeX Warning: Label `emblurl' multiply defined.
+
+(./sections/notes.aux) (./sections/series.aux))
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 37.
+
+(/usr/share/texmf/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Try loading font information for T1+bch on input line 37.
+
+(/usr/share/texmf/tex/latex/psnfss/t1bch.fd
+File: t1bch.fd 2001/06/04 font definitions for T1/bch.
+)
+-------------------- Geometry parameters
+paper: user defined
+landscape: --
+twocolumn: --
+twoside: true
+asymmetric: --
+h-parts: 56.9055pt, 398.3386pt, 28.45274pt
+v-parts: 56.9055pt, 576.16832pt, 49.79231pt
+hmarginratio: --
+vmarginratio: --
+lines: --
+heightrounded: --
+bindingoffset: 0.0pt
+truedimen: true
+includehead: --
+includefoot: --
+includemp: --
+driver: pdftex
+-------------------- Page layout dimensions and switches
+\paperwidth  483.69684pt
+\paperheight 682.86613pt
+\textwidth  398.3386pt
+\textheight 576.16832pt
+\oddsidemargin  -15.36449pt
+\evensidemargin -43.81725pt
+\topmargin  -45.43198pt
+\headheight 12.0pt
+\headsep    18.06749pt
+\footskip   25.29494pt
+\marginparwidth 0.0pt
+\marginparsep   7.0pt
+\columnsep  10.0pt
+\skip\footins  9.0pt plus 4.0pt minus 2.0pt
+\hoffset 0.0pt
+\voffset 0.0pt
+\mag 1000
+\@twosidetrue \@mparswitchtrue 
+(1in=72.27pt, 1cm=28.45pt)
+-----------------------
+
+(/usr/share/texmf/tex/context/base/supp-pdf.tex
+(/usr/share/texmf/tex/context/base/supp-mis.tex
+loading : Context Support Macros / Missing
+\protectiondepth=\count131
+\scratchcounter=\count132
+\scratchtoks=\toks26
+\scratchdimen=\dimen141
+\scratchskip=\skip65
+\scratchmuskip=\muskip10
+\scratchbox=\box60
+\scratchread=\read2
+\scratchwrite=\write11
+\zeropoint=\dimen142
+\minusone=\count133
+\thousandpoint=\dimen143
+\emptytoks=\toks27
+\nextbox=\box61
+\nextdepth=\dimen144
+\everyline=\toks28
+\!!counta=\count134
+\!!countb=\count135
+\recursecounter=\count136
+)
+loading : Context Support Macros / PDF
+\nofMPsegments=\count137
+\nofMParguments=\count138
+\everyMPtoPDFconversion=\toks29
+) ABD: EveryShipout initializing macros
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 37.
+
+
+LaTeX Font Warning: Encoding `OT1' has changed to `T1' for symbol font
+(Font)              `operators' in the math version `normal' on input line 37.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> T1/bch/m/n on input line 37.
+
+LaTeX Font Warning: Encoding `OT1' has changed to `T1' for symbol font
+(Font)              `operators' in the math version `bold' on input line 37.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> T1/bch/m/n on input line 37.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  T1/bch/m/n --> T1/bch/b/n on input line 37.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> T1/bch/b/n on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> T1/bch/b/n on input line 37.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> T1/phv/m/n on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> T1/phv/m/n on input line 37.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> T1/bch/m/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> T1/bch/m/it on input line 37.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> T1/pcr/m/n on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> T1/pcr/m/n on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  T1/phv/m/n --> T1/phv/b/n on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  T1/bch/m/it --> T1/bch/b/it on input line 37.
+Package hyperref Info: Link coloring ON on input line 37.
+(/usr/share/texmf/tex/latex/hyperref/nameref.sty
+Package: nameref 2001/01/27 v2.19 Cross-referencing by name of section
+\c@section@level=\count139
+)
+LaTeX Info: Redefining \ref on input line 37.
+LaTeX Info: Redefining \pageref on input line 37.
+ (./thesis.out) (./thesis.out)
+\openout5 = `thesis.out'.
+
+LaTeX Font Info:    Try loading font information for U+eur on input line 57.
+(/usr/share/texmf/tex/latex/amsfonts/ueur.fd
+File: ueur.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 57.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 57.
+LaTeX Font Info:    Try loading font information for U+euf on input line 57.
+
+(/usr/share/texmf/tex/latex/amsfonts/ueuf.fd
+File: ueuf.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+eus on input line 57.
+
+(/usr/share/texmf/tex/latex/amsfonts/ueus.fd
+File: ueus.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+euex on input line 57.
+
+(/usr/share/texmf/tex/latex/amsfonts/ueuex.fd
+File: ueuex.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    External font `euex7' loaded for size
+(Font)              <7> on input line 57.
+LaTeX Font Info:    External font `euex7' loaded for size
+(Font)              <5> on input line 57.
+ (./sections/bookcover.tex
+LaTeX Font Info:    Try loading font information for T1+phv on input line 47.
+
+(/usr/share/texmf/tex/latex/psnfss/t1phv.fd
+File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
+))
+Overfull \hbox (35.22636pt too wide) in paragraph at lines 57--57
+[] [] 
+ []
+
+[1
+
+\openout7 = `thesis.ist'.
+
+
+{/usr/share/texmf/dvips/config/pdftex.map}] [2]
+\openout2 = `sections/title.aux'.
+
+ (./sections/title.tex)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 67.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 67.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 67.
+LaTeX Font Info:    External font `euex7' loaded for size
+(Font)              <6> on input line 67.
+
+[1
+
+
+
+
+] (./sections/printedat.tex
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 19.
+(/usr/share/texmf/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 14--20
+
+ []
+
+) [2]
+\openout2 = `sections/signatures.aux'.
+
+ (./sections/signatures.tex
+<ps/upc_dept.jpg, id=566, 267.70436pt x 61.07324pt>
+File: ps/upc_dept.jpg Graphic file (type jpg)
+ <use ps/upc_dept.jpg>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 35.
+)
+[3
+
+
+
+ <./ps/upc_dept.jpg>] [4
+
+
+]
+\openout2 = `sections/tomy.aux'.
+
+ (./sections/tomy.tex
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+
+ []
+
+) [5
+
+
+
+] [6
+
+
+]
+PREPARING MINITOCS FROM thesis.toc
+\openout10 = `thesis.bmt'.
+
+Writing thesis.mtc1
+\openout10 = `thesis.mtc1'.
+
+\openout10 = `thesis.bmt'.
+
+Writing thesis.mtc2
+\openout10 = `thesis.mtc2'.
+
+\openout10 = `thesis.bmt'.
+
+Writing thesis.mtc3
+\openout10 = `thesis.mtc3'.
+
+\openout10 = `thesis.bmt'.
+
+Writing thesis.mtc4
+\openout10 = `thesis.mtc4'.
+
+\openout10 = `thesis.bmt'.
+
+Writing thesis.mtc5
+\openout10 = `thesis.mtc5'.
+
+\openout10 = `thesis.bmt'.
+
+Writing thesis.mtc6
+\openout10 = `thesis.mtc6'.
+
+\openout10 = `thesis.bmt'.
+
+Writing thesis.mtc7
+\openout10 = `thesis.mtc7'.
+
+\openout10 = `thesis.bmt'.
+
+Writing thesis.mtc8
+\openout10 = `thesis.mtc8'.
+
+Writing thesis.mtc9
+\openout10 = `thesis.mtc9'.
+
+Writing thesis.mtc10
+\openout10 = `thesis.mtc10'.
+
+Writing thesis.mtc11
+\openout10 = `thesis.mtc11'.
+
+Writing thesis.mtc12
+\openout10 = `thesis.mtc12'.
+
+Writing thesis.mtc13
+\openout10 = `thesis.mtc13'.
+
+Writing thesis.mtc14
+\openout10 = `thesis.mtc14'.
+
+Writing thesis.mtc15
+\openout10 = `thesis.mtc15'.
+
+\openout10 = `thesis.bmt'.
+
+Writing thesis.mtc16
+\openout10 = `thesis.mtc16'.
+
+\openout10 = `thesis.bmt'.
+
+Writing thesis.mtc17
+\openout10 = `thesis.mtc17'.
+
+\openout10 = `thesis.bmt'.
+
+Writing thesis.mtc18
+\openout10 = `thesis.mtc18'.
+
+\openout10 = `thesis.bmt'.
+
+Writing thesis.mtc19
+\openout10 = `thesis.mtc19'.
+
+\openout10 = `thesis.bmt'.
+
+Writing thesis.mtc20
+\openout10 = `thesis.mtc20'.
+
+\openout10 = `thesis.bmt'.
+
+Writing thesis.mtc21
+\openout10 = `thesis.mtc21'.
+
+\openout10 = `thesis.bmt'.
+
+Writing thesis.mtc22
+\openout10 = `thesis.mtc22'.
+
+Writing thesis.mtc23
+\openout10 = `thesis.mtc23'.
+
+\openout10 = `thesis.bmt'.
+
+\openout2 = `sections/preface.aux'.
+
+(./sections/preface.tex [7
+
+
+
+
+]
+<ps/signature_eblanco.png, id=600, 415.5525pt x 340.27126pt>
+File: ps/signature_eblanco.png Graphic file (type png)
+
+<use ps/signature_eblanco.png>) [8 <./ps/signature_eblanco.png>] (./thesis.toc
+[9
+
+
+
+] [10])
+\tf@toc=\write12
+\openout12 = `thesis.toc'.
+
+ [11] [12
+
+] (./thesis.lot)
+\tf@lot=\write13
+\openout13 = `thesis.lot'.
+
+ [13
+
+
+] [14
+
+] (./thesis.lof [15
+
+
+] [16])
+\tf@lof=\write14
+\openout14 = `thesis.lof'.
+
+ [17]
+[18
+
+]
+\openout2 = `sections/acknowledgements.aux'.
+
+ (./sections/acknowledgements.tex [19
+
+
+
+
+]) [20]
+\openout2 = `sections/theabstracts.aux'.
+
+ (./sections/theabstracts.tex
+[21
+
+
+
+
+
+] [22
+
+] [23
+
+
+] [24
+
+]) [25
+
+
+] [26
+
+
+] [1
+
+
+
+
+
+] [2]
+\openout2 = `sections/introduction.aux'.
+
+ (./sections/introduction.tex
+\textbf {C}hapter 1.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 7.
+(/usr/share/texmf/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 7.
+
+(/usr/share/texmf/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+) (./thesis.mtc9) [3
+
+
+
+] [4] [5]
+[6] [7]) [8]
+\openout2 = `sections/genomics.aux'.
+
+ (./sections/genomics.tex
+\textbf {C}hapter 2.
+(./thesis.mtc10) [9
+
+
+
+
+
+] [10] <ps/cell.png, id=1065, 918.43124pt x 866.23625pt>
+File: ps/cell.png Graphic file (type png)
+
+<use ps/cell.png>
+Underfull \vbox (badness 2302) has occurred while \output is active []
+
+ [11 <./ps/cell.png>] [12] <ps/proteinp.png, id=1087, 397.485pt x 371.7087pt>
+File: ps/proteinp.png Graphic file (type png)
+
+<use ps/proteinp.png>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13 <./ps/proteinp.png>] <ps/gcode.png, id=1097, 414.54875pt x 417.56pt>
+File: ps/gcode.png Graphic file (type png)
+
+<use ps/gcode.png> [14 <./ps/gcode.png>]
+<ps/chromo1.png, id=1110, 210.7875pt x 278.03876pt>
+File: ps/chromo1.png Graphic file (type png)
+ <use ps/chromo1.png>
+<ps/chromo2.png, id=1111, 135.50626pt x 279.0425pt>
+File: ps/chromo2.png Graphic file (type png)
+ <use ps/chromo2.png>
+<ps/chromo3.png, id=1112, 217.81375pt x 204.765pt>
+File: ps/chromo3.png Graphic file (type png)
+ <use ps/chromo3.png>
+[15] [16 <./ps/chromo1.png> <./ps/chromo2.png> <./ps/chromo3.png>]
+
+Package pdftex.def Warning: Option `bb' does not make sense,
+(pdftex.def)                using `viewport' instead on input line 435.
+
+<tables/gsizes.pdf, id=1142, 598.235pt x 845.1575pt>
+File: tables/gsizes.pdf Graphic file (type pdf)
+ <use tables/gsizes.pdf>
+[17
+
+ <./tables/gsizes.pdf>]
+<ps/gcompo1.png, id=1177, 518.93875pt x 470.75874pt>
+File: ps/gcompo1.png Graphic file (type png)
+ <use ps/gcompo1.png>
+<ps/gcompo2.png, id=1178, 592.2125pt x 379.4175pt>
+File: ps/gcompo2.png Graphic file (type png)
+ <use ps/gcompo2.png>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18 <./ps/gcompo1.png> <./ps/gcompo2.png>]
+<ps/gbgrowth.png, id=1197, 602.25pt x 570.13pt>
+File: ps/gbgrowth.png Graphic file (type png)
+ <use ps/gbgrowth.png>
+Overfull \vbox (6.3946pt too high) has occurred while \output is active []
+
+
+[19 <./ps/gbgrowth.png>] <ps/gbentry1.png, id=1226, 883.3pt x 643.40375pt>
+File: ps/gbentry1.png Graphic file (type png)
+
+<use ps/gbentry1.png> <ps/gbentry2.png, id=1227, 892.33376pt x 711.65875pt>
+File: ps/gbentry2.png Graphic file (type png)
+
+<use ps/gbentry2.png> <ps/gbentry3.png, id=1228, 785.93625pt x 464.73625pt>
+File: ps/gbentry3.png Graphic file (type png)
+
+<use ps/gbentry3.png> [20]
+
+LaTeX Warning: Text page 21 contains only floats.
+
+
+Underfull \vbox (badness 1436) has occurred while \output is active []
+
+ [21 <./ps/gbentry1.png> <./ps/gbentry2.png> <./ps/gbentry3.png>]
+<ps/gbrowsers1.png, id=1281, 622.325pt x 322.20375pt>
+File: ps/gbrowsers1.png Graphic file (type png)
+ <use ps/gbrowsers1.png>
+<ps/gbrowsers2.png, id=1282, 801.99625pt x 424.58624pt>
+File: ps/gbrowsers2.png Graphic file (type png)
+
+<use ps/gbrowsers2.png> [22]
+
+LaTeX Warning: Text page 23 contains only floats.
+
+[23 <./ps/gbrowsers1.png> <./ps/gbrowsers2.png>] [24]
+<ps/snp1.png, id=1337, 178.6675pt x 357.335pt>
+File: ps/snp1.png Graphic file (type png)
+ <use ps/snp1.png>
+<ps/snp2.png, id=1338, 177.66376pt x 316.18124pt>
+File: ps/snp2.png Graphic file (type png)
+ <use ps/snp2.png> [25 <./ps/snp1.png> <./ps/snp2.png>] (./sections/genomics.bb
+l [26] [27])) [28] [29
+
+
+
+]
+[30]
+\openout2 = `sections/algorithms.aux'.
+
+ (./sections/algorithms.tex
+\textbf {C}hapter 3.
+(./thesis.mtc11)
+Overfull \hbox (51.83629pt too wide) in paragraph at lines 10--26
+ [] 
+ []
+
+[31
+
+
+
+] [32] [33] [34]
+Overfull \vbox (5.75618pt too high) has occurred while \output is active []
+
+
+[35] <ps/homology.png, id=1571, 478.78876pt x 385.44pt>
+File: ps/homology.png Graphic file (type png)
+ <use ps/homology.png>
+[36 <./ps/homology.png>] [37]
+
+Package pdftex.def Warning: Option `bb' does not make sense,
+(pdftex.def)                using `viewport' instead on input line 376.
+
+<tables/code1.pdf, id=1607, 598.235pt x 845.1575pt>
+File: tables/code1.pdf Graphic file (type pdf)
+ <use tables/code1.pdf>
+Overfull \hbox (65.45047pt too wide) in paragraph at lines 376--377
+[][] 
+ []
+
+[38 <./tables/code1.pdf>]
+
+Package pdftex.def Warning: Option `bb' does not make sense,
+(pdftex.def)                using `viewport' instead on input line 411.
+
+<tables/code2.pdf, id=1635, 598.235pt x 845.1575pt>
+File: tables/code2.pdf Graphic file (type pdf)
+ <use tables/code2.pdf>
+Overfull \hbox (38.40575pt too wide) in paragraph at lines 411--412
+[][] 
+ []
+
+[39 <./tables/code2.pdf>]
+Overfull \hbox (0.7082pt too wide) in paragraph at lines 486--486
+ [] 
+ []
+
+[40] <ps/nw.png, id=1665, 333.245pt x 316.18124pt>
+File: ps/nw.png Graphic file (type png)
+ <use ps/nw.png> [41 <./ps/nw.png>] [42] [43
+
+] <ps/dp.png, id=1710, 494.84875pt x 487.8225pt>
+File: ps/dp.png Graphic file (type png)
+
+<use ps/dp.png> [44] [45 <./ps/dp.png>] [46]
+<ps/hir1.png, id=1742, 379.4175pt x 298.11375pt>
+File: ps/hir1.png Graphic file (type png)
+ <use ps/hir1.png>
+<ps/hir2.png, id=1743, 338.26375pt x 251.94125pt>
+File: ps/hir2.png Graphic file (type png)
+ <use ps/hir2.png>
+<ps/hir3.png, id=1744, 491.8375pt x 482.80376pt>
+File: ps/hir3.png Graphic file (type png)
+ <use ps/hir3.png> [47 <./ps/hir1.png> <./ps/hir2.png> <./ps/hir3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1116--1116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1116--1116
+
+ []
+
+[48]
+Underfull \hbox (badness 10000) in paragraph at lines 1213--1213
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [49]
+
+LaTeX Warning: Text page 50 contains only floats.
+
+[50]
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <14> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 1253.
+
+Underfull \vbox (badness 4024) has occurred while \output is active []
+
+ [51]
+[52]
+Overfull \hbox (5.27016pt too wide) detected at line 1384
+[][][][]
+ []
+
+[53] [54] [55] <ps/dp3.png, id=1863, 488.82625pt x 483.8075pt>
+File: ps/dp3.png Graphic file (type png)
+
+<use ps/dp3.png> [56
+
+ <./ps/dp3.png>] [57] [58]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [59]
+[60] [61] [62] [63] [64] [65]
+<ps/fasta.png, id=2010, 326.21875pt x 378.41376pt>
+File: ps/fasta.png Graphic file (type png)
+ <use ps/fasta.png> [66 <./ps/fasta.png>] <ps/blast.png, id=2031, 486.81876pt x
+ 736.7525pt>
+File: ps/blast.png Graphic file (type png)
+
+<use ps/blast.png> [67]
+Overfull \vbox (1.5878pt too high) has occurred while \output is active []
+
+
+[68 <./ps/blast.png>] <ps/3dcube.png, id=2061, 542.025pt x 438.63875pt>
+File: ps/3dcube.png Graphic file (type png)
+
+<use ps/3dcube.png> <ps/lipman0.png, id=2062, 687.56876pt x 359.3425pt>
+File: ps/lipman0.png Graphic file (type png)
+
+<use ps/lipman0.png> <ps/lipman1.png, id=2063, 283.0575pt x 219.82124pt>
+File: ps/lipman1.png Graphic file (type png)
+
+<use ps/lipman1.png>
+Overfull \hbox (7.5375pt too wide) in paragraph at lines 2396--2410
+ [] 
+ []
+
+[69] [70 <./ps/3dcube.png> <./ps/lipman0.png> <./ps/lipman1.png>]
+<ps/clustalwproc.png, id=2104, 683.55376pt x 1007.765pt>
+File: ps/clustalwproc.png Graphic file (type png)
+
+<use ps/clustalwproc.png> [71 <./ps/clustalwproc.png>] [72]
+<ps/enzyme1.png, id=2130, 170.6375pt x 106.3975pt>
+File: ps/enzyme1.png Graphic file (type png)
+ <use ps/enzyme1.png>
+<ps/enzyme2.png, id=2131, 172.645pt x 111.41624pt>
+File: ps/enzyme2.png Graphic file (type png)
+ <use ps/enzyme2.png>
+<ps/enzyme3.png, id=2132, 170.6375pt x 107.40125pt>
+File: ps/enzyme3.png Graphic file (type png)
+ <use ps/enzyme3.png>
+<ps/enzyme4.png, id=2133, 171.64125pt x 104.39pt>
+File: ps/enzyme4.png Graphic file (type png)
+ <use ps/enzyme4.png> [73
+
+ <./ps/enzyme1.png> <./ps/enzyme2.png> <./ps/enzyme3.png> <./ps/enzyme4.png>]
+Underfull \hbox (badness 1158) in paragraph at lines 2643--2645
+[]/bchr8t/For in-stance, this is an ex-am-ple of a map align-ment be-tween the 
+maps $/eurm10/A /eufm10/=
+ []
+
+<ps/map.png, id=2157, 617.30624pt x 179.67125pt>
+File: ps/map.png Graphic file (type png)
+ <use ps/map.png> [74] [75 <./ps/map.png>] <ps/dp4.png, id=2184, 708.6475pt x 3
+28.22626pt>
+File: ps/dp4.png Graphic file (type png)
+ <use ps/dp4.png>
+[76] [77 <./ps/dp4.png>] <ps/iprofile.png, id=2208, 667.49374pt x 459.7175pt>
+File: ps/iprofile.png Graphic file (type png)
+
+<use ps/iprofile.png> <ps/mI.png, id=2209, 341.275pt x 211.79124pt>
+File: ps/mI.png Graphic file (type png)
+
+<use ps/mI.png> [78 <./ps/iprofile.png> <./ps/mI.png>] [79]
+<ps/iprofiletwo.png, id=2237, 653.44125pt x 319.1925pt>
+File: ps/iprofiletwo.png Graphic file (type png)
+
+<use ps/iprofiletwo.png> <ps/Llist.png, id=2238, 644.4075pt x 338.26375pt>
+File: ps/Llist.png Graphic file (type png)
+
+<use ps/Llist.png> <ps/Rlist.png, id=2239, 643.40375pt x 345.29pt>
+File: ps/Rlist.png Graphic file (type png)
+
+<use ps/Rlist.png>
+Underfull \vbox (badness 2591) has occurred while \output is active []
+
+ [80 <./ps/iprofiletwo.png>] (./sections/algorithms.bbl [81 <./ps/Llist.png> <.
+/ps/Rlist.png>] [82] [83] [84])) [85] [86
+
+
+]
+\openout2 = `sections/genefinding.aux'.
+
+ (./sections/genefinding.tex
+\textbf {C}hapter 4.
+(./thesis.mtc12) [87
+
+
+
+
+] [88]
+<ps/genestruct.png, id=2316, 692.5875pt x 558.085pt>
+File: ps/genestruct.png Graphic file (type png)
+ <use ps/genestruct.png>
+[89 <./ps/genestruct.png>] <ps/alts1.png, id=2329, 633.36626pt x 354.32375pt>
+File: ps/alts1.png Graphic file (type png)
+
+<use ps/alts1.png> <ps/alts2.png, id=2330, 298.11375pt x 284.06125pt>
+File: ps/alts2.png Graphic file (type png)
+
+<use ps/alts2.png> [90] [91 <./ps/alts1.png> <./ps/alts2.png>]
+<ps/trans.png, id=2374, 449.68pt x 123.46124pt>
+File: ps/trans.png Graphic file (type png)
+ <use ps/trans.png> [92 <./ps/trans.png>] <ps/promoter.png, id=2402, 522.95375p
+t x 228.855pt>
+File: ps/promoter.png Graphic file (type png)
+
+<use ps/promoter.png>
+Underfull \vbox (badness 1163) has occurred while \output is active []
+
+ [93 <./ps/promoter.png>] <ps/nucleos1.png, id=2417, 434.62375pt x 94.3525pt>
+File: ps/nucleos1.png Graphic file (type png)
+
+<use ps/nucleos1.png> <ps/nucleos2.png, id=2418, 308.15125pt x 269.005pt>
+File: ps/nucleos2.png Graphic file (type png)
+
+<use ps/nucleos2.png> [94 <./ps/nucleos1.png> <./ps/nucleos2.png>]
+<ps/signals.png, id=2436, 637.38126pt x 468.75125pt>
+File: ps/signals.png Graphic file (type png)
+ <use ps/signals.png>
+<ps/exons.png, id=2437, 638.385pt x 469.755pt>
+File: ps/exons.png Graphic file (type png)
+ <use ps/exons.png>
+<ps/genes.png, id=2438, 926.46124pt x 325.215pt>
+File: ps/genes.png Graphic file (type png)
+ <use ps/genes.png> [95 <./ps/signals.png> <./ps/exons.png> <./ps/genes.png>] [
+96]
+<ps/sitealn.png, id=2499, 375.4025pt x 405.515pt>
+File: ps/sitealn.png Graphic file (type png)
+ <use ps/sitealn.png>
+<ps/seqlogo.png, id=2500, 546.04pt x 128.48pt>
+File: ps/seqlogo.png Graphic file (type png)
+ <use ps/seqlogo.png> [97]
+[98 <./ps/sitealn.png> <./ps/seqlogo.png>]
+<ps/pwm.png, id=2530, 291.0875pt x 303.1325pt>
+File: ps/pwm.png Graphic file (type png)
+ <use ps/pwm.png> [99 <./ps/pwm.png>] <ps/bitT.png, id=2549, 748.7975pt x 1003.
+75pt>
+File: ps/bitT.png Graphic file (type png)
+ <use ps/bitT.png> [100 <./ps/bitT.png>] [101] <ps/cusage.png, id=2586, 669.501
+25pt x 496.85625pt>
+File: ps/cusage.png Graphic file (type png)
+
+<use ps/cusage.png> [102 <./ps/cusage.png>]
+<ps/gff2aplot1.png, id=2607, 392.46625pt x 470.75874pt>
+File: ps/gff2aplot1.png Graphic file (type png)
+
+<use ps/gff2aplot1.png>
+<ps/gff2aplot2.png, id=2608, 304.13625pt x 466.74374pt>
+File: ps/gff2aplot2.png Graphic file (type png)
+
+<use ps/gff2aplot2.png> <ps/gff2aplot3.png, id=2609, 324.21124pt x 471.7625pt>
+File: ps/gff2aplot3.png Graphic file (type png)
+
+<use ps/gff2aplot3.png>
+LaTeX Font Info:    Font shape `T1/phv/b/it' in size <9> not available
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 905.
+ [103] [104 <./ps/gff2aplot1.png> <./ps/gff2aplot2.png> <./ps/gff2aplot3.png>] 
+<ps/phylo1.png, id=2658, 501.875pt x 473.77pt>
+File: ps/phylo1.png Graphic file (type png)
+
+<use ps/phylo1.png> <ps/phylo2.png, id=2659, 527.9725pt x 554.07pt>
+File: ps/phylo2.png Graphic file (type png)
+
+<use ps/phylo2.png> <ps/verde.png, id=2660, 583.17876pt x 546.04pt>
+File: ps/verde.png Graphic file (type png)
+
+<use ps/verde.png> <ps/ratio.png, id=2661, 584.1825pt x 547.04375pt>
+File: ps/ratio.png Graphic file (type png)
+
+<use ps/ratio.png>
+Overfull \hbox (155.35524pt too wide) in paragraph at lines 1001--1001
+[]|[]|  
+ []
+
+
+Overfull \vbox (207.21996pt too high) detected at line 1001
+ []
+
+<ps/rojo.png, id=2662, 584.1825pt x 545.03625pt>
+File: ps/rojo.png Graphic file (type png)
+ <use ps/rojo.png> [105 <./ps/phylo1.png> <./ps/phylo2.png>] [106 <./ps/verde.p
+ng> <./ps/ratio.png> <./ps/rojo.png>] [107]
+
+Package pdftex.def Warning: Option `bb' does not make sense,
+(pdftex.def)                using `viewport' instead on input line 1166.
+
+<tables/accuracy.pdf, id=2770, 598.235pt x 845.1575pt>
+File: tables/accuracy.pdf Graphic file (type pdf)
+
+<use tables/accuracy.pdf> [108] [109 <./tables/accuracy.pdf>]
+<ps/geneid1.png, id=2887, 582.175pt x 900.36375pt>
+File: ps/geneid1.png Graphic file (type png)
+ <use ps/geneid1.png>
+<ps/geneid2.png, id=2888, 795.97375pt x 544.0325pt>
+File: ps/geneid2.png Graphic file (type png)
+ <use ps/geneid2.png>
+[110 <./ps/geneid1.png> <./ps/geneid2.png>] [111]
+<ps/modules.png, id=2965, 690.58pt x 304.13625pt>
+File: ps/modules.png Graphic file (type png)
+ <use ps/modules.png> [112 <./ps/modules.png>] (./sections/genefinding.bbl
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [113]
+[114] [115] [116] [117] [118] [119] [120])) [121] [122
+
+
+] [123
+
+
+] [124]
+\openout2 = `sections/meta.aux'.
+
+
+(./sections/meta.tex
+\textbf {C}hapter 5.
+(./thesis.mtc13)
+Overfull \hbox (51.83629pt too wide) in paragraph at lines 10--29
+ [] 
+ []
+
+[125
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 36--41
+$[]$[][]
+ []
+
+<ps/hgenome.png, id=3124, 597.1911pt x 845.0772pt>
+File: ps/hgenome.png Graphic file (type png)
+ <use ps/hgenome.png>
+[126]
+
+LaTeX Warning: Text page 127 contains only floats.
+
+
+Overfull \vbox (0.9042pt too high) has occurred while \output is active []
+
+
+[127 <./ps/hgenome.png>] [128]
+<ps/dummy.png, id=3179, 672.5125pt x 664.4825pt>
+File: ps/dummy.png Graphic file (type png)
+ <use ps/dummy.png> [129
+
+]
+
+LaTeX Warning: Text page 130 contains only floats.
+
+
+Overfull \vbox (4.14824pt too high) has occurred while \output is active []
+
+
+[130 <./ps/dummy.png>] [131] <ps/prev.png, id=3223, 742.775pt x 464.73625pt>
+File: ps/prev.png Graphic file (type png)
+
+<use ps/prev.png> [132]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [133 <./ps/prev.png>] <ps/sparsem1.png, id=3249, 408.52625pt x 426.59375pt>
+File: ps/sparsem1.png Graphic file (type png)
+
+<use ps/sparsem1.png> <ps/sparsem2.png, id=3250, 409.53pt x 425.59pt>
+File: ps/sparsem2.png Graphic file (type png)
+
+<use ps/sparsem2.png> <ps/sparsem3.png, id=3251, 409.53pt x 433.62pt>
+File: ps/sparsem3.png Graphic file (type png)
+
+<use ps/sparsem3.png>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [134 <./ps/sparsem1.png> <./ps/sparsem2.png> <./ps/sparsem3.png>] [135]
+<ps/access.png, id=3275, 765.86125pt x 1047.915pt>
+File: ps/access.png Graphic file (type png)
+ <use ps/access.png> [136
+
+ <./ps/access.png>] [137] [138] [139]
+
+Package pdftex.def Warning: Option `bb' does not make sense,
+(pdftex.def)                using `viewport' instead on input line 809.
+
+<tables/maccuracy.pdf, id=3342, 598.235pt x 845.1575pt>
+File: tables/maccuracy.pdf Graphic file (type pdf)
+
+<use tables/maccuracy.pdf>
+
+LaTeX Warning: Float too large for page by 7.95183pt on input line 840.
+
+[140 <./tables/maccuracy.pdf>] <ps/abs.png, id=3376, 506.3718pt x 654.5253pt>
+File: ps/abs.png Graphic file (type png)
+
+<use ps/abs.png>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [141
+
+
+ <./ps/abs.png>]
+
+Package pdftex.def Warning: Option `bb' does not make sense,
+(pdftex.def)                using `viewport' instead on input line 916.
+
+<tables/maccuracy2.pdf, id=3384, 598.235pt x 845.1575pt>
+File: tables/maccuracy2.pdf Graphic file (type pdf)
+
+<use tables/maccuracy2.pdf> [142 <./tables/maccuracy2.pdf>]
+<ps/pspla.png, id=3423, 1127.21124pt x 767.86874pt>
+File: ps/pspla.png Graphic file (type png)
+ <use ps/pspla.png> [143 <./ps/pspla.png>] [144] <ps/testregionsS.png, id=3454,
+ 747.79375pt x 285.065pt>
+File: ps/testregionsS.png Graphic file (type png)
+
+<use ps/testregionsS.png>
+
+Package pdftex.def Warning: Option `bb' does not make sense,
+(pdftex.def)                using `viewport' instead on input line 1117.
+
+<tables/testregions.pdf, id=3455, 598.235pt x 845.1575pt>
+File: tables/testregions.pdf Graphic file (type pdf)
+
+<use tables/testregions.pdf>
+Underfull \vbox (badness 5985) has occurred while \output is active []
+
+ [145 <./ps/testregionsS.png>] [146 <./tables/testregions.pdf>]
+<ps/testpromoter.png, id=3497, 816.04875pt x 125.46875pt>
+File: ps/testpromoter.png Graphic file (type png)
+
+<use ps/testpromoter.png> [147 <./ps/testpromoter.png>]
+<ps/chronogram.png, id=3509, 705.63625pt x 379.4175pt>
+File: ps/chronogram.png Graphic file (type png)
+ <use ps/chronogram.png>
+[148 <./ps/chronogram.png>]
+
+Package pdftex.def Warning: Option `bb' does not make sense,
+(pdftex.def)                using `viewport' instead on input line 1275.
+
+<tables/testpromoter.pdf, id=3515, 598.235pt x 845.1575pt>
+File: tables/testpromoter.pdf Graphic file (type pdf)
+
+<use tables/testpromoter.pdf> [149 <./tables/testpromoter.pdf>]
+<ps/cisred.png, id=3553, 492.84125pt x 300.12125pt>
+File: ps/cisred.png Graphic file (type png)
+ <use ps/cisred.png>
+[150 <./ps/cisred.png>] <ps/gumbel1.png, id=3562, 746.79pt x 1004.75375pt>
+File: ps/gumbel1.png Graphic file (type png)
+
+<use ps/gumbel1.png> <ps/gumbel2.png, id=3563, 712.6625pt x 1011.78pt>
+File: ps/gumbel2.png Graphic file (type png)
+
+<use ps/gumbel2.png>
+
+Package pdftex.def Warning: Option `bb' does not make sense,
+(pdftex.def)                using `viewport' instead on input line 1481.
+
+<tables/ttr.pdf, id=3564, 598.235pt x 845.1575pt>
+File: tables/ttr.pdf Graphic file (type pdf)
+ <use tables/ttr.pdf>
+Underfull \vbox (badness 3354) has occurred while \output is active []
+
+ [151]
+[152 <./ps/gumbel1.png> <./ps/gumbel2.png>]
+<ps/ttr.png, id=3586, 336.25626pt x 165.61874pt>
+File: ps/ttr.png Graphic file (type png)
+ <use ps/ttr.png>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [153 <./tables/ttr.pdf>] [154 <./ps/ttr.png>]
+<ps/pwmsnew.png, id=3619, 509.905pt x 918.43124pt>
+File: ps/pwmsnew.png Graphic file (type png)
+ <use ps/pwmsnew.png>
+<ps/qmat1.png, id=3620, 752.8125pt x 1026.83624pt>
+File: ps/qmat1.png Graphic file (type png)
+ <use ps/qmat1.png>
+<ps/qmat2.png, id=3621, 748.7975pt x 1010.77625pt>
+File: ps/qmat2.png Graphic file (type png)
+ <use ps/qmat2.png> [155
+
+]
+
+LaTeX Warning: Text page 156 contains only floats.
+
+[156 <./ps/pwmsnew.png>] [157 <./ps/qmat1.png> <./ps/qmat2.png>]
+
+Package pdftex.def Warning: Option `bb' does not make sense,
+(pdftex.def)                using `viewport' instead on input line 1728.
+
+<tables/qvalue.pdf, id=3657, 598.235pt x 845.1575pt>
+File: tables/qvalue.pdf Graphic file (type pdf)
+ <use tables/qvalue.pdf>
+
+Package pdftex.def Warning: Option `bb' does not make sense,
+(pdftex.def)                using `viewport' instead on input line 1772.
+
+<tables/qvalue2.pdf, id=3659, 598.235pt x 845.1575pt>
+File: tables/qvalue2.pdf Graphic file (type pdf)
+ <use tables/qvalue2.pdf>
+[158 <./tables/qvalue.pdf>]
+
+Package pdftex.def Warning: Option `bb' does not make sense,
+(pdftex.def)                using `viewport' instead on input line 1823.
+
+<tables/qcolls.pdf, id=3693, 598.235pt x 845.1575pt>
+File: tables/qcolls.pdf Graphic file (type pdf)
+ <use tables/qcolls.pdf>
+[159 <./tables/qvalue2.pdf>] <ps/ttrc.png, id=3727, 1133.23375pt x 730.73pt>
+File: ps/ttrc.png Graphic file (type png)
+
+<use ps/ttrc.png> [160 <./tables/qcolls.pdf>] [161 <./ps/ttrc.png>]
+<ps/posterloc1.png, id=3781, 245.91875pt x 231.86626pt>
+File: ps/posterloc1.png Graphic file (type png)
+
+<use ps/posterloc1.png> <ps/posterloc2.png, id=3782, 255.95625pt x 230.8625pt>
+File: ps/posterloc2.png Graphic file (type png)
+
+<use ps/posterloc2.png> <ps/posterloc3.png, id=3783, 227.85126pt x 178.6675pt>
+File: ps/posterloc3.png Graphic file (type png)
+
+<use ps/posterloc3.png>
+<ps/gumbelloc1.png, id=3784, 760.8425pt x 1040.88875pt>
+File: ps/gumbelloc1.png Graphic file (type png)
+
+<use ps/gumbelloc1.png> <ps/gumbelloc2.png, id=3785, 688.5725pt x 969.6225pt>
+File: ps/gumbelloc2.png Graphic file (type png)
+
+<use ps/gumbelloc2.png> [162 <./ps/posterloc1.png> <./ps/posterloc2.png> <./ps/
+posterloc3.png>] [163 <./ps/gumbelloc1.png> <./ps/gumbelloc2.png>] [164]
+Underfull \vbox (badness 3354) has occurred while \output is active []
+
+ [165]
+(./sections/meta.bbl
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [166]
+[167] [168] [169])) [170]
+\openout2 = `sections/mmeta.aux'.
+
+ (./sections/mmeta.tex
+\textbf {C}hapter 6.
+(./thesis.mtc14) [171
+
+
+
+
+
+]
+Underfull \hbox (badness 3568) in paragraph at lines 37--45
+$[]$[][] /bchr8t/in
+ []
+
+[172] <ps/dmapping.png, id=3946, 599.23875pt x 349.305pt>
+File: ps/dmapping.png Graphic file (type png)
+
+<use ps/dmapping.png> [173 <./ps/dmapping.png>]
+<ps/oneline.png, id=3967, 1123.19624pt x 703.62875pt>
+File: ps/oneline.png Graphic file (type png)
+ <use ps/oneline.png>
+<ps/extended.png, id=3968, 1121.18875pt x 702.625pt>
+File: ps/extended.png Graphic file (type png)
+ <use ps/extended.png>
+[174 <./ps/oneline.png> <./ps/extended.png>]
+Underfull \hbox (badness 1552) in paragraph at lines 210--219
+/bchr8t/Let $/eurm10/M[]; M[]; [] ; M[]$ /bchr8t/be a set of TF-maps where each
+ map is de-noted as $/eurm10/M[] /eufm10/=
+ []
+
+[175] [176]
+Overfull \hbox (12.35977pt too wide) in paragraph at lines 384--388
+ [] 
+ []
+
+[177] <ps/mmads.png, id=4033, 555.07375pt x 970.62625pt>
+File: ps/mmads.png Graphic file (type png)
+ <use ps/mmads.png>
+Overfull \hbox (12.35977pt too wide) in paragraph at lines 521--525
+ [] 
+ []
+
+[178]
+
+LaTeX Warning: Text page 179 contains only floats.
+
+
+Overfull \vbox (5.02188pt too high) has occurred while \output is active []
+
+
+[179 <./ps/mmads.png>] [180]
+<ps/noncol.png, id=4060, 624.3325pt x 336.25626pt>
+File: ps/noncol.png Graphic file (type png)
+ <use ps/noncol.png> [181 <./ps/noncol.png>] <ps/areas.png, id=4069, 607.26875p
+t x 612.2875pt>
+File: ps/areas.png Graphic file (type png)
+
+<use ps/areas.png> [182 <./ps/areas.png>]
+Overfull \hbox (5.31033pt too wide) detected at line 696
+[]/eurm10/z /eufm10/= [] /eurm10/:[][]
+ []
+
+[183] <ps/ncparam.png, id=4099, 952.55875pt x 445.665pt>
+File: ps/ncparam.png Graphic file (type png)
+ <use ps/ncparam.png>
+<ps/testregions.png, id=4100, 743.77875pt x 739.76375pt>
+File: ps/testregions.png Graphic file (type png)
+
+<use ps/testregions.png>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [184 <./ps/ncparam.png>]
+
+Package pdftex.def Warning: Option `bb' does not make sense,
+(pdftex.def)                using `viewport' instead on input line 805.
+
+<tables/testregionsM.pdf, id=4107, 598.235pt x 845.1575pt>
+File: tables/testregionsM.pdf Graphic file (type pdf)
+
+<use tables/testregionsM.pdf> [185 <./ps/testregions.png>] [186 <./tables/testr
+egionsM.pdf>] <ps/a00.png, id=4162, 810.02625pt x 1019.81pt>
+File: ps/a00.png Graphic file (type png)
+ <use ps/a00.png>
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 928.
+
+[187]
+Underfull \vbox (badness 1371) has occurred while \output is active []
+
+ [188 <./ps/a00.png>] [189] <ps/MMP13.png, id=4209, 624.3325pt x 937.5025pt>
+File: ps/MMP13.png Graphic file (type png)
+
+<use ps/MMP13.png> [190]
+
+LaTeX Warning: Text page 191 contains only floats.
+
+[191 <./ps/MMP13.png>] <ps/mememma.png, id=4265, 702.625pt x 874.26625pt>
+File: ps/mememma.png Graphic file (type png)
+
+<use ps/mememma.png> (./sections/mmeta.bbl [192] [193 <./ps/mememma.png>]
+[194])) [195] [196
+
+
+]
+\openout2 = `sections/conclusions.aux'.
+
+ (./sections/conclusions.tex
+\textbf {C}hapter 7.
+[197
+
+
+
+
+]) [198] [199
+
+
+
+] [200]
+\openout2 = `sections/cv.aux'.
+
+ (./sections/cv.tex
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <30> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 1.
+LaTeX Font Info:    Try loading font information for TS1+bch on input line 45.
+
+(/usr/share/texmf/tex/latex/psnfss/ts1bch.fd
+File: ts1bch.fd 2001/06/04 font definitions for TS1/bch.
+) [201
+
+
+
+
+]
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 123.
+ [202] [203] [204]
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 236.
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--244
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--263
+
+ []
+
+[205]
+Underfull \hbox (badness 10000) in paragraph at lines 283--285
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--299
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--307
+
+ []
+
+[206]
+Underfull \hbox (badness 1087) in paragraph at lines 311--314
+[]/bchr8t/Participation in the EMBL course /bchri8t/Bio-in-for-ma-tics for com-
+pa-ra-tive and func-tional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--314
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--320
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 323--324
+
+ []
+
+) [207] [208
+
+
+]
+\openout2 = `sections/software.aux'.
+
+ (./sections/software.tex [209
+
+
+
+
+]) [210]
+\openout2 = `sections/publications.aux'.
+
+
+(./sections/publications.tex
+<papers/2006_PLOS_cover.jpg, id=4391, 56.21pt x 69.25874pt>
+File: papers/2006_PLOS_cover.jpg Graphic file (type jpg)
+
+<use papers/2006_PLOS_cover.jpg>
+Overfull \hbox (18.30952pt too wide) in paragraph at lines 10--11
+ [] 
+ []
+
+<papers/2006_NAR_cover.jpg, id=4392, 134.5025pt x 175.65625pt>
+File: papers/2006_NAR_cover.jpg Graphic file (type jpg)
+
+<use papers/2006_NAR_cover.jpg>
+Overfull \hbox (18.30952pt too wide) in paragraph at lines 17--18
+ [] 
+ []
+
+<papers/2004_EMBO_cover.jpg, id=4393, 117.43875pt x 151.56625pt>
+File: papers/2004_EMBO_cover.jpg Graphic file (type jpg)
+
+<use papers/2004_EMBO_cover.jpg>
+Overfull \hbox (18.30952pt too wide) in paragraph at lines 24--25
+ [] 
+ []
+
+<papers/2003_PNAS_cover.jpg, id=4394, 134.5025pt x 178.6675pt>
+File: papers/2003_PNAS_cover.jpg Graphic file (type jpg)
+
+<use papers/2003_PNAS_cover.jpg>
+Overfull \hbox (18.30952pt too wide) in paragraph at lines 31--32
+ [] 
+ []
+
+<papers/2000_GenRes_cover.jpg, id=4395, 96.36pt x 124.465pt>
+File: papers/2000_GenRes_cover.jpg Graphic file (type jpg)
+
+<use papers/2000_GenRes_cover.jpg>
+Overfull \hbox (18.30952pt too wide) in paragraph at lines 38--39
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [211
+
+
+
+
+
+ <./papers/2006_PLOS_cover.jpg> <./papers/2006_NAR_cover.jpg> <./papers/2004_EM
+BO_cover.jpg> <./papers/2003_PNAS_cover.jpg>]
+<papers/2005_Baxevanis_cover.jpg, id=4401, 100.375pt x 138.5175pt>
+File: papers/2005_Baxevanis_cover.jpg Graphic file (type jpg)
+
+<use papers/2005_Baxevanis_cover.jpg>
+Overfull \hbox (18.30952pt too wide) in paragraph at lines 49--50
+ [] 
+ []
+
+<papers/2002_Baxevanis_cover.jpg, id=4402, 100.375pt x 136.51pt>
+File: papers/2002_Baxevanis_cover.jpg Graphic file (type jpg)
+
+<use papers/2002_Baxevanis_cover.jpg>
+Overfull \hbox (18.30952pt too wide) in paragraph at lines 58--59
+ [] 
+ []
+
+[212 <./papers/2000_GenRes_cover.jpg> <./papers/2005_Baxevanis_cover.jpg> <./pa
+pers/2002_Baxevanis_cover.jpg>]) [213] [214
+
+
+]
+\openout2 = `sections/fpublications.aux'.
+
+ (./sections/fpublications.tex
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <18> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 7.
+
+[215
+
+
+
+
+] <papers/2006_PLOS.pdf, id=4429, page=1, 596.19945pt x 785.92223pt>
+File: papers/2006_PLOS.pdf Graphic file (type pdf)
+
+<use papers/2006_PLOS.pdf, page 1>
+File: papers/2006_PLOS.pdf Graphic file (type pdf)
+ <use papers/2006_PLOS.pdf, page 1>
+File: papers/2006_PLOS.pdf Graphic file (type pdf)
+
+<use papers/2006_PLOS.pdf, page 1>
+File: papers/2006_PLOS.pdf Graphic file (type pdf)
+ <use papers/2006_PLOS.pdf, page 1> [216
+
+ <./papers/2006_PLOS.pdf>] [217]
+<papers/2006_NAR.pdf, id=4477, page=1, 614.295pt x 796.9775pt>
+File: papers/2006_NAR.pdf Graphic file (type pdf)
+
+<use papers/2006_NAR.pdf, page 1>
+File: papers/2006_NAR.pdf Graphic file (type pdf)
+ <use papers/2006_NAR.pdf, page 1>
+File: papers/2006_NAR.pdf Graphic file (type pdf)
+
+<use papers/2006_NAR.pdf, page 1>
+! pdfTeX warning (ext4): destination with the same identifier (name{pap:abs.1})
+ has been already used, duplicate ignored
+<recently read> fit
+                   
+l.33              {width=.95\linewidth}{2006_NAR}
+                                                  % NAR
+File: papers/2006_NAR.pdf Graphic file (type pdf)
+
+<use papers/2006_NAR.pdf, page 1> [218
+
+ <./papers/2006_NAR.pdf>] [219]
+<papers/2004_EMBO.pdf, id=4516, page=1, 597.23125pt x 784.9325pt>
+File: papers/2004_EMBO.pdf Graphic file (type pdf)
+
+<use papers/2004_EMBO.pdf, page 1>
+File: papers/2004_EMBO.pdf Graphic file (type pdf)
+ <use papers/2004_EMBO.pdf, page 1>
+File: papers/2004_EMBO.pdf Graphic file (type pdf)
+
+<use papers/2004_EMBO.pdf, page 1>
+! pdfTeX warning (ext4): destination with the same identifier (name{pap:abs.1})
+ has been already used, duplicate ignored
+<recently read> fit
+                   
+l.43              {width=.95\linewidth}{2004_EMBO}
+                                                   % EMBO
+File: papers/2004_EMBO.pdf Graphic file (type pdf)
+
+<use papers/2004_EMBO.pdf, page 1> [220
+
+ <./papers/2004_EMBO.pdf>] [221]
+<papers/2003_PNAS.pdf, id=4565, page=1, 598.235pt x 788.9475pt>
+File: papers/2003_PNAS.pdf Graphic file (type pdf)
+
+<use papers/2003_PNAS.pdf, page 1>
+File: papers/2003_PNAS.pdf Graphic file (type pdf)
+ <use papers/2003_PNAS.pdf, page 1>
+File: papers/2003_PNAS.pdf Graphic file (type pdf)
+
+<use papers/2003_PNAS.pdf, page 1>
+! pdfTeX warning (ext4): destination with the same identifier (name{pap:abs.1})
+ has been already used, duplicate ignored
+<recently read> fit
+                   
+l.53              {width=.95\linewidth}{2003_PNAS}
+                                                   % PNAS
+File: papers/2003_PNAS.pdf Graphic file (type pdf)
+
+<use papers/2003_PNAS.pdf, page 1> [222
+
+ <./papers/2003_PNAS.pdf>] [223]
+<papers/2000_GenRes.pdf, id=4612, page=1, 614.295pt x 794.97pt>
+File: papers/2000_GenRes.pdf Graphic file (type pdf)
+
+<use papers/2000_GenRes.pdf, page 1>
+File: papers/2000_GenRes.pdf Graphic file (type pdf)
+ <use papers/2000_GenRes.pdf, page 1>
+File: papers/2000_GenRes.pdf Graphic file (type pdf)
+
+<use papers/2000_GenRes.pdf, page 1>
+! pdfTeX warning (ext4): destination with the same identifier (name{pap:abs.1})
+ has been already used, duplicate ignored
+<recently read> fit
+                   
+l.63 ...        {width=.95\linewidth}{2000_GenRes}
+                                                   % GR
+File: papers/2000_GenRes.pdf Graphic file (type pdf)
+
+<use papers/2000_GenRes.pdf, page 1> [224
+
+ <./papers/2000_GenRes.pdf>] [225]
+<papers/2005_Baxevanis.pdf, id=4660, page=3, 794.97pt x 1228.59pt>
+File: papers/2005_Baxevanis.pdf Graphic file (type pdf)
+
+<use papers/2005_Baxevanis.pdf, page 3>
+File: papers/2005_Baxevanis.pdf Graphic file (type pdf)
+
+<use papers/2005_Baxevanis.pdf, page 3>
+File: papers/2005_Baxevanis.pdf Graphic file (type pdf)
+
+<use papers/2005_Baxevanis.pdf, page 3>
+File: papers/2005_Baxevanis.pdf Graphic file (type pdf)
+
+<use papers/2005_Baxevanis.pdf, page 3> [226
+
+ <./papers/2005_Baxevanis.pdf>]
+[227] <papers/2002_Baxevanis.pdf, id=5077, page=1, 596.58884pt x 804.00375pt>
+File: papers/2002_Baxevanis.pdf Graphic file (type pdf)
+
+<use papers/2002_Baxevanis.pdf, page 1>
+File: papers/2002_Baxevanis.pdf Graphic file (type pdf)
+
+<use papers/2002_Baxevanis.pdf, page 1>
+File: papers/2002_Baxevanis.pdf Graphic file (type pdf)
+
+<use papers/2002_Baxevanis.pdf, page 1>
+! pdfTeX warning (ext4): destination with the same identifier (name{pap:abs.1})
+ has been already used, duplicate ignored
+<recently read> fit
+                   
+l.83 ...     {width=.95\linewidth}{2002_Baxevanis}
+                                                   % BOOK1
+File: papers/2002_Baxevanis.pdf Graphic file (type pdf)
+
+<use papers/2002_Baxevanis.pdf, page 1> [228
+
+ <./papers/2002_Baxevanis.pdf>])
+\openout2 = `sections/posters.aux'.
+
+
+(./sections/posters.tex [229
+
+
+
+
+
+]
+<ps/CSHL_2005.png, id=5091, 598.235pt x 845.1575pt>
+File: ps/CSHL_2005.png Graphic file (type png)
+ <use ps/CSHL_2005.png>
+[230 <./ps/CSHL_2005.png>] [231]
+<ps/CSHL_2004.png, id=5102, 598.235pt x 845.1575pt>
+File: ps/CSHL_2004.png Graphic file (type png)
+ <use ps/CSHL_2004.png>
+[232 <./ps/CSHL_2004.png>] [233]
+<ps/RECOMB_2003.png, id=5112, 598.235pt x 845.1575pt>
+File: ps/RECOMB_2003.png Graphic file (type png)
+ <use ps/RECOMB_2003.png>
+[234 <./ps/RECOMB_2003.png>] [235]
+<ps/ISMB_2001.png, id=5122, 598.235pt x 845.1575pt>
+File: ps/ISMB_2001.png Graphic file (type png)
+ <use ps/ISMB_2001.png>)
+[236 <./ps/ISMB_2001.png>]
+\openout2 = `sections/miscellanea.aux'.
+
+ (./sections/miscellanea.tex
+Overfull \vbox (1.76361pt too high) has occurred while \output is active []
+
+
+[237
+
+
+
+
+
+]
+LaTeX Font Info:    Calculating math sizes for size <18> on input line 78.
+
+
+LaTeX Font Warning: Font shape `U/eur/m/n' in size <18> not available
+(Font)              size <17.28> substituted on input line 78.
+
+
+LaTeX Font Warning: Font shape `U/eur/m/n' in size <12.59995> not available
+(Font)              size <12> substituted on input line 78.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <18> not available
+(Font)              size <17.28> substituted on input line 78.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <12.59995> not available
+(Font)              size <12> substituted on input line 78.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <18> on input line 78.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12.59995> on input line 78.
+
+LaTeX Font Warning: Font shape `U/euf/m/n' in size <18> not available
+(Font)              size <17.28> substituted on input line 78.
+
+
+LaTeX Font Warning: Font shape `U/euf/m/n' in size <12.59995> not available
+(Font)              size <12> substituted on input line 78.
+
+
+LaTeX Font Warning: Font shape `U/eus/m/n' in size <18> not available
+(Font)              size <17.28> substituted on input line 78.
+
+
+LaTeX Font Warning: Font shape `U/eus/m/n' in size <12.59995> not available
+(Font)              size <12> substituted on input line 78.
+
+
+LaTeX Font Warning: Font shape `U/euex/m/n' in size <18> not available
+(Font)              size <17.28> substituted on input line 78.
+
+
+LaTeX Font Warning: Font shape `U/euex/m/n' in size <12.59995> not available
+(Font)              size <12> substituted on input line 78.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <18> not available
+(Font)              size <17.28> substituted on input line 78.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <12.59995> not available
+(Font)              size <12> substituted on input line 78.
+
+[238] (./sections/miscellanea.bbl)) [239] [240
+
+
+] (./thesis.wln
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+
+ []
+
+[241
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+
+ []
+
+[242]
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--93
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+
+ []
+
+[243]
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--123
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+
+ []
+
+) [244] (./thesis.ind [245
+
+
+] [246] [247] [248])
+\openout2 = `sections/notes.aux'.
+
+ (./sections/notes.tex
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+[249
+
+
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+[250]
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+[251]
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+[252]
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+[253])
+\openout2 = `sections/series.aux'.
+
+ (./sections/series.tex
+Overfull \hbox (25.45062pt too wide) in paragraph at lines 14--52
+[][] 
+ []
+
+) [254
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 230--230
+
+ []
+
+[255
+
+] (./sections/bookback.tex (./sections/abstract.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--25
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 27--37
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <20.74> on input line 37.
+)
+Overfull \hbox (63.67912pt too wide) in paragraph at lines 230--231
+[] [] 
+ []
+
+[256] (./thesis.aux (./sections/title.aux) (./sections/signatures.aux)
+(./sections/tomy.aux) (./sections/preface.aux) (./sections/acknowledgements.aux
+) (./sections/theabstracts.aux) (./sections/introduction.aux)
+(./sections/genomics.aux) (./sections/algorithms.aux)
+(./sections/genefinding.aux) (./sections/meta.aux) (./sections/mmeta.aux)
+(./sections/conclusions.aux) (./sections/cv.aux) (./sections/software.aux)
+(./sections/publications.aux) (./sections/fpublications.aux)
+(./sections/posters.aux) (./sections/miscellanea.aux) (./sections/notes.aux)
+(./sections/series.aux))
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.72pt have occurred.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(\end occurred inside a group at level 1) 
+Here is how much of TeX's memory you used:
+ 10542 strings out of 95437
+ 145315 string characters out of 1188125
+ 232026 words of memory out of 1000001
+ 11780 multiletter control sequences out of 10000+50000
+ 202323 words of font info for 193 fonts, out of 500000 for 1000
+ 36 hyphenation exceptions out of 1000
+ 41i,21n,45p,788b,1592s stack positions out of 1500i,500n,5000p,200000b,5000s
+ 5531 PDF objects out of 300000
+ 1126 named destinations out of 131072
+ 2451 words of extra memory for PDF output out of 65536
+
+Warning: /usr/bin/pdflatex (file mtsy.pfb): cannot open Type 1 font file for re
+ading
+{/usr/share/texmf/dvips/psnfss/8r.enc}</usr/share/texmf/fonts/type1/bitstrea/ch
+arter/bchr8a.pfb>{/usr/share/texmf/dvips/tetex/0ef0afca.enc}</usr/share/texmf/f
+onts/type1/bluesky/cm/cmcsc10.pfb>{/usr/share/texmf/dvips/tetex/f7b6d320.enc}</
+usr/share/texmf/fonts/type1/bluesky/cm/cmr10.pfb></usr/share/texmf/fonts/type1/
+bluesky/cm/cmbx10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmex10.pfb></usr
+/share/texmf/fonts/type1/bluesky/euler/eufm7.pfb></usr/share/texmf/fonts/type1/
+bluesky/euler/eurm7.pfb></usr/share/texmf/fonts/type1/bluesky/euler/eufm5.pfb>{
+/usr/share/texmf/dvips/tetex/bbad153f.enc}</usr/share/texmf/fonts/type1/bluesky
+/cm/cmsy5.pfb>{/usr/share/texmf/dvips/tetex/aae443f0.enc}</usr/share/texmf/font
+s/type1/bluesky/cm/cmmi10.pfb></usr/share/texmf/fonts/type1/bluesky/euler/eusm7
+.pfb></usr/share/texmf/fonts/type1/bluesky/euler/eusm10.pfb></usr/share/texmf/f
+onts/type1/bluesky/euler/eurm10.pfb></usr/share/texmf/fonts/type1/bluesky/euler
+/eufm10.pfb></usr/share/texmf/fonts/type1/bluesky/euler/euex10.pfb></usr/share/
+texmf/fonts/type1/bluesky/euler/eurm7.pfb></usr/share/texmf/fonts/type1/bluesky
+/euler/eurm5.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy10.pfb></usr/shar
+e/texmf/fonts/type1/bluesky/euler/eusm10.pfb></usr/share/texmf/fonts/type1/blue
+sky/cm/cmsy7.pfb></usr/share/texmf/fonts/type1/bluesky/euler/eurm7.pfb></usr/sh
+are/texmf/fonts/type1/bluesky/euler/eufm7.pfb></usr/share/texmf/fonts/type1/bit
+strea/charter/bchri8a.pfb></usr/share/texmf/fonts/type1/bluesky/euler/eufm10.pf
+b></usr/share/texmf/fonts/type1/bluesky/euler/eurm10.pfb></usr/share/texmf/font
+s/type1/bitstrea/charter/bchbi8a.pfb></usr/share/texmf/fonts/type1/bluesky/cm/c
+msy9.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy6.pfb></usr/share/texmf/f
+onts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texmf/fonts/type1/bitstrea/c
+harter/bchr8a.pfb>
+Output written on thesis.pdf (284 pages, 13913662 bytes).

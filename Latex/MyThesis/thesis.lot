@@ -1,0 +1,74 @@
+\select@language {english}
+\gdef \the@ipfilectr {@-1}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-2}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-3}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-4}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-5}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-6}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-7}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Introduction}{3}{chapter.1}
+\contentsline {xpart}{Preliminaries}{3}{part.1}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-8}
+\addvspace {10\p@ }
+\contentsline {xchapter}{The post-genomic era}{9}{chapter.2}
+\contentsline {table}{\numberline {2.1}{\ignorespaces Comparison of the sizes of several eukaryotic genomes}}{17}{table.2.1}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-9}
+\addvspace {10\p@ }
+\contentsline {xchapter}{The golden age of sequence analysis}{31}{chapter.3}
+\contentsline {table}{\numberline {3.1}{\ignorespaces The IUPAC extended genetic alphabet}}{38}{table.3.1}
+\contentsline {table}{\numberline {3.2}{\ignorespaces The amino acid alphabet}}{39}{table.3.2}
+\contentsline {xpart}{State of the Art}{31}{part.2}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-10}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Computational Gene and Promoter Characterization}{87}{chapter.4}
+\contentsline {table}{\numberline {4.1}{\ignorespaces The common accuracy measures in sequence analysis}}{109}{table.4.1}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-11}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Meta-alignment of Biological Sequences}{125}{chapter.5}
+\contentsline {table}{\numberline {5.1}{\ignorespaces TF-map alignment accuracy results on the \textsc {HR set}}}{140}{table.5.1}
+\contentsline {table}{\numberline {5.2}{\ignorespaces BLASTN accuracy results on the \textsc {HR set}}}{142}{table.5.2}
+\contentsline {table}{\numberline {5.3}{\ignorespaces TF-map alignment results on several genomic samples.}}{146}{table.5.3}
+\contentsline {table}{\numberline {5.4}{\ignorespaces Promoter identification with human-chicken TF-map alignments}}{149}{table.5.4}
+\contentsline {table}{\numberline {5.5}{\ignorespaces Reconstruction of the TTR gene promoter}}{153}{table.5.5}
+\contentsline {table}{\numberline {5.6}{\ignorespaces $Q$-value and PWM matrix specificity}}{158}{table.5.6}
+\contentsline {table}{\numberline {5.7}{\ignorespaces Evolution of the matrix specificity}}{159}{table.5.7}
+\contentsline {table}{\numberline {5.8}{\ignorespaces \textsc {\textsf {Jaspar}} and \textsc {\textsf {Transfac}} specific subsets}}{160}{table.5.8}
+\contentsline {xpart}{Meta-Alignment of Sequences}{125}{part.3}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-12}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Multiple Non-Collinear TF-map Alignment}{171}{chapter.6}
+\contentsline {table}{\numberline {6.1}{\ignorespaces Results when distinguishing promoters with MMAs}}{186}{table.6.1}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-13}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Conclusions}{197}{chapter.7}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-14}
+\contentsline {xpart}{\textbf {A}ppendices}{201}{part.4}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-15}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-16}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-17}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-18}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-19}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-20}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-21}
+\gdef \the@ipfilectr {}

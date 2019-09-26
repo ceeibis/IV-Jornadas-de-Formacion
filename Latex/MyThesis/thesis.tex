@@ -1,0 +1,241 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%                                                                          %%%
+%%%      PhD Thesis LaTeX TEMPLATE at Genome BioInformatics Laboratory       %%%
+%%%                                                                          %%%
+%%%     --- thesis.tex: Main LaTeX file defining document structure ---      %%%
+%%%                                                                          %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%                                                                          %%%
+%%%      CopyLeft 2004 and beyond, by Josep F. Abril - jabril@imim.es        %%%
+%%%    Adapted and improved in 2006 by Enrique Blanco - eblanco@imim.es      %%%
+%%%                                                                          %%%
+%%%    This thesis template has been adapted from Sergi Castellano and       %%%
+%%%    Genis Parra templates (2004),  which, in turn, largerly derived       %%%
+%%%    from Robert Castelo and Sergio Mendoza PhD thesis templates (2002).   %%%
+%%%                                                                          %%%
+%%%                   Under GNU/GPL copyleft license                         %%%
+%%%                                                                          %%%
+%%%              Questions and suggestions are WELCOMED !!!                  %%%
+%%%                  FEEL FREE TO USE AND IMPROVE IT !!!                     %%%
+%%%                                                                          %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%% Formatting: Defining document layout (draft/final/press) %%%
+
+\input{formatting}
+
+%%% Preamble: LaTeX parameters and extensions %%%
+
+\usepackage{mythesis} % Style file for this template mythesis.sty
+
+%%% Body: actual text with some control commands %%%
+% The whole writing starts here divided into
+%   frontmatter, mainmatter and backmatter.
+% Each \include command searches for a .tex file in a directory
+
+\begin{document}
+
+%%% FRONTMATTER %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\frontmatter
+% NOTE (1 of 3): Explicit numbering style definition to ensure
+% mkindex/hyperref to link pages ok (and avoiding duplicate labels...)
+\pagenumbering{alph}
+
+\ifthenelse{\boolean{DRAFTflg}}% 
+           {\layout}% Shows document layout
+           {}% Layout OFF
+
+%%% COVER PAGE
+    \thispagestyle{empty}%
+    \ifthenelse{\boolean{FINALflg}}%
+               {\makebgpage{sections/bookcover}{2.5}%
+                \newpage%
+                \ \thispagestyle{empty}%\clearemptydoublepage
+                \newpage%
+               }{}%
+
+% NOTE (2 of 3): Explicit numbering style definition to ensure
+% mkindex/hyperref to link pages ok (and avoiding duplicate labels...)
+\pagenumbering{roman}
+
+%%% Title page and related pages
+
+    \include{sections/title}        % Thesis title
+    \maketitle                      % Print thesis title
+
+{   % This version printing information
+    \thispagestyle{empty}
+    \input{sections/printedat}      % 'Printed at' information 
+    \clearemptydoublepage
+}   % End printing information
+
+    \include{sections/signatures}   % Tutor's signature (yours too!)
+    \clearemptydoublepage
+    \include{sections/tomy}         % Dedicatory
+    \clearemptydoublepage
+
+%%% Table Of Contents: DO NOT MOVE MINITOC FROM HERE
+    \dominitoc[c]
+    \nomtcrule
+
+    \include{sections/preface}      % Preface
+    \clearemptydoublepage
+{
+   % Set 'parskip' for a more compact index layout
+    \setlength{\parskip}{0.4ex plus0.2ex minus0.2ex}
+
+    \tableofcontents               % Table Of Content (TOC)
+    \addstarredchapter{Contents}
+    \clearemptydoublepage
+
+    \listoftables                  % List of Tables (LOT)
+    \addstarredchapter{List of Tables}
+    \clearemptydoublepage
+
+    \listoffigures                 % List of Figures (LOF)
+    \addstarredchapter{List of Figures}
+    \clearemptydoublepage
+} % End TOCs
+
+%%% Acknows, comments and abstracts
+
+        \include{sections/acknowledgements}  % Say thanks here!
+        \clearemptydoublepage
+        \include{sections/theabstracts}      % Sum it all up!
+        \clearemptydoublepage
+  \thispagestyle{empty}\clearemptydoublepage % leaving an empty sheet between front and main 
+  \thispagestyle{empty}\clearemptydoublepage
+
+%%% MAINMATTER %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\mainmatter
+% NOTE (3 of 3): Explicit numbering style definition to ensure
+% mkindex/hyperref to link pages ok (and avoiding duplicate labels...)
+\pagenumbering{arabic}
+
+%BIBLIO in blue
+\renewcommand{\bibname}{\textcolor{blue}{Bibliography}}
+
+%%% BLOCK 1
+\partblue[Preliminaries]{\textbf{P}reliminaries}
+
+    \include{sections/introduction}    % Thesis Project Management
+    \clearemptydoublepage
+
+    \include{sections/genomics}        % Introduction about biology and bioinformatics
+    \clearemptydoublepage
+
+%%% BLOCK 2
+\partorange[State of the Art]{\textbf{S}tate of the Art}
+
+    \include{sections/algorithms}  % Classical sequence alignment bibliography
+    \clearemptydoublepage
+
+    \include{sections/genefinding} % Gene-finding and promoter characterization
+    \clearemptydoublepage
+
+%%% BLOCK 3
+\partgreen[Meta-Alignment of Sequences]{\textbf{M}eta-Alignment of Sequences}
+
+    \include{sections/meta}  % TF-map alignment 
+    \clearemptydoublepage
+
+    \include{sections/mmeta} % Multiple TF-map alignment
+    \clearemptydoublepage
+
+    \include{sections/conclusions}     % Your contribution in short points
+    \clearemptydoublepage
+
+    %% Still do not understand quite well why this is not placed properly
+    %% between sections and appendices. The hack here is pretty simple
+    %% and seems to work, just place those commands before the last section
+    %% include.
+    %\addtocontents{toc}{\protect\clearpage}%
+    %\addtocontents{toc}{\protect\ \protect\vskip 5ex}%
+    %\addtocontents{toc}{\protect\noindent%\hspace*{\protect\fill}%
+    %                    {APPENDICES}}%
+    %\addtocontents{toc}{\protect\vskip 3ex}%
+    %%% the following trick seems to fix the above reported behaviour
+    %\thispagestyle{empty}
+    %\clearemptydoublepage
+	%\chapter*{\textcolor{blue}{APPENDICES}}    
+
+%%% BLOCK 4    
+\partred{\textbf{A}ppendices}
+    \thispagestyle{empty}
+    \clearemptydoublepage
+
+%%% APENDICES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\appendix % Start appendices here %
+\setcounter{chapter}{0}
+
+    \include{sections/cv}              % Your curriculum vitae
+    \clearemptydoublepage
+
+    \include{sections/software}        % Software and databases webs
+    \clearemptydoublepage
+
+    \include{sections/publications}    % List of articles, books and posters
+    \clearemptydoublepage
+
+    \include{sections/fpublications}   % Full articles and chapter books
+    \clearemptydoublepage
+
+    \include{sections/posters}         % Full posters
+    \clearemptydoublepage
+
+    \include{sections/miscellanea}     % Technical stuff about LaTeX
+    \clearemptydoublepage              % Make others' life easier by sharing!!!
+
+%%% BACKMATTER %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\backmatter
+
+%%% Web Site definitions
+    \phantomsection % fixes the link anchor
+    \renewcommand{\glossaryname}{WebSite References}%
+    \renewcommand{\glossarypreamble}%
+                 {\label{sec:webrefs}%
+                  \addappendix{\glossaryname}%
+                 }% glossarypreamble
+    \renewcommand{\glossarypostamble}{}%
+    \renewcommand{\gloitem}[1]{\item[\avantgarbold{}#1]\mbox{}\par}
+    \printweblink                          % Print URLs Index
+    \clearemptydoublepage
+
+%%% Subject Index
+    \renewcommand{\indexname}{Index}%
+    \phantomsection % fixes the link anchor
+    \addappendix{\indexname}%
+    \printindex  % Print Subject Index
+    \clearemptydoublepage
+
+%%% CLOSING NICETIES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+    \phantomsection % fixes the link anchor
+    \include{sections/notes}               % Courtesy blank pages
+
+    \include{sections/series}              % Thesis series in the lab
+
+%% BACK COVER
+    \ifthenelse{\boolean{FINALflg}}%
+               {\newpage%
+                \pagestyle{empty}\hspace{1ex}\\%
+                \newpage%
+                \thispagestyle{empty}%
+                \makebgpage{sections/bookback}{1.5}%
+               }{}% 
+
+\end{document}
+
+%%% Congratulations, you made it!!! Look for a postdoc now!!!
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%        1         2         3         4         5         6         7         8
+%2345678901234567890123456789012345678901234567890123456789012345678901234567890
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% EOF %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

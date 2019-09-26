@@ -1,0 +1,4 @@
+pdftotext thesis.press.pdf
+perl -ne 'BEGIN { $L = ""; } chomp; $L.=" ".$_; END { $L =~ s/[\,\;\.\(\)\{\}\[\]]|\-\-\-?/ /og; print join("\n", (split /\s+/o, $L)),"\n"; }' docbuilds/thesis.press.txt | wc
+perl -ne 'BEGIN { $L = ""; } chomp; $L.=" ".$_; END { $L =~ s/[\,\;\.\(\)\{\}\[\]]|\-\-\-?/ /og; print join("\n", (split /\s+/o, $L)),"\n"; }' docbuilds/thesis.press.txt | sort | uniq -c | sort -nr | wc
+perl -ne 'BEGIN { $L = ""; } chomp; $L.=" ".$_; END { $L =~ s/[\,\;\.\(\)\{\}\[\]]|\-\-\-?/ /og; print join("\n", (split /\s+/o, $L)),"\n"; }' docbuilds/thesis.press.txt | sort | uniq -c | sort -n

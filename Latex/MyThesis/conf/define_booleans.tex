@@ -1,0 +1,37 @@
+%%%
+%%%  $Id: define_booleans.tex 11 2005-03-29 00:58:58Z jabril $
+%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Initializing boolean switches %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% To define optional features (such draft/final,ps/pdf,...)
+
+\usepackage{ifthen}
+
+
+%%% Boolean variables for switching on/off document elements/features
+
+% pdflatex (PDF) / latex (PS) -> default PS
+\newboolean{PDFflg}    \setboolean{PDFflg}{false}
+% draft -> figures not included, framed document elements
+\newboolean{DRAFTflg}  \setboolean{DRAFTflg}{false}
+% proof -> figures included, but frames kept 
+\newboolean{PROOFflg}  \setboolean{PROOFflg}{false}
+% final -> links in blue, covers included, no frames. FINAL PDF
+\newboolean{FINALflg}  \setboolean{FINALflg}{false}
+% press -> links in black, covers not included, no frames. FINAL PDF
+\newboolean{PRESSflg}  \setboolean{PRESSflg}{false}
+% press -> final cover pdf (as another pdf document)
+\newboolean{COVERflg}  \setboolean{COVERflg}{false}
+% show frames and other hidden elements/features (DRAFT/PROOF)
+\newboolean{LAYOUTflg} \setboolean{LAYOUTflg}{false}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Defining document page lengths %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newlength{\thesisWidth}  \setlength{\thesisWidth} {170mm}% 6.69375inch
+\newlength{\thesisHeight} \setlength{\thesisHeight}{240mm}% 9.45000inch

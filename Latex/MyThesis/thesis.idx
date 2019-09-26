@@ -1,0 +1,287 @@
+\indexentry{thesis!genobjectives@general objectives|hyperpage}{4}
+\indexentry{thesis!objectives@objectives|hyperpage}{4}
+\indexentry{thesis!chronology@chronology|hyperpage}{5}
+\indexentry{thesis!outline@outline|hyperpage}{7}
+\indexentry{cell|hyperpage}{10}
+\indexentry{evolution|hyperpage}{10}
+\indexentry{DNA|hyperpage}{10}
+\indexentry{RNA|hyperpage}{10}
+\indexentry{DNA!DNARNA@DNA and RNA|hyperpage}{10}
+\indexentry{cell!first@primitive cells|hyperpage}{10}
+\indexentry{bacteria|hyperpage}{10}
+\indexentry{prokaryotes|hyperpage}{10}
+\indexentry{eukaryotes|hyperpage}{11}
+\indexentry{cell!multi@multicellular organisms|hyperpage}{11}
+\indexentry{DNA!nucleo@nucleotides|hyperpage}{12}
+\indexentry{DNA!strand@strands|hyperpage}{12}
+\indexentry{DNA!comple@complementation|hyperpage}{12}
+\indexentry{gene|hyperpage}{12}
+\indexentry{genotype|hyperpage}{12}
+\indexentry{phenotype|hyperpage}{12}
+\indexentry{gene!genal@alleles|hyperpage}{12}
+\indexentry{cell!cycle@cell cycle|hyperpage}{12}
+\indexentry{cell!mutations@cell mutations|hyperpage}{12}
+\indexentry{RNA!compor@nucleotides|hyperpage}{14}
+\indexentry{gene!gtransc@transcription|hyperpage}{14}
+\indexentry{protein synthesis|hyperpage}{14}
+\indexentry{RNA!typesr@types|hyperpage}{14}
+\indexentry{splicing|hyperpage}{14}
+\indexentry{RNA!splicr@splicing|hyperpage}{14}
+\indexentry{introns|hyperpage}{14}
+\indexentry{exons|hyperpage}{14}
+\indexentry{RNA!RNAm@messenger|hyperpage}{14}
+\indexentry{gene!transg@translation|hyperpage}{14}
+\indexentry{codons|hyperpage}{14}
+\indexentry{genetic code|hyperpage}{14}
+\indexentry{reading frames|hyperpage}{14}
+\indexentry{proteins|hyperpage}{15}
+\indexentry{DNA!DNAstr@structure|hyperpage}{15}
+\indexentry{DNA!DNAhelix@double helix|hyperpage}{15}
+\indexentry{chromatin|hyperpage}{15}
+\indexentry{chromosomes|hyperpage}{15}
+\indexentry{genome|hyperpage}{15}
+\indexentry{genome!gencomplex@complexity|hyperpage}{15}
+\indexentry{SNPs|hyperpage}{15}
+\indexentry{genome!geland@landscape|hyperpage}{15}
+\indexentry{DNA!DNAin@intergenic|hyperpage}{15}
+\indexentry{Bioinformatics|hyperpage}{17}
+\indexentry{sequence!seqdb@databases|hyperpage}{19}
+\indexentry{EMBL|hyperpage}{19}
+\indexentry{GenBank|hyperpage}{19}
+\indexentry{FASTA!fformat@format|hyperpage}{19}
+\indexentry{RefSeq|hyperpage}{20}
+\indexentry{genome!gdb@databases|hyperpage}{20}
+\indexentry{genome!genrelease@projects|hyperpage}{20}
+\indexentry{Ensembl|hyperpage}{20}
+\indexentry{UCSC genome browser|hyperpage}{20}
+\indexentry{ESTs|hyperpage}{22}
+\indexentry{Gene Ontology (GO)|hyperpage}{22}
+\indexentry{gene!geneillness@genes and illness|hyperpage}{25}
+\indexentry{cancer|hyperpage}{25}
+\indexentry{gene!gcancer@cancer|hyperpage}{25}
+\indexentry{pharmacogenomics|hyperpage}{25}
+\indexentry{SNP!SNPdis@distribution|hyperpage}{26}
+\indexentry{SNP!SNPclas@classes|hyperpage}{26}
+\indexentry{haplotype|hyperpage}{26}
+\indexentry{sequence!seqbs@evolution|hyperpage}{35}
+\indexentry{gene!hom@homology|hyperpage}{35}
+\indexentry{homology|hyperpage}{35}
+\indexentry{gene!ort@orthology|hyperpage}{35}
+\indexentry{orthology|hyperpage}{35}
+\indexentry{gene!paral@paralogy|hyperpage}{35}
+\indexentry{paralogy|hyperpage}{35}
+\indexentry{sequence!seqcmp@sequence comparison|hyperpage}{35}
+\indexentry{alphabet|hyperpage}{35}
+\indexentry{alphabet!iupac@IUPAC alphabet|hyperpage}{35}
+\indexentry{sequence|hyperpage}{36}
+\indexentry{subsequence|hyperpage}{36}
+\indexentry{sequence!aln@alignment|hyperpage}{36}
+\indexentry{alignment|hyperpage}{36}
+\indexentry{alignment!exam@example|hyperpage}{37}
+\indexentry{alignment!combis@changes|hyperpage}{37}
+\indexentry{alignment!score@scoring function|hyperpage}{37}
+\indexentry{similarity|hyperpage}{37}
+\indexentry{sequence!sim@similarity|hyperpage}{37}
+\indexentry{distance|hyperpage}{38}
+\indexentry{sequence!dis@distance|hyperpage}{38}
+\indexentry{alignment!nalns@number of|hyperpage}{38}
+\indexentry{alignment!class@classes|hyperpage}{39}
+\indexentry{alignment!glob@global|hyperpage}{39}
+\indexentry{alignment!loc@local|hyperpage}{39}
+\indexentry{alignment!paraln@pairwise|hyperpage}{40}
+\indexentry{alignment!mul@multiple|hyperpage}{40}
+\indexentry{algorithms!nw@Needleman and Wunsch|hyperpage}{40}
+\indexentry{alignment!nw@Needleman and Wunsch|hyperpage}{40}
+\indexentry{algorithms!sellers@Sellers|hyperpage}{42}
+\indexentry{alignment!selal@Sellers|hyperpage}{42}
+\indexentry{algorithms!hirs@Hirschberg|hyperpage}{46}
+\indexentry{alignment!hirsal@Hirschberg|hyperpage}{46}
+\indexentry{algorithms!nwr@Needleman and Wunsch revisited|hyperpage}{51}
+\indexentry{alignment!nwr@Needleman and Wunsch revisited|hyperpage}{51}
+\indexentry{similarity!wd@similarity and distance|hyperpage}{53}
+\indexentry{distance!ws@distance and similarity|hyperpage}{53}
+\indexentry{gap model!gen@general|hyperpage}{55}
+\indexentry{algorithms!goto@Gotoh|hyperpage}{57}
+\indexentry{alignment!gotoaln@Gotoh|hyperpage}{57}
+\indexentry{gap model!aff@affine|hyperpage}{58}
+\indexentry{gap model!conc@concave|hyperpage}{60}
+\indexentry{algorithms!smith@Smith and Waterman|hyperpage}{61}
+\indexentry{alignment!smithaln@Smith and Waterman|hyperpage}{61}
+\indexentry{alignment!almd@mismatch density|hyperpage}{64}
+\indexentry{alignment!alndb@databases searches|hyperpage}{65}
+\indexentry{databases searches|hyperpage}{65}
+\indexentry{algorithms!fasta@FASTA|hyperpage}{66}
+\indexentry{alignment!fastaaln@FASTA|hyperpage}{66}
+\indexentry{FASTA|hyperpage}{66}
+\indexentry{algorithms!blast@BLAST|hyperpage}{67}
+\indexentry{alignment!blastaln@BLAST|hyperpage}{67}
+\indexentry{BLAST|hyperpage}{67}
+\indexentry{alignment!mul@multiple|hyperpage}{69}
+\indexentry{algorithms!carr@Carrillo and Lipman|hyperpage}{69}
+\indexentry{alignment!carraln@Carrillo and Lipman|hyperpage}{69}
+\indexentry{alignment!progaln@progressive|hyperpage}{70}
+\indexentry{progressive alignment|hyperpage}{70}
+\indexentry{CLUSTALW|hyperpage}{70}
+\indexentry{algorithms!clustalw@CLUSTALW|hyperpage}{70}
+\indexentry{alignment!clustalwaln@CLUSTALW|hyperpage}{70}
+\indexentry{restriction enzymes|hyperpage}{72}
+\indexentry{restriction map|hyperpage}{72}
+\indexentry{maps|hyperpage}{72}
+\indexentry{genomic mapping|hyperpage}{73}
+\indexentry{map alignment|hyperpage}{73}
+\indexentry{maps!maln@alignments|hyperpage}{73}
+\indexentry{map alignment!mexam@example|hyperpage}{74}
+\indexentry{algorithms!wmap@Waterman, Smith and Katcher|hyperpage}{74}
+\indexentry{map alignment!wmapaln@Waterman, Smith and Katcher|hyperpage}{74}
+\indexentry{algorithms!mmap@Myers and Huang|hyperpage}{76}
+\indexentry{map alignment!mmapaln@Myers and Huang|hyperpage}{76}
+\indexentry{gene!catalog@catalogue|hyperpage}{88}
+\indexentry{gene!struct@structure|hyperpage}{88}
+\indexentry{exon!signals@exon-defining signals|hyperpage}{88}
+\indexentry{gene!gsignals@signals|hyperpage}{88}
+\indexentry{start codon|hyperpage}{88}
+\indexentry{stop codon|hyperpage}{88}
+\indexentry{acceptor|hyperpage}{89}
+\indexentry{splicing!acc@acceptor site|hyperpage}{89}
+\indexentry{donor|hyperpage}{89}
+\indexentry{splicing!don@donor site|hyperpage}{89}
+\indexentry{exon!eclasses@classes|hyperpage}{89}
+\indexentry{initial exon|hyperpage}{89}
+\indexentry{first exon|hyperpage}{89}
+\indexentry{exon!first@initial|hyperpage}{89}
+\indexentry{internal exon|hyperpage}{89}
+\indexentry{exon!int@internal|hyperpage}{89}
+\indexentry{terminal exon|hyperpage}{89}
+\indexentry{exon!ter@terminal|hyperpage}{89}
+\indexentry{alternative splicing|hyperpage}{90}
+\indexentry{splicing!alt@alternative splicing|hyperpage}{90}
+\indexentry{pseudogene|hyperpage}{90}
+\indexentry{gene!iless@intronless gene|hyperpage}{90}
+\indexentry{exon!ilessex@intronless gene|hyperpage}{90}
+\indexentry{splicing!noncan@non-canonical splicing|hyperpage}{90}
+\indexentry{selenoproteins|hyperpage}{90}
+\indexentry{gene!seleno@selenoproteins|hyperpage}{90}
+\indexentry{gene!exp@gene expression|hyperpage}{91}
+\indexentry{transcriptional regulation|hyperpage}{92}
+\indexentry{gene!trans@gene regulation|hyperpage}{92}
+\indexentry{promoter|hyperpage}{92}
+\indexentry{gene!gprom@promoters|hyperpage}{92}
+\indexentry{transcription factor|hyperpage}{92}
+\indexentry{binding sites|hyperpage}{92}
+\indexentry{DNA!bsdna@binding sites|hyperpage}{92}
+\indexentry{transcription factor!bs@binding sites|hyperpage}{92}
+\indexentry{enhancer|hyperpage}{93}
+\indexentry{promoter!enh@enhancers|hyperpage}{93}
+\indexentry{chromatin|hyperpage}{93}
+\indexentry{DNA!chrom@chromatin|hyperpage}{93}
+\indexentry{nucleosomes|hyperpage}{93}
+\indexentry{DNA!nucl@nucleosomes|hyperpage}{93}
+\indexentry{histones|hyperpage}{93}
+\indexentry{DNA!his@histones|hyperpage}{93}
+\indexentry{gene!sil@silencing|hyperpage}{93}
+\indexentry{DNA!meth@methylation|hyperpage}{94}
+\indexentry{CpG island|hyperpage}{94}
+\indexentry{gene!isl@CpG islands|hyperpage}{94}
+\indexentry{genefinding|hyperpage}{95}
+\indexentry{gene!find@genefinding|hyperpage}{95}
+\indexentry{promoter!find@characterization|hyperpage}{95}
+\indexentry{search!sigss@by signal|hyperpage}{96}
+\indexentry{sequence!sig@signals|hyperpage}{96}
+\indexentry{signals|hyperpage}{96}
+\indexentry{sites|hyperpage}{96}
+\indexentry{DNA!sig@signals|hyperpage}{96}
+\indexentry{pattern-driven methods|hyperpage}{96}
+\indexentry{signals!colls@collections|hyperpage}{96}
+\indexentry{TRANSFAC|hyperpage}{96}
+\indexentry{position weight matrices!trans@TRANSFAC|hyperpage}{96}
+\indexentry{JASPAR|hyperpage}{96}
+\indexentry{position weight matrices!jas@JASPAR|hyperpage}{96}
+\indexentry{position weight matrices!promo@PROMO|hyperpage}{96}
+\indexentry{ABS|hyperpage}{96}
+\indexentry{EPD|hyperpage}{97}
+\indexentry{signals!repr@representation|hyperpage}{97}
+\indexentry{sites!srepr@representation|hyperpage}{97}
+\indexentry{consensus|hyperpage}{97}
+\indexentry{sequence!con@consensus|hyperpage}{97}
+\indexentry{position weight matrices|hyperpage}{98}
+\indexentry{weight matrices|hyperpage}{98}
+\indexentry{log-likelihood ratio|hyperpage}{99}
+\indexentry{information content|hyperpage}{100}
+\indexentry{search!cont@by content|hyperpage}{101}
+\indexentry{gene!codings@protein-coding regions|hyperpage}{101}
+\indexentry{protein-coding regions|hyperpage}{101}
+\indexentry{codon!bias@codon bias|hyperpage}{101}
+\indexentry{coding statistic|hyperpage}{101}
+\indexentry{TSS|hyperpage}{102}
+\indexentry{promoter!tss@TSS|hyperpage}{102}
+\indexentry{sequence!seqcmp@sequence comparison|hyperpage}{103}
+\indexentry{search!homo@by homology|hyperpage}{103}
+\indexentry{comparative genomics|hyperpage}{103}
+\indexentry{synteny|hyperpage}{103}
+\indexentry{similarity|hyperpage}{103}
+\indexentry{comparative gene prediction|hyperpage}{104}
+\indexentry{comparative promoter prediction|hyperpage}{104}
+\indexentry{phylogenetic footprinting|hyperpage}{105}
+\indexentry{DNA!micro@microarrays|hyperpage}{105}
+\indexentry{microarray|hyperpage}{105}
+\indexentry{pattern discovery|hyperpage}{107}
+\indexentry{sequence-driven methods|hyperpage}{107}
+\indexentry{genefinding!sta@state of the art|hyperpage}{107}
+\indexentry{geneid|hyperpage}{109}
+\indexentry{selenoproteins|hyperpage}{110}
+\indexentry{promoter characterization!sta@state of the art|hyperpage}{111}
+\indexentry{sequence!seqcmp@sequence comparison|hyperpage}{126}
+\indexentry{maps|hyperpage}{126}
+\indexentry{genome!humgen@human genome|hyperpage}{126}
+\indexentry{genomic mapping|hyperpage}{126}
+\indexentry{meta-alignments|hyperpage}{128}
+\indexentry{maps!tf@TF-maps|hyperpage}{128}
+\indexentry{TF-maps|hyperpage}{128}
+\indexentry{TF-maps!alntf@alignments|hyperpage}{128}
+\indexentry{TF-map alignments|hyperpage}{128}
+\indexentry{alignment!tfma@TF-map alignments|hyperpage}{128}
+\indexentry{alignment!meta@meta-alignments|hyperpage}{128}
+\indexentry{TF-map alignments!seqaln@sequence alignments|hyperpage}{131}
+\indexentry{alignment!seqtf@sequences and TF-maps|hyperpage}{131}
+\indexentry{TF-map alignments!naive@naive algorithm|hyperpage}{132}
+\indexentry{algorithms!tfnaive@TF-map alignment|hyperpage}{132}
+\indexentry{TF-map alignments!enh@enhanced algorithm|hyperpage}{132}
+\indexentry{algorithms!tfnaive@TF-map alignment|hyperpage}{132}
+\indexentry{TF-map alignments!trai@training|hyperpage}{136}
+\indexentry{meta-alignments!mtrai@training|hyperpage}{136}
+\indexentry{TF-map alignments!traidata@training datasets|hyperpage}{137}
+\indexentry{JASPAR|hyperpage}{137}
+\indexentry{PROMO|hyperpage}{137}
+\indexentry{TRANSFAC|hyperpage}{137}
+\indexentry{ABS|hyperpage}{139}
+\indexentry{TF-map alignments!acc@accuracy|hyperpage}{142}
+\indexentry{meta-alignments!macc@accuracy|hyperpage}{142}
+\indexentry{JASPAR$_{TOP50}$|hyperpage}{143}
+\indexentry{TF-map alignments!prom@promoter identification|hyperpage}{146}
+\indexentry{promoter!idtf@identification|hyperpage}{146}
+\indexentry{meta-alignments!pgws@parallel|hyperpage}{147}
+\indexentry{PGWS|hyperpage}{147}
+\indexentry{TF-map alignments!cisred@in CISRED|hyperpage}{148}
+\indexentry{meta-alignments!mcisred@in CISRED|hyperpage}{148}
+\indexentry{CISRED|hyperpage}{149}
+\indexentry{TF-map alignments!dis@score distribution|hyperpage}{150}
+\indexentry{meta-alignments!mdis@score distribution|hyperpage}{150}
+\indexentry{position weight matrices!spe@specificity|hyperpage}{155}
+\indexentry{TF-map alignments!loctf@local|hyperpage}{158}
+\indexentry{super-pattern|hyperpage}{166}
+\indexentry{alignment!mtfma@multiple TF-map alignments|hyperpage}{175}
+\indexentry{alignment!mmeta@multiple meta-alignments|hyperpage}{175}
+\indexentry{TF-map alignments!mmetatf@multiple TF-map alignments|hyperpage}{175}
+\indexentry{multiple TF-map alignments|hyperpage}{175}
+\indexentry{multiple TF-map alignments!progmmeta@progressive alignment|hyperpage}{176}
+\indexentry{multiple TF-map alignments!clusmmeta@alignment of two clusters|hyperpage}{178}
+\indexentry{multiple TF-map alignments!noncolmmeta@non-collinear alignments|hyperpage}{181}
+\indexentry{TF-map alignments!noncolmeta@non-collinear alignments|hyperpage}{181}
+\indexentry{multiple TF-map alignments!trainingmmeta@training|hyperpage}{185}
+\indexentry{thesis!concl@conclusions|hyperpage}{197}
+\indexentry{software!typesetting!latex@\LaTeX|(hyperpage}{237}
+\indexentry{software!typesetting!pdflatex@\prog{pdflatex}|hyperpage}{237}
+\indexentry{software!typesetting!bibtex@\BiBTeX|hyperpage}{237}
+\indexentry{software!typesetting!thumbpdf@\prog{thumbpdf}|hyperpage}{237}
+\indexentry{software!typesetting!latex@\LaTeX|)hyperpage}{239}
+\indexentry{GNU-GPL|hyperpage}{239}

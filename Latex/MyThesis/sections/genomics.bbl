@@ -1,0 +1,259 @@
+\begin{thebibliography}{37}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}\fi
+
+\bibitem[Adams et~al.(2000)Adams, Celniker, Holt, Evans, Gocayne, Amanatides,
+  Scherer, Li, Hoskins, Galle, George, Lewis, Richards, Ashburner, Henderson,
+  et~al.]{adams:2000a}
+M.D. Adams, S.E. Celniker, R.A. Holt, C.A. Evans, J.D. Gocayne, P.G.
+  Amanatides, S.E. Scherer, P.W. Li, R.A. Hoskins, R.F. Galle, R.A. George,
+  S.E. Lewis, S.~Richards, M.~Ashburner, S.N. Henderson, et~al.
+\newblock The genome sequence of \textit{Drosophila melanogaster}.
+\newblock {\em Science}, 287:\penalty0 2185--95, 2000.
+
+\bibitem[Alberts et~al.(1994)Alberts, Bray, Lewis, Raff, Roberts, and
+  Watson]{alberts:1994a}
+B.~Alberts, D.~Bray, J.~Lewis, M.~Raff, K.~Roberts, and J.~D. Watson.
+\newblock {\em Molecular biology of the cell}.
+\newblock Garland publishing, third edition, 1994.
+\newblock ISBN 0-8153-1620-8.
+
+\bibitem[Baxevanis and Ouellette(2005)]{baxevanis:2005a}
+A.D. Baxevanis and B.F.F. Ouellette.
+\newblock {\em Bioinformatics: A Practical Guide to the Analysis of Genes and
+  Proteins.}
+\newblock John Wiley \& Sons Inc., New York, USA, third edition, 2005.
+\newblock ISBN 0-471-47878-4.
+
+\bibitem[Bell(2003)]{bell:2003a}
+J.I. Bell.
+\newblock The double helix in clinical practice.
+\newblock {\em Nature}, 421:\penalty0 414--416, 2003.
+
+\bibitem[Benson et~al.(2003)Benson, Karsch-Mizrachi, Lipman, and
+  nd~D.L.~Wheeler]{benson:2004a}
+D.A. Benson, I.~Karsch-Mizrachi, D.J. Lipman, and J.~Ostella nd~D.L.~Wheeler.
+\newblock Genbank: update.
+\newblock {\em Nucleic Acids Research}, 32:\penalty0 D23--D26, 2003.
+
+\bibitem[Birney et~al.(2004)Birney, Andrews, Bevan, Caccamo, Cameron, Chen,
+  Clarke, Coates, Cox, Cuff, Curwen, Cutts, Down, Durbin, Eyras,
+  et~al.]{birney:2004a}
+E.~Birney, D.~Andrews, P.~Bevan, M.~Caccamo, G.~Cameron, Y.~Chen, L.~Clarke,
+  G.~Coates, T.~Cox, J.~Cuff, V.~Curwen, T.~Cutts, T.~Down, R.~Durbin,
+  E.~Eyras, et~al.
+\newblock {\textsc{Ensembl} 2004.}
+\newblock {\em Nucleic Acids Res}, 32:\penalty0 D468--70, 2004.
+
+\bibitem[Blanco and Guig{\'o}(2005)]{blanco:2005a}
+E.~Blanco and R.~Guig{\'o}.
+\newblock {\em Bioinformatics: A Practical Guide to the Analysis of Genes and
+  Proteins.}, chapter {``Predictive Methods using DNA Sequences''}, pages
+  115--142.
+\newblock John Wiley \& Sons Inc., New York, USA, 2005.
+\newblock ISBN 0-471-47878-4.
+
+\bibitem[Bogusky(1998)]{bogusky:1998a}
+M.~Bogusky.
+\newblock Bioinformatics - a new era.
+\newblock {\em Trends in genetics (trends guide to bioinformatics)}, pages
+  1--3, 1998.
+
+\bibitem[Brown(2002)]{brown:1999a}
+T.A. Brown.
+\newblock {\em Genomes}.
+\newblock BIOS Scientific Publishers, Oxford, UK, second edition, 2002.
+\newblock ISBN 1-85996-029-4.
+
+\bibitem[Claverie(2000)]{claverie:2000a}
+J.M. Claverie.
+\newblock From bioinformatics to computational biology.
+\newblock {\em Genome Research}, 10:\penalty0 1277--1279, 2000.
+
+\bibitem[Collins et~al.(2003)Collins, Green, Guttmacher, and
+  Guyer]{collins:2003a}
+F.S. Collins, E.D. Green, A.E. Guttmacher, and M.S. Guyer.
+\newblock A vision for the future of genomics research.
+\newblock {\em Nature}, 422:\penalty0 1--13, 2003.
+
+\bibitem[Collins and McKusick(2001)]{collins:2001a}
+F.S. Collins and V.A. McKusick.
+\newblock Implications of the human genome project for medical science.
+\newblock {\em Journal of the American Medical Association}, 285:\penalty0
+  540--544, 2001.
+
+\bibitem[Dayhoff et~al.(1965)Dayhoff, Eck, Chang, and Sochard]{dayhoff:1965a}
+M.O. Dayhoff, R.V. Eck, M.A. Chang, and M.R. Sochard.
+\newblock {\em Atlas of protein sequence and structure}, volume~1.
+\newblock National Biomedical Research Foundation, Silver Spring, Maryland,
+  1965.
+
+\bibitem[Evans and Relling(1999)]{evans:1999a}
+W.E. Evans and M.V. Relling.
+\newblock Pharmacogenomics: translating functional genomics into rational
+  therapeutics.
+\newblock {\em Science}, 286:\penalty0 487--, 1999.
+
+\bibitem[Goffeau et~al.(1996)Goffeau, Barrell, Bussey, Davis, Dujon, Feldmann,
+  Galibert, Hoheisel, Jacq, and Johnston]{goffeau:1996a}
+A.~Goffeau, B.G. Barrell, H.~Bussey, R.W. Davis, BB. Dujon, H.~Feldmann,
+  F.~Galibert, J.D. Hoheisel, C.~Jacq, and M.~Johnston.
+\newblock Life with 6000 genes.
+\newblock {\em Science}, 274:\penalty0 546, 563--567, 1996.
+
+\bibitem[Goodman(2002)]{goodman:2002a}
+N.~Goodman.
+\newblock Biological data becomes computer literate: new advances in
+  bioinformatics.
+\newblock {\em Current Opinion in Biotechnology}, 13:\penalty0 68--71, 2002.
+
+\bibitem[Hillier et~al.(2004)Hillier, Miller, Birney, Warren, Hardison,
+  Ponting, Bork, Burt, Groenen, Delany, Dodgson, Sequence, Assembly, Chinwalla,
+  Cliften, Clifton, and others {(International Chicken Genome Sequencing
+  Consortium, ICGSC)}]{hillier:2004a}
+L.W. Hillier, W.~Miller, E.~Birney, W.~Warren, R.C. Hardison, C.P. Ponting,
+  P.~Bork, D.W. Burt, M.A. Groenen, M.E. Delany, J.B. Dodgson,
+  G.~Fingerprint~Map Sequence, Assembly, A.T. Chinwalla, P.F. Cliften, S.W.
+  Clifton, and others {(International Chicken Genome Sequencing Consortium,
+  ICGSC)}.
+\newblock Sequence and comparative analysis of the chicken genome provide
+  unique perspectives on vertebrate evolution.
+\newblock {\em Nature}, 432:\penalty0 695--716, 2004.
+
+\bibitem[{International Human Genome Sequencing Consortium,
+  IHGSC}(2004)]{ihgsc:2004a}
+{International Human Genome Sequencing Consortium, IHGSC}.
+\newblock Finishing the euchromatic sequence of the human genome.
+\newblock {\em Nature}, 431:\penalty0 931--45, 2004.
+
+\bibitem[Karolchik et~al.(2003)Karolchik, Baertsch, Diekhans, Furey, Hinrichs,
+  Lu, Roskin, Schwartz, Sugnet, Thomas, Weber, Haussler, and
+  Kent]{karolchik:2003a}
+D.~Karolchik, R.~Baertsch, M.~Diekhans, T.S. Furey, A.~Hinrichs, Y.T. Lu, K.M.
+  Roskin, M.~Schwartz, C.W. Sugnet, D.J. Thomas, R.J. Weber, D.~Haussler, and
+  W.J. Kent.
+\newblock The \textsc{UCSC Genome Browser} database.
+\newblock {\em Nucleic Acids Res}, 31:\penalty0 51--54, 2003.
+
+\bibitem[Kitano(2002)]{kitano:2002a}
+H.~Kitano.
+\newblock Systems biology: a brief overview.
+\newblock {\em Science}, 295:\penalty0 1662--1664, 2002.
+
+\bibitem[Kulikova et~al.(2004)Kulikova, Aldebert, Althorpe, Baker, Bates,
+  Browne, van~den Broek, Cochrane, Duggan, Eberhardt, et~al.]{kulikova:2004a}
+T.~Kulikova, P.~Aldebert, N.~Althorpe, W.~Baker, K.~Bates, P.~Browne,
+  A.~van~den Broek, G.~Cochrane, K.~Duggan, R.~Eberhardt, et~al.
+\newblock The {EMBL} nucleotide sequence database.
+\newblock {\em Nucleic Acids Research}, 32:\penalty0 D27--D30, 2004.
+
+\bibitem[Lander et~al.(2001)Lander, Linton, Birren, Nusbaum, Zody, Baldwin,
+  Devon, Dewar, Doyle, FitzHugh, Funke, Gage, Harris, Heaford, Howland, and
+  others {(International Human Genome Sequencing Consortium,
+  IHGSC)}]{lander:2001a}
+E.S. Lander, L.M. Linton, B.~Birren, C.~Nusbaum, M.C. Zody, J.~Baldwin,
+  K.~Devon, K.~Dewar, M.~Doyle, W.~FitzHugh, R.~Funke, D.~Gage, K.~Harris,
+  A.~Heaford, J.~Howland, and others {(International Human Genome Sequencing
+  Consortium, IHGSC)}.
+\newblock Initial sequencing and analysis of the human genome.
+\newblock {\em Nature}, 409:\penalty0 860--921, 2001.
+
+\bibitem[Lander and Weinberg(2000)]{lander:2000a}
+E.S. Lander and R.A. Weinberg.
+\newblock Genomics: journey to the center of biology.
+\newblock {\em Science}, 287:\penalty0 1777--1782, 2000.
+
+\bibitem[Mount(2001)]{mount:2001a}
+D.W. Mount.
+\newblock {\em Bioinformatics: sequence and genome analysis}.
+\newblock Cold Spring Harbor Laboratory Press, first edition, 2001.
+\newblock ISBN 0-87969-608-7.
+
+\bibitem[Mullikin and Sherry(2005)]{mullikin:2005a}
+J.C. Mullikin and S.T. Sherry.
+\newblock {\em Bioinformatics: A Practical Guide to the Analysis of Genes and
+  Proteins.}, chapter {``Sequence polymorphisms''}, pages 171--193.
+\newblock John Wiley \& Sons Inc., New York, USA, 2005.
+\newblock ISBN 0-471-47878-4.
+
+\bibitem[Pearson(2001)]{pearson:2001a}
+W.R. Pearson.
+\newblock Training for bioinformatics and computational biology.
+\newblock {\em Bioinformatics}, 17:\penalty0 761--762, 2001.
+
+\bibitem[Pruitt et~al.(2005)Pruitt, Tatusova, and Maglott]{pruitt:2005a}
+K.D. Pruitt, T.~Tatusova, and D.R. Maglott.
+\newblock {NCBI Reference Sequence (\textsc{RefSeq}): a curated non-redundant
+  sequence database of genomes, transcripts and proteins.}
+\newblock {\em Nucleic Acids Research}, 33 Database Issue:\penalty0 D501--D504,
+  2005.
+
+\bibitem[Sander(2000)]{sander:2000a}
+C.~Sander.
+\newblock Genomic medicine and the future of health care.
+\newblock {\em Science}, 287:\penalty0 1977--1978, 2000.
+
+\bibitem[Searls(2000)]{searls:2000a}
+D.B. Searls.
+\newblock Using bioinformatics in gene and drug discovery.
+\newblock {\em Drug Discovery Today}, 5:\penalty0 135--143, 2000.
+
+\bibitem[Searls(2005)]{searls:2005a}
+D.B. Searls.
+\newblock Data integration: challenges for drug discovery.
+\newblock {\em Nature Reviews Drug Discovery}, 4:\penalty0 45--58, 2005.
+
+\bibitem[Stein(2003)]{stein:2003a}
+L.D Stein.
+\newblock Integrating biological databases.
+\newblock {\em Nature Reviews Genetics}, 4:\penalty0 337--345, 2003.
+
+\bibitem[Strausberg et~al.(2003)Strausberg, Simpson, and
+  Wooster]{strausberg:2003a}
+R.L. Strausberg, A.J.G. Simpson, and R.~Wooster.
+\newblock Sequence-based cancer genomics: progress, lessons and opportunities.
+\newblock {\em Nature Reviews Genetics}, 4:\penalty0 409--418, 2003.
+
+\bibitem[{The Gene Ontology Consortium}(2000)]{tgoc:2000a}
+{The Gene Ontology Consortium}.
+\newblock Gene ontology: tool for the unification of biology.
+\newblock {\em Nature Genetics}, 25:\penalty0 25--29, 2000.
+
+\bibitem[{The International HapMap Consortium}(2003)]{tihc:2003a}
+{The International HapMap Consortium}.
+\newblock The international hapmap project.
+\newblock {\em Nature}, 426:\penalty0 789--796, 2003.
+
+\bibitem[Venter et~al.(2001)Venter, Adams, Myers, Li, Mural, Sutton, Smith,
+  Yandell, Evans, Holt, Gocayne, Amanatides, Ballew, Huson, Wortman,
+  et~al.]{venter:2001a}
+J.C. Venter, M.D. Adams, E.W. Myers, P.W. Li, R.J. Mural, G.G. Sutton, H.O.
+  Smith, M.~Yandell, C.A. Evans, R.A. Holt, J.D. Gocayne, P.~Amanatides, R.M.
+  Ballew, D.H. Huson, J.R. Wortman, et~al.
+\newblock The sequence of the human genome.
+\newblock {\em Science}, 291:\penalty0 1304--1351, 2001.
+
+\bibitem[Waterston et~al.(2002)Waterston, Lindblad-Toh, Birney, Rogers, Abril,
+  Agarwal, Agarwala, Ainscough, Alexandersson, An, Antonarakis, Attwood,
+  Baertsch, Bailey, Barlow, and others {(International Mouse Genome Sequencing
+  Consortium, IMGSC)}]{waterston:2002a}
+R.H. Waterston, K.~Lindblad-Toh, E.~Birney, J.~Rogers, J.F. Abril, P.~Agarwal,
+  R.~Agarwala, R.~Ainscough, M.~Alexandersson, P.~An, S.E. Antonarakis,
+  J.~Attwood, R.~Baertsch, J.~Bailey, K.~Barlow, and others {(International
+  Mouse Genome Sequencing Consortium, IMGSC)}.
+\newblock {Initial sequencing and comparative analysis of the mouse genome.}
+\newblock {\em Nature}, 420:\penalty0 520--562, 2002.
+
+\bibitem[Wheeler et~al.(2005)Wheeler, Barrett, Benson, Bryant, Canese, Church,
+  DiCuccio, Edgar, Federhen, Helmberg, Kenton, Khovayko, Lipman, Madden,
+  Maglott, et~al.]{wheeler:2005a}
+D.L. Wheeler, T.~Barrett, D.A. Benson, S.H. Bryant, K.~Canese, D.M. Church,
+  M.~DiCuccio, R.~Edgar, S.~Federhen, W.~Helmberg, D.L. Kenton, O.~Khovayko,
+  D.J. Lipman, T.L. Madden, D.R. Maglott, et~al.
+\newblock Database resources of the national center for biotechnology
+  information.
+\newblock {\em Nucleic Acids Research}, 33 Database Issue:\penalty0 D39--45,
+  2005.
+
+\end{thebibliography}

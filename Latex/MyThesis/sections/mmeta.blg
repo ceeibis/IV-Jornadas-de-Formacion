@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99c (Web2C 7.4.5)
+The top-level auxiliary file: ./sections/mmeta.aux
+The style file: plainnat.bst
+Database file #1: sections/bibliography.bib
+I was expecting a `,' or a `}'---line 2010 of file sections/bibliography.bib
+ :   
+ :   journal = {Nature Genetics},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 2019 of file sections/bibliography.bib
+ :   
+ :   journal = {Nature},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You've used 35 entries,
+            2633 wiz_defined-function locations,
+            773 strings with 11200 characters,
+and the built_in function-call counts, 19414 in all, are:
+= -- 1745
+> -- 1306
+< -- 12
++ -- 480
+- -- 438
+* -- 1681
+:= -- 3310
+add.period$ -- 105
+call.type$ -- 35
+change.case$ -- 285
+chr.to.int$ -- 34
+cite$ -- 35
+duplicate$ -- 707
+empty$ -- 1313
+format.name$ -- 492
+if$ -- 3882
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 35
+newline$ -- 181
+num.names$ -- 140
+pop$ -- 357
+preamble$ -- 1
+purify$ -- 250
+quote$ -- 0
+skip$ -- 519
+stack$ -- 0
+substring$ -- 1028
+swap$ -- 44
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 385
+warning$ -- 0
+while$ -- 150
+width$ -- 0
+write$ -- 460
+(There were 2 error messages)

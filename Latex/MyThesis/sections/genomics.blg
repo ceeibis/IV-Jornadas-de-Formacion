@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99c (Web2C 7.4.5)
+The top-level auxiliary file: ./sections/genomics.aux
+The style file: plainnat.bst
+Database file #1: sections/bibliography.bib
+I was expecting a `,' or a `}'---line 2010 of file sections/bibliography.bib
+ :   
+ :   journal = {Nature Genetics},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 2019 of file sections/bibliography.bib
+ :   
+ :   journal = {Nature},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--can't use both author and editor fields in blanco:2005a
+Warning--can't use both author and editor fields in mullikin:2005a
+You've used 37 entries,
+            2633 wiz_defined-function locations,
+            771 strings with 11035 characters,
+and the built_in function-call counts, 22281 in all, are:
+= -- 1929
+> -- 1702
+< -- 27
++ -- 638
+- -- 594
+* -- 1969
+:= -- 3882
+add.period$ -- 117
+call.type$ -- 37
+change.case$ -- 338
+chr.to.int$ -- 37
+cite$ -- 39
+duplicate$ -- 767
+empty$ -- 1365
+format.name$ -- 643
+if$ -- 4327
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 44
+newline$ -- 197
+num.names$ -- 148
+pop$ -- 445
+preamble$ -- 1
+purify$ -- 304
+quote$ -- 0
+skip$ -- 571
+stack$ -- 0
+substring$ -- 1037
+swap$ -- 65
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 372
+warning$ -- 2
+while$ -- 178
+width$ -- 0
+write$ -- 498
+(There were 2 error messages)

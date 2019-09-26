@@ -1,0 +1,364 @@
+\begin{thebibliography}{62}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}\fi
+
+\bibitem[Alberts et~al.(1994)Alberts, Bray, Lewis, Raff, Roberts, and
+  Watson]{alberts:1994a}
+B.~Alberts, D.~Bray, J.~Lewis, M.~Raff, K.~Roberts, and J.~D. Watson.
+\newblock {\em Molecular biology of the cell}.
+\newblock Garland publishing, third edition, 1994.
+\newblock ISBN 0-8153-1620-8.
+
+\bibitem[Altschul et~al.(1990)Altschul, Gish, Miller, Myers, and
+  Lipman]{altschul:1990a}
+S.F. Altschul, W.~Gish, W.~Miller, E.W. Myers, and D.J. Lipman.
+\newblock Basic local alignment search tool.
+\newblock {\em Journal of Molecular Biology}, 215:\penalty0 403--10, 1990.
+
+\bibitem[Altschul et~al.(1997)Altschul, Madden, Schaffer, Zhang, Zhang, Miller,
+  and Lipman]{altschul:1997a}
+S.F. Altschul, T.L. Madden, A.A. Schaffer, J.~Zhang, Z.~Zhang, W.~Miller, and
+  D.J. Lipman.
+\newblock Gapped {BLAST} and {PSI-BLAST}: a new generation of protein database
+  search programs.
+\newblock {\em Nucleic Acids Research}, 25:\penalty0 3389--3402, 1997.
+
+\bibitem[Apostolico and Guerra(1987)]{apostolico:1987a}
+A.~Apostolico and C.~Guerra.
+\newblock The longest common subsequence problem revisited.
+\newblock {\em Algorithmica}, 2:\penalty0 315--336, 1987.
+
+\bibitem[Bailey and Elkan(1994)]{bailey:1994a}
+T.~L. Bailey and C.~Elkan.
+\newblock Fitting a mixture model by expectation maximization to discover
+  motifs in biopolymers.
+\newblock {\em Proceedings of the 2nd International Conference on Intelligent
+  Systems for Molecular Biology (ISMB)}, pages 28--36, 1994.
+
+\bibitem[Bellman(1957)]{bellman:1957a}
+R.~Bellman.
+\newblock {\em Dynamic programming}.
+\newblock Princeton University Press, Boston, USA, 1957.
+
+\bibitem[Beyer et~al.(1985)Beyer, Sellers, and Waterman]{beyer:1985a}
+W.A. Beyer, P.H. Sellers, and M.S. Waterman.
+\newblock Stanislaw m. ulam's contributions to theoretical theory.
+\newblock {\em Letters in Mathematical Physics}, 10:\penalty0 231--242, 1985.
+
+\bibitem[Brazma et~al.(1998)Brazma, Jonassen, Eidhammer, and
+  Gilbert]{brazma:1998a}
+A.~Brazma, I.~Jonassen, I.~Eidhammer, and D.~Gilbert.
+\newblock Approaches to the automatic discovery of patterns in biosequences.
+\newblock {\em Journal of Computational Biology}, 5:\penalty0 279--305, 1998.
+
+\bibitem[Carrillo and Lipmann(1988)]{carrillo:1988a}
+H.~Carrillo and D.~Lipmann.
+\newblock The multiple sequence alignment problem in biology.
+\newblock {\em SIAM Journal of Applied Mathematics}, 48:\penalty0 1073--1082,
+  1988.
+
+\bibitem[Cormen et~al.(2001)Cormen, Leiserson, Rivest, and Stein]{cormen:2001a}
+T.H. Cormen, C.E. Leiserson, R.L. Rivest, and C.~Stein.
+\newblock {\em Introduction to Algorithms}.
+\newblock MIT Press and McGraw-Hill, second edition, 2001.
+\newblock ISBN 0-2620-3293-7.
+
+\bibitem[Dayhoff et~al.(1965)Dayhoff, Eck, Chang, and Sochard]{dayhoff:1965a}
+M.O. Dayhoff, R.V. Eck, M.A. Chang, and M.R. Sochard.
+\newblock {\em Atlas of protein sequence and structure}, volume~1.
+\newblock National Biomedical Research Foundation, Silver Spring, Maryland,
+  1965.
+
+\bibitem[Dreyfus(2002)]{dreyfus:2002a}
+S.~Dreyfus.
+\newblock Richard bellman on the birth of dynamic programming.
+\newblock {\em Operations Research}, 50:\penalty0 48--51, 2002.
+
+\bibitem[Dumas and Ninio(1982)]{dumas:1982a}
+J.~Dumas and J.~Ninio.
+\newblock Efficient algorithms for folding and comparing nucleic acid
+  sequences.
+\newblock {\em Nucleic Acids Research}, 10:\penalty0 197--206, 1982.
+
+\bibitem[Durbin et~al.(1998)Durbin, Eddy, Crogh, and Mitchison]{durbin:1998a}
+R.~Durbin, S.~Eddy, A.~Crogh, and G.~Mitchison.
+\newblock {\em Biological Sequence Analysis: Probabilistic Models of Protein
+  and Nucleic Acids}.
+\newblock Cambridge University Press, first edition, 1998.
+\newblock ISBN 0-521-62971-3.
+
+\bibitem[Eppstein et~al.(1988)Eppstein, Galil, and Giancarlo]{eppstein:1988a}
+D.~Eppstein, Z.~Galil, and R.~Giancarlo.
+\newblock Speeding up dynamic programming.
+\newblock {\em IEEE Symposium on Foundations of Computer Science}, pages
+  488--496, 1988.
+
+\bibitem[Feng and Doolittle(1987)]{feng:1987a}
+D.~Feng and R.F. Doolittle.
+\newblock Progressive sequence alignment as a prerequisite to correct
+  phylogenetic trees.
+\newblock {\em Journal of Molecular Evolution}, 25:\penalty0 351--360, 1987.
+
+\bibitem[Fitch and Margoliash(1967)]{fitch:1967a}
+W.M. Fitch and E.~Margoliash.
+\newblock Construction of phylogenetic trees.
+\newblock {\em Science}, 155:\penalty0 279--284, 1967.
+
+\bibitem[Fitch and Smith(1983)]{fitch:1983a}
+W.M. Fitch and T.F. Smith.
+\newblock Optimal sequence alignments.
+\newblock {\em Proceedings of the National Academy of Sciences}, 80:\penalty0
+  1382--1386, 1983.
+
+\bibitem[Gibbs and McIntyre(1970)]{gibbs:1970a}
+A.J. Gibbs and G.A. McIntyre.
+\newblock The diagram, a method for comparing sequences. its use with amino
+  acid and nucleotide sequences.
+\newblock {\em European Journal of Biochemistry}, 16:\penalty0 1--11, 1970.
+
+\bibitem[Goad and Kanehisa(1982)]{goad:1982a}
+W.B. Goad and M.I. Kanehisa.
+\newblock Pattern recognition in nucleic acid sequences i. a general method for
+  finding local homologies and symmetries.
+\newblock {\em Nucleic Acids Research}, 10:\penalty0 247--278, 1982.
+
+\bibitem[Gotoh(1982)]{gotoh:1982a}
+O.~Gotoh.
+\newblock An improved algorithm for matching biological sequences.
+\newblock {\em Journal of Molecular Biology}, 162:\penalty0 705--708, 1982.
+
+\bibitem[Gumbel(1962)]{gumbel:1962a}
+E.J. Gumbel.
+\newblock {\em Contributions to order statistics.}, chapter Statistical theory
+  of extreme values, page~71.
+\newblock Wiley, New York, USA, 1962.
+
+\bibitem[Hamming(1950)]{hamming:1950a}
+R.W. Hamming.
+\newblock {\em Journal of Bell Systems Technology}, 26:\penalty0 147, 1950.
+
+\bibitem[Hirschberg(1975)]{hirschberg:1975a}
+D.S. Hirschberg.
+\newblock A linear space algorithm for computing longest common sequences.
+\newblock {\em Communications of the ACM}, 18:\penalty0 341--343, 1975.
+
+\bibitem[Huang and Waterman(1992)]{huang:1992a}
+X.~Huang and M.~S. Waterman.
+\newblock Dynamic programming algorithms for restriction map comparison.
+\newblock {\em Bioinformatics}, 8:\penalty0 511--520, 1992.
+
+\bibitem[Karlin and Altschul(1990)]{karlin:1990a}
+S.~Karlin and S.F. Altschul.
+\newblock Methods for assessing the statistical significance of molecular
+  sequence features by using general scoring schemes.
+\newblock {\em Proceedings of the National Academy of Sciences}, 87:\penalty0
+  2264--2268, 1990.
+
+\bibitem[Knight and Myers(1995)]{knight:1995a}
+J.~R. Knight and E.~W. Myers.
+\newblock Super-pattern matching.
+\newblock {\em Algorithmica}, 13:\penalty0 211--243, 1995.
+
+\bibitem[Lawrence et~al.(1993)Lawrence, Altschul, Boguski, Liu, Neuwald, and
+  Wootton]{lawrence:1993a}
+C.~E. Lawrence, S.~F. Altschul, M.~S. Boguski, J.~S. Liu, A.~F. Neuwald, and
+  J.~C Wootton.
+\newblock Detecting subtle sequence signals: a gibbs sampling strategy for
+  multiple alignment.
+\newblock {\em Science}, 262:\penalty0 208--214, 1993.
+
+\bibitem[Levhenshtein(1966)]{levhenshtein:1966a}
+V.I. Levhenshtein.
+\newblock Binary codes capable of correcting deletions, insertions, and
+  reversals.
+\newblock {\em Cybernetics and Control Theory}, 10:\penalty0 707--710, 1966.
+
+\bibitem[Lipman and Pearson(1985)]{lipman:1985a}
+D.J. Lipman and W.R. Pearson.
+\newblock Rapid and sensitive protein similarity searches.
+\newblock {\em Science}, 227:\penalty0 1435--1441, 1985.
+
+\bibitem[Meidanis and Setubal(1997)]{meidanis:1997a}
+J.~Meidanis and J.C. Setubal.
+\newblock {\em Introduction to computational molecular biology}.
+\newblock PWS Publishing Company, Boston, first edition, 1997.
+\newblock ISBN 0-534-95262-3.
+
+\bibitem[Miller and Myers(1988)]{miller:1988a}
+W.~Miller and E.W. Myers.
+\newblock Sequence comparison with concave weighting functions.
+\newblock {\em Bulletin of Mathematical Biology}, 50:\penalty0 97--120, 1988.
+
+\bibitem[Miller et~al.(1990)Miller, Ostell, and Rudd]{miller:1990a}
+W.~Miller, J.~Ostell, and K.E. Rudd.
+\newblock An algorithm for searching restriction maps.
+\newblock {\em CABIOS}, 3:\penalty0 247--252, 1990.
+
+\bibitem[Mount(2001)]{mount:2001a}
+D.W. Mount.
+\newblock {\em Bioinformatics: sequence and genome analysis}.
+\newblock Cold Spring Harbor Laboratory Press, first edition, 2001.
+\newblock ISBN 0-87969-608-7.
+
+\bibitem[Myers(1991)]{myers:1991a}
+E.W. Myers.
+\newblock An overview of sequence comparison algorithms in molecular biology.
+\newblock {\em Technical report TR 91-29, University of Arizona, Tucson,
+  Department of Computer Science}, pages 1--25, 1991.
+
+\bibitem[Myers and Huang(1992)]{myers:1992a}
+E.W. Myers and X.~Huang.
+\newblock An $o(n^2 log n)$ restriction map comparison and search algorithm.
+\newblock {\em Bull. Math. Biol.}, 54:\penalty0 599--618, 1992.
+
+\bibitem[Myers and Miller(1988)]{myers:1988a}
+E.W. Myers and W.~Miller.
+\newblock Optimal alignments in linear space.
+\newblock {\em CABIOS}, 4:\penalty0 11--17, 1988.
+
+\bibitem[Needleman and Wunsch(1970)]{needleman:1970a}
+S.~B. Needleman and C.~D. Wunsch.
+\newblock A general method to search for similarities in the amino acid
+  sequence of two proteins.
+\newblock {\em Journal of molecular biology}, 48:\penalty0 443--453, 1970.
+
+\bibitem[Ouzounis and Valencia(2003)]{ouzounis:2003}
+C.A. Ouzounis and A.~Valencia.
+\newblock Early bioinformatics: the birth of a discipline -- a personal view.
+\newblock {\em Bioinformatics}, 19:\penalty0 2176--2190, 2003.
+
+\bibitem[Pearson and Lipman(1988)]{pearson:1988a}
+W.R. Pearson and D.J. Lipman.
+\newblock {Improved tools for biological sequence comparison.}
+\newblock {\em Proceedings of the National Academy of Sciences}, 85:\penalty0
+  2444--2448, 1988.
+
+\bibitem[Pertsemlidis and Fondon(2001)]{pertsemlidis:2001a}
+A.~Pertsemlidis and J.W. Fondon.
+\newblock Having a blast with bioinformatics (and avoiding blastphemy).
+\newblock {\em Genome Biology}, 2:\penalty0 2002, 2001.
+
+\bibitem[Saitou and Nei(1987)]{saitou:1987a}
+N.~Saitou and M.~Nei.
+\newblock The neighbor-joining method: a new method for reconstructing
+  phylogenetic trees.
+\newblock {\em Molecular Biology and Evolution}, 4:\penalty0 406--425, 1987.
+
+\bibitem[Sankoff and Kruskal(1983)]{sankoff:1983a}
+D.~Sankoff and J.R. Kruskal.
+\newblock {\em Time warps, string edits, and macromolecules: The theory and
+  practice of sequence comparison}.
+\newblock Addison-Wesley, Don Mills, Ontario, 1983.
+\newblock ISBN 1-57586-217-4.
+
+\bibitem[Schmitt and Waterman(1991)]{schmitt:1991a}
+W.~Schmitt and M.S. Waterman.
+\newblock Multiple solutions of dna restriction mapping problems.
+\newblock {\em Advances in Applied Mathematics}, 12:\penalty0 412--427, 1991.
+
+\bibitem[Schneider and Stephens(1990)]{schneider:1990a}
+T.D. Schneider and R.M. Stephens.
+\newblock Sequence logos: a new way to display consensus sequences.
+\newblock {\em Nucleic Acids Research}, 18:\penalty0 6097--6100, 1990.
+
+\bibitem[Sellers(1974)]{sellers:1974a}
+P.~Sellers.
+\newblock On the theory and computation of evolutionary distances.
+\newblock {\em SIAM Journal of applied Mathematics}, 26:\penalty0 787--793,
+  1974.
+
+\bibitem[Sellers(1980)]{sellers:1980a}
+P.~Sellers.
+\newblock The theory and computation of evolutionary distances: pattern
+  recognition.
+\newblock {\em Journal of Algorithms}, 1:\penalty0 359--373, 1980.
+
+\bibitem[Sellers(1984)]{sellers:1984a}
+P.~Sellers.
+\newblock Pattern recognition in genetic sequences by mismatch density.
+\newblock {\em Bulletin of Mathematical Biology}, 46:\penalty0 501--514, 1984.
+
+\bibitem[Smith and Waterman(1981{\natexlab{a}})]{smith:1981a}
+T.F. Smith and M.S. Waterman.
+\newblock Comparison of biosequences.
+\newblock {\em Advances in Applied Mathematics}, 2:\penalty0 482--489,
+  1981{\natexlab{a}}.
+
+\bibitem[Smith and Waterman(1981{\natexlab{b}})]{smith:1981c}
+T.F. Smith and M.S. Waterman.
+\newblock Identification of common molecular subsequences.
+\newblock {\em Journal of Molecular Biology}, 147:\penalty0 195--197,
+  1981{\natexlab{b}}.
+
+\bibitem[Smith et~al.(1981)Smith, Waterman, and Fitch]{smith:1981b}
+T.F. Smith, M.S. Waterman, and W.M. Fitch.
+\newblock Comparative biosequence metrics.
+\newblock {\em Journal of Molecular Evolution}, 18:\penalty0 38--46, 1981.
+
+\bibitem[Thompson et~al.(1994)Thompson, Higgins, and Gibson]{thompson:1994a}
+J.~D. Thompson, D.~G. Higgins, and T.~J. Gibson.
+\newblock Clustalw: improving the sensitivity of progressive multiple sequence
+  alignment through sequence weighting, position-specific gap penalties and
+  weight matrix choice.
+\newblock {\em Nucleic Acids Research}, 22:\penalty0 4673--4680, 1994.
+
+\bibitem[Tyler et~al.(1991)Tyler, Horton, and Krause]{tyler:1991a}
+E.C. Tyler, M.R. Horton, and P.R. Krause.
+\newblock A review of algorithms for molecular sequence comparison.
+\newblock {\em Computers and Biomedical Research}, 24:\penalty0 72--96, 1991.
+
+\bibitem[Ulam(1972)]{ulam:1972a}
+S.M. Ulam.
+\newblock {\em Applications of number theory to numerical analysis.}, pages
+  1--3.
+\newblock Academic Press, New York, USA, 1972.
+
+\bibitem[Waterman and Eggert(1987)]{waterman:1987a}
+M.~S. Waterman and M.~Eggert.
+\newblock A new algorithm for best subsequence alignments with application to
+  trna-rrna comparisons.
+\newblock {\em Journal of Molecular Biology}, 197:\penalty0 723--728, 1987.
+
+\bibitem[Waterman et~al.(1984)Waterman, Smith, and Katcher]{waterman:1984c}
+M.~S. Waterman, T.~F. Smith, and H.~L. Katcher.
+\newblock Algorithms for restriction map comparisons.
+\newblock {\em Nucleic acids research}, 12:\penalty0 237--242, 1984.
+
+\bibitem[Waterman(1984{\natexlab{a}})]{waterman:1984b}
+M.S. Waterman.
+\newblock Efficient sequence alignment algorithms.
+\newblock {\em Journal of Theoretical Biology}, 108:\penalty0 333--337,
+  1984{\natexlab{a}}.
+
+\bibitem[Waterman(1984{\natexlab{b}})]{waterman:1984a}
+M.S. Waterman.
+\newblock General methods of sequence comparison.
+\newblock {\em Bulletin of mathematical biology}, 46:\penalty0 473--500,
+  1984{\natexlab{b}}.
+
+\bibitem[Waterman(1995)]{waterman:1995a}
+M.S. Waterman.
+\newblock {\em Introduction to computational biology}.
+\newblock Chapman and Hall, UK, 1995.
+\newblock ISBN 0-412-99391-0.
+
+\bibitem[Waterman et~al.(1990)Waterman, Joyce, and Eggert]{waterman:1990a}
+M.S. Waterman, J.~Joyce, and M.~Eggert.
+\newblock {\em Phylogenetic Analysis of DNA Sequences}, chapter {``Computer
+  alignment of sequences''}, pages 59--72.
+\newblock Oxford University Press, 1990.
+
+\bibitem[Waterman et~al.(1976)Waterman, Smith, and Beyer]{waterman:1976a}
+M.S. Waterman, T.F. Smith, and W.A. Beyer.
+\newblock Some biological sequence metrics.
+\newblock {\em Advances in Mathematics}, 20:\penalty0 367--387, 1976.
+
+\bibitem[White and Matise(2005)]{white:2005a}
+P.S. White and T.C. Matise.
+\newblock {\em Bioinformatics: A Practical Guide to the Analysis of Genes and
+  Proteins.}, chapter {``Mapping Databases.''}, pages 25--54.
+\newblock John Wiley \& Sons Inc., New York, USA, 2005.
+\newblock ISBN 0-471-47878-4.
+
+\end{thebibliography}

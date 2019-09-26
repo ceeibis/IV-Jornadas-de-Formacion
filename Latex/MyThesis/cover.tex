@@ -1,0 +1,129 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%                                                                          %%%
+%%%      PhD Thesis LaTeX TEMPLATE at Genome BioInformatics Laboratory       %%%
+%%%                                                                          %%%
+%%%               --- cover.tex : PDF BOOK COVERS (PRESS) ---                %%%
+%%%                                                                          %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%                                                                          %%%
+%%%      CopyLeft 2004 and beyond, by Josep F. Abril - jabril@imim.es        %%%
+%%%                                                                          %%%
+%%%    This thesis template has been adapted from Sergi Castellano and       %%%
+%%%    Genis Parra templates (2004),  which, in turn, largerly derived       %%%
+%%%    from Robert Castelo and Sergio Mendoza PhD thesis templates (2002).   %%%
+%%%                                                                          %%%
+%%%                   Under GNU/GPL copyleft license                         %%%
+%%%                                                                          %%%
+%%%              Questions and suggestions are WELCOMED !!!                  %%%
+%%%                  FEEL FREE TO USE AND IMPROVE IT !!!                     %%%
+%%%                                                                          %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% $Id: cover.tex 11 2005-03-29 00:58:58Z jabril $
+%
+\documentclass[final]{book} % To produce final version cover
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Initializing boolean switches %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\input{conf/define_booleans}
+\setboolean{PDFflg}{true}
+\setboolean{FINALflg}{true}
+\setboolean{COVERflg}{true}
+
+
+%%%%%%%%%%%%%%%%%%%%
+%%% Paper layout %%%
+%%%%%%%%%%%%%%%%%%%% 
+
+\usepackage{calc}
+\newlength{\spineWidth}
+\setlength{\spineWidth}{8mm}%
+\newlength{\coverWidth}
+\setlength{\coverWidth}{\thesisWidth * 2 + \spineWidth}
+                  % (170mm|6.69375inch) * 2 + 8mm = 348mm %
+
+\usepackage{geometry}
+           % BOOK COVER: Front + Spine + Back covers width 
+\newcommand{\setpagelayout}{%
+  \geometry{truedimen,pdftex,%landscape,%
+            paperwidth=\coverWidth,%
+            paperheight=\thesisHeight,%
+            includemp=false,%noheadfoot,%
+            left=0mm,right=0mm,%
+            top=20mm,bottom=20mm,%
+            marginparwidth=0mm,marginparsep=0mm%
+  }%geometry
+}%setpagelayout
+
+
+%%%%%%%%%%%%%%%%%%%%
+%%% PDF commands %%%
+%%%%%%%%%%%%%%%%%%%%
+
+% \usepackage{pdfpages} % To produce final version
+%                       % Declare it before \usepackage{graphicx}
+
+%%% Global pdfpages options %%%
+
+%\includepdfset{frame=false,pagecommand={\thispagestyle{fancyplain}}}
+              % Used in each \includepdf call
+              % unless overwritten locally
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% LaTeX parameters and extensions %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\input{mythesis.sty} % It also executes \setpagelayout
+\usepackage{mythesis} % Style file for this template mythesis.sty
+
+
+%%% Body: actual text with some control commands %%%
+
+\pagecolor{covergreen}%
+    \color{coverwhite}%
+\begin{document}
+\pagestyle{empty}
+\setlength{\fboxsep}{0pt}
+
+\noindent%\hspace{-5mm}%
+\begin{tabular}{@{}c@{}c@{}c@{}}
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% FIRST: BACK COVER %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%\draftbox{%
+ \begin{minipage}[b][\textheight][c]{\thesisWidth}
+   \input sections/bookback
+ \end{minipage}
+%}%draftbox
+&
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% THEN: SPINE COVER %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%\draftbox{%
+ \begin{minipage}[b][\textheight][c]{\spineWidth}%
+   \vspace{-220mm}%
+   \hspace{2mm}%
+   \begin{rotate}{-90}%
+     \begin{minipage}[b][4mm][c]{220mm}%
+       \avantgarboldLarge%
+       \hspace{1ex}\hfill\thytitle ~~ --- ~~ \thyauthorshort\hfill\hspace{1ex}%
+     \end{minipage}%
+   \end{rotate}%
+ \end{minipage}%
+%}%draftbox
+&
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% LAST: FRONT COVER %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%\draftbox{%
+ \begin{minipage}[b][\textheight][c]{\thesisWidth}
+   \input sections/bookcover
+ \end{minipage}
+%}%draftbox
+\\
+\end{tabular}
+
+\end{document}
+

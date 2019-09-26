@@ -1,0 +1,136 @@
+\begin{theglossary}
+
+\gloitem{\textsc{\textsf{ABS}}}{\label{absurl}\textsc{\textsf{ABS}} is a public database of experimentally verified orthologous transcription factor binding sites (TFBSs). Annotations have been collected from the literature and are manually curated. For each gene, TFBSs conserved in orthologous sequences from at least two different species must be available. For each regulatory site, the position, the motif and the sequence in which the site is present are available in a very simple format.}\mbox{}\newline \vskip -0.25ex\centerline{\small{}\url{http://genome.imim.es/datasets/abs2005/index.html}}\vskip 1.8ex\relax
+
+\glodelim 
+
+		\glsnumformat{96}
+
+\gloitem{\textsc{\textsf{CSHL Mammalian promoter database}}}{\label{cshlpromourl} Cold Spring Harbor Laboratory mammalian promoter database (CSHLmpd) used all known transcripts, integrating with predicted transcripts, to construct the gene set of human, mouse and rat genomes. For promoter information, they collected known promoter information from multiple resources, together with predicted ones. These promoters were mapped to genome, and linked to related genes. They also compared promoters of orthologous gene groups to detect the sequence conservation in promoter regions.}\mbox{}\newline \vskip -0.25ex\centerline{\small{}\url{http://rulai.cshl.edu/cshlmpd/index.html}}\vskip 1.8ex\relax
+
+\glodelim 
+
+		\glsnumformat{96}
+
+\gloitem{\textsc{\textsf{dbSNP}}{}}{\label{dbsnpurl}The NCBI database of SNPs. }\mbox{}\newline \vskip -0.25ex\centerline{\small{}\url{http://www.ncbi.nlm.nih.gov/SNP/}}\vskip 1.8ex\relax
+
+\glodelim 
+
+		\glsnumformat{26}
+
+\gloitem{\textsc{\textsf{DOE}} The Human Genome Project and Beyond}{\label{doeinfourl}Genome programs of the U.S. Department of Energy Office of Science. }\mbox{}\newline \vskip -0.25ex\centerline{\small{}\url{http://www.doegenomes.org/}}\vskip 1.8ex\relax
+
+\glodelim 
+
+		\glsnumformat{15}
+
+\gloitem{\textsc{\textsf{European Molecular Biology Laboratory (EMBL)}}}{\label{emblurl}EMBL-nucleotide sequence database. }\mbox{}\newline \vskip -0.25ex\centerline{\small{}\url{http://www.ebi.ac.uk/embl/}}\vskip 1.8ex\relax
+
+\glodelim 
+
+		\glsnumformat{19}
+
+\gloitem{\textsc{\textsf{Ensembl}}{}}{\label{ensemblurl}Ensembl is a joint project between EMBL - EBI and the Sanger Institute to develop a software system which produces and maintains automatic annotation on selected eukaryotic genomes. }\mbox{}\newline \vskip -0.25ex\centerline{\small{}\url{http://www.ensembl.org/}}\vskip 1.8ex\relax
+
+\glodelim 
+
+		\glsnumformat{20}
+
+\gloitem{\textsc{\textsf{EPD}}}{\label{epdurl}The Eukaryotic Promoter Database (EPD) is an annotated non-redundant collection of eukaryotic polymerase II promoters for which the TSS has been determined experimentally.}\mbox{}\newline \vskip -0.25ex\centerline{\small{}\url{http://www.epd.isb-sib.ch}}\vskip 1.8ex\relax
+
+\glodelim 
+
+		\glsnumformat{97}
+
+\gloitem{\textsc{\textsf{GenBank}}{}}{\label{genbankstatsurl}Overview about the content of \textsc{\textsf{GenBank}}{}.}\mbox{}\newline \vskip -0.25ex\centerline{\small{}\url{http://www.ncbi.nlm.nih.gov/Web/GenBank/genbankstats.html}}\vskip 1.8ex\relax
+
+\glodelim 
+
+		\glsnumformat{19}
+
+\gloitem{\textsc{\textsf{GenBank}}{}}{\label{emblurl}GenBank is the NIH genetic sequence database, an annotated collection of all publicly available DNA sequences. }\mbox{}\newline \vskip -0.25ex\centerline{\small{}\url{http://www.ncbi.nlm.nih.gov/Genbank/index.html}}\vskip 1.8ex\relax
+
+\glodelim 
+
+		\glsnumformat{19}
+
+\gloitem{\textsc{\textsf{Gene Ontology}}{}}{\label{gourl}The Gene Ontology (GO) project is a collaborative effort to address the need for consistent descriptions of gene products in different databases. The Gene Ontology project provides a controlled vocabulary to describe gene and gene product attributes in any organism. }\mbox{}\newline \vskip -0.25ex\centerline{\small{}\url{http://www.geneontology.org}}\vskip 1.8ex\relax
+
+\glodelim 
+
+		\glsnumformat{22}
+
+\gloitem{Genetics GSK report: Genes and diseases}{\label{gskurl}GlaxoSmithKline educational resource. }\mbox{}\newline \vskip -0.25ex\centerline{\small{}\url{http://genetics.gsk.com/link.htm}}\vskip 1.8ex\relax
+
+\glodelim 
+
+		\glsnumformat{25}
+
+\gloitem{\textsc{\textsf{JASPAR}}}{\label{jasparurl}\textsc{\textsf{Jaspar}} is a collection of transcription factor DNA-binding preferences, modelled as matrices. These can be converted into Position Weight Matrices (PWMs or PSSMs), used for scanning genomic sequences. \textsc{\textsf{Jaspar}} is the only database with this scope where the data can be used with no restrictions (open-source). }\mbox{}\newline \vskip -0.25ex\centerline{\small{}\url{http://mordor.cgb.ki.se/cgi-bin/jaspar2005/jaspar_db.pl}}\vskip 1.8ex\relax
+
+\glodelim 
+
+		\glsnumformat{96}
+
+\gloitem{\textsc{\textsf{NCBI}} A Science Primer (bioinformatics)}{\label{ncbiinfotwourl}A Basic Introduction to the Science Underlying NCBI Resources. }\mbox{}\newline \vskip -0.25ex\centerline{\small{}\url{http://www.ncbi.nlm.nih.gov/About/primer/bioinformatics.html}}\vskip 1.8ex\relax
+
+\glodelim 
+
+		\glsnumformat{17}
+
+\gloitem{\textsc{\textsf{NCBI}} A Science Primer (genomics)}{\label{ncbiinfourl}A Basic Introduction to the Science Underlying NCBI Resources. }\mbox{}\newline \vskip -0.25ex\centerline{\small{}\url{http://www.ncbi.nlm.nih.gov/About/primer/genetics_genome.html}}\vskip 1.8ex\relax
+
+\glodelim 
+
+		\glsnumformat{12}
+
+\gloitem{\textsc{\textsf{NCBI}} A Science Primer (pharmacogenomics)}{\label{ncbiinfothreeurl}A Basic Introduction to the Science Underlying NCBI Resources. }\mbox{}\newline \vskip -0.25ex\centerline{\small{}\url{http://www.ncbi.nlm.nih.gov/About/primer/pharm.html}}\vskip 1.8ex\relax
+
+\glodelim 
+
+		\glsnumformat{26}
+
+\gloitem{\textsc{\textsf{NCBI Map Viewer}}{}}{\label{ncbigburl}The Entrez Map Viewer is a software component of Entrez Genomes. It allows you to view an organism's complete genome, integrated maps (when available) for each chromosome, and sequence data for a region of interest. }\mbox{}\newline \vskip -0.25ex\centerline{\small{}\url{http://www.ncbi.nlm.nih.gov/mapview/}}\vskip 1.8ex\relax
+
+\glodelim 
+
+		\glsnumformat{20}
+
+\gloitem{NHGRI/NIH report: Genetics, the Future of Medicine}{\label{nhgriurl}National Human Genome Research Institute. }\mbox{}\newline \vskip -0.25ex\centerline{\small{}\url{www.nhgri.nih.gov}}\vskip 1.8ex\relax
+
+\glodelim 
+
+		\glsnumformat{25}
+
+\gloitem{\textsc{\textsf{PROMO}}}{\label{promourl}\textsc{\textsf{PROMO}} is a virtual laboratory for the identification of putative transcription factor binding sites (TFBS) in DNA sequences from a species or groups of species of interest. TFBS defined in the \textsc{\textsf{Transfac}} database are used to construct specific binding site weight matrices for TFBS prediction. The user can inspect the result of the search through a graphical interface and downloadable text files. }\mbox{}\newline \vskip -0.25ex\centerline{\small{}\url{http://alggen.lsi.upc.es/}}\vskip 1.8ex\relax
+
+\glodelim 
+
+		\glsnumformat{96}
+
+\gloitem{\textsc{\textsf{The Reference Collection (RefSeq)}}}{\label{refsequrl}The Reference Sequence (RefSeq) collection aims to provide a comprehensive, integrated, non-redundant set of sequences, including genomic DNA, transcript (RNA), and protein products, for major research organisms. }\mbox{}\newline \vskip -0.25ex\centerline{\small{}\url{http://www.ncbi.nlm.nih.gov/RefSeq/}}\vskip 1.8ex\relax
+
+\glodelim 
+
+		\glsnumformat{20}
+
+\gloitem{\textsc{\textsf{TRANSFAC}}}{\label{transurl}\textsc{\textsf{Transfac}} is a database on eukaryotic cis-acting regulatory DNA elements and trans-acting factors. It covers the whole range from yeast to human. }\mbox{}\newline \vskip -0.25ex\centerline{\small{}\url{http://www.gene-regulation.com/pub/databases.html\#transfac}}\vskip 1.8ex\relax
+
+\glodelim 
+
+		\glsnumformat{96}
+
+\gloitem{\textsc{\textsf{UBC Biomedia Image and Movie Database}}}{\label{biomediaurl}The Biomedia database is designed to provide Cell Biology students with a large number of images and movies of cell structure from a wide variety of cell types. The images and movies have been generated using high quality light microscopes, transmission electron microscopes (TEM) and scanning electron microscopes (SEM), such as the ones found in the UBC BioImaging Facility.}\mbox{}\newline \vskip -0.25ex\centerline{\small{}\url{https://www.biomedia.cellbiology.ubc.ca/cellbiol/default.php}}\vskip 1.8ex\relax
+
+\glodelim 
+
+		\glsnumformat{11}
+
+\gloitem{\textsc{\textsf{UCSC Genome Browser}}{}}{\label{ucscgburl}This site contains the reference sequence and working draft assemblies for a large collection of genomes. It also provides a portal to the ENCODE project. }\mbox{}\newline \vskip -0.25ex\centerline{\small{}\url{http://genome.ucsc.edu/}}\vskip 1.8ex\relax
+
+\glodelim 
+
+		\glsnumformat{20}
+
+\end{theglossary}
+

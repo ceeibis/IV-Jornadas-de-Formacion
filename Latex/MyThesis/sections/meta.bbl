@@ -1,0 +1,354 @@
+\begin{thebibliography}{54}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}\fi
+
+\bibitem[Abril et~al.(2005)Abril, Castelo, and Guigo]{abril:2005a}
+J.~F. Abril, R.~Castelo, and R.~Guigo.
+\newblock Comparison of splice sites in mammals and chicken.
+\newblock {\em Genome Research}, 15:\penalty0 111--119, 2005.
+
+\bibitem[Abril and Guigo(2000)]{abril:2000a}
+J.~F. Abril and R.~Guigo.
+\newblock gff2ps: visualizing genomic annotations.
+\newblock {\em Bioinformatics}, 8:\penalty0 743--744, 2000.
+
+\bibitem[Altschul et~al.(1990)Altschul, Gish, Miller, Myers, and
+  Lipman]{altschul:1990a}
+S.F. Altschul, W.~Gish, W.~Miller, E.W. Myers, and D.J. Lipman.
+\newblock Basic local alignment search tool.
+\newblock {\em Journal of Molecular Biology}, 215:\penalty0 403--10, 1990.
+
+\bibitem[Bailey and Elkan(1994)]{bailey:1994a}
+T.~L. Bailey and C.~Elkan.
+\newblock Fitting a mixture model by expectation maximization to discover
+  motifs in biopolymers.
+\newblock {\em Proceedings of the 2nd International Conference on Intelligent
+  Systems for Molecular Biology (ISMB)}, pages 28--36, 1994.
+
+\bibitem[Bateman et~al.(2004)Bateman, Coin, Durbin, Finn, Hollich,
+  Griffiths-Jones, Khanna, Marshall, Moxon, Sonnhammer, Studholme, Yeats, and
+  Eddy]{bateman:2004a}
+A.~Bateman, L.~Coin, R.~Durbin, R.D. Finn, V.~Hollich, S.~Griffiths-Jones,
+  A.~Khanna, M.~Marshall, S.~Moxon, E.L.L. Sonnhammer, D.J. Studholme,
+  C.~Yeats, and S.R. Eddy.
+\newblock The {Pfam} protein families database.
+\newblock {\em Nucleic Acids Research}, pages D138--D141, 2004.
+
+\bibitem[Batzoglou et~al.(2000)Batzoglou, Pachter, Mesirov, Berger, and
+  Lander]{batzoglou:2000a}
+S.~Batzoglou, L.~Pachter, J.P. Mesirov, B.~Berger, and E.S. Lander.
+\newblock Human and mouse gene structure: comparative analysis and application
+  to exon prediction.
+\newblock {\em Genome Research}, 10:\penalty0 950--958, 2000.
+
+\bibitem[Berezikov et~al.(2004)Berezikov, Guryev, Plasterk, and
+  Cuppen]{berezikov:2004a}
+E.~Berezikov, V.~Guryev, R.~H.~A. Plasterk, and E.~Cuppen.
+\newblock Conreal: conserved regulatory elements anchored alignment algorithm
+  for identification of transcription factor binding sites by phylogenetic
+  footprinting.
+\newblock {\em Genome Research}, 14:\penalty0 170--178, 2004.
+
+\bibitem[Blanchette and Tompa(2002)]{blanchette:2002a}
+M.~Blanchette and M.~Tompa.
+\newblock Discovery of regulatory elements by a computational method for
+  phylogenetic footprinting.
+\newblock {\em Genome Research}, 12:\penalty0 739--748, 2002.
+
+\bibitem[Blanco et~al.(2006{\natexlab{a}})Blanco, Farre, Alba, Messeguer, and
+  Guig\'o]{blanco:2006a}
+E.~Blanco, D.~Farre, M.~Alba, X.~Messeguer, and R.~Guig\'o.
+\newblock {ABS}: a database of annotated regulatory binding sites from
+  orthologous promoters.
+\newblock {\em Nucleic Acids Research}, 34:\penalty0 D63--D67,
+  2006{\natexlab{a}}.
+
+\bibitem[Blanco et~al.(2006{\natexlab{b}})Blanco, Messeguer, Smith, and
+  Guig\'o]{blanco:2006b}
+E.~Blanco, X.~Messeguer, T.F. Smith, and R.~Guig\'o.
+\newblock Transcription factor map alignments of promoter regions.
+\newblock {\em PLoS Computational Biology}, 2:\penalty0 e49,
+  2006{\natexlab{b}}.
+
+\bibitem[Costa et~al.(1989)Costa, Grayson, and Darnell]{costa:1989a}
+R.~H. Costa, D.~R. Grayson, and J.~E. Darnell.
+\newblock Multiple hepatocyte-enriched nuclear factors function in the
+  regulation of transthyretinand $\alpha$1.antitrypsin genes.
+\newblock {\em Molecular and Cellular Biology}, 9:\penalty0 1415--1425, 1989.
+
+\bibitem[Dermitzakis and Clark(2002)]{dermitzakis:2002a}
+E.~T. Dermitzakis and A.~G. Clark.
+\newblock Evolution of transcription factor binding sites in mammalian gene
+  regulatory regions: conservation and turnover.
+\newblock {\em Molecular Biology and Evolution}, 7:\penalty0 1114--1121, 2002.
+
+\bibitem[Farre et~al.(2003)Farre, Roset, Huerta, Adsuara, Rosello, Alba, and
+  Messeguer]{farre:2003a}
+D.~Farre, R.~Roset, M.~Huerta, J.~E. Adsuara, LL. Rosello, M.~Alba, and
+  X.~Messeguer.
+\newblock Identification of patterns in biological sequences at the {ALGGEN}
+  server: {PROMO} and {MALGEN}.
+\newblock {\em Nucleic Acids Research}, 31:\penalty0 3651--3653, 2003.
+
+\bibitem[Frech et~al.(1997)Frech, Danescu-Mayer, and Werner]{frech:1997a}
+K.~Frech, J.~Danescu-Mayer, and T.~Werner.
+\newblock A novel method to develop highly specific models for regulatory units
+  detects a new {LTR} in genbank which contains a functional promoter.
+\newblock {\em Journal of Molecular Biology}, 270:\penalty0 674--687, 1997.
+
+\bibitem[Goad and Kanehisa(1982)]{goad:1982a}
+W.B. Goad and M.I. Kanehisa.
+\newblock Pattern recognition in nucleic acid sequences i. a general method for
+  finding local homologies and symmetries.
+\newblock {\em Nucleic Acids Research}, 10:\penalty0 247--278, 1982.
+
+\bibitem[Griffith et~al.(2005)Griffith, Pleasance, Fulton, Oveisi, Ester,
+  Sidiqui, and Jones]{griffith:2005a}
+O.~L. Griffith, E.~D. Pleasance, D.~L. Fulton, M.~Oveisi, M.~Ester, A.~Sidiqui,
+  and S.~J.~M. Jones.
+\newblock Assessment and integration of publicly available {SAGE}, {cDNA}
+  microarray, and oligonucleotide microarray expression data for global
+  coexpression analyses.
+\newblock {\em Genomics}, 86:\penalty0 476--488, 2005.
+
+\bibitem[Hillier et~al.(2004)Hillier, Miller, Birney, Warren, Hardison,
+  Ponting, Bork, Burt, Groenen, Delany, Dodgson, Sequence, Assembly, Chinwalla,
+  Cliften, Clifton, and others {(International Chicken Genome Sequencing
+  Consortium, ICGSC)}]{hillier:2004a}
+L.W. Hillier, W.~Miller, E.~Birney, W.~Warren, R.C. Hardison, C.P. Ponting,
+  P.~Bork, D.W. Burt, M.A. Groenen, M.E. Delany, J.B. Dodgson,
+  G.~Fingerprint~Map Sequence, Assembly, A.T. Chinwalla, P.F. Cliften, S.W.
+  Clifton, and others {(International Chicken Genome Sequencing Consortium,
+  ICGSC)}.
+\newblock Sequence and comparative analysis of the chicken genome provide
+  unique perspectives on vertebrate evolution.
+\newblock {\em Nature}, 432:\penalty0 695--716, 2004.
+
+\bibitem[Huang and Waterman(1992)]{huang:1992a}
+X.~Huang and M.~S. Waterman.
+\newblock Dynamic programming algorithms for restriction map comparison.
+\newblock {\em Bioinformatics}, 8:\penalty0 511--520, 1992.
+
+\bibitem[Klingenhoff et~al.(1999)Klingenhoff, Frech, Quandt, and
+  Werner]{klingenhoff:1999a}
+A.~Klingenhoff, K.~Frech, K.~Quandt, and T.~Werner.
+\newblock Functional promoter modules can be detected by formal models
+  independent of overall nucleotide sequence similarity.
+\newblock {\em Bioinformatics}, 15:\penalty0 180--186, 1999.
+
+\bibitem[Knight and Myers(1995)]{knight:1995a}
+J.~R. Knight and E.~W. Myers.
+\newblock Super-pattern matching.
+\newblock {\em Algorithmica}, 13:\penalty0 211--243, 1995.
+
+\bibitem[Krivan and Wasserman(2001)]{krivan:2001a}
+W.~Krivan and W.~W. Wasserman.
+\newblock A predictive model for regulatory sequences detecting liver-specific
+  transcription.
+\newblock {\em Genome Research}, 11:\penalty0 1559--1566, 2001.
+
+\bibitem[Lenhard et~al.(2003)Lenhard, Sandelin, Mendoza, Engstrom, Jareborg,
+  and Wasserman]{lenhard:2003a}
+B.~Lenhard, A.~Sandelin, L.~Mendoza, P.~Engstrom, N.~Jareborg, and W.~W.
+  Wasserman.
+\newblock Identification of conserved regulatory elements by comprative genome
+  analysis.
+\newblock {\em Journal of Biology}, 2:\penalty0 13, 2003.
+
+\bibitem[Lodish et~al.(2000)Lodish, Berk, Zipursky, Matsudaira, Baltimore, and
+  Darnell]{lodish:2000a}
+H.~Lodish, A.~Berk, L.~Zipursky, P.~Matsudaira, D.~Baltimore, and J.~Darnell.
+\newblock {\em Molecular Cell Biology}.
+\newblock W.H. Freeman, fourth edition, 2000.
+\newblock ISBN 0-7167-3706-X.
+
+\bibitem[Matys et~al.(2003)]{matys:2003a}
+V.~Matys et~al.
+\newblock {TRANSFAC}: transcriptional regulation, from patterns to profiles.
+\newblock {\em Nucleic Acids Research}, 31:\penalty0 374--378, 2003.
+
+\bibitem[Miller et~al.(1991)Miller, Barr, and Rudd.]{miller:1991a}
+W.~Miller, J.~Barr, and K.E. Rudd.
+\newblock Improved algorithms for searching restriction maps.
+\newblock {\em CABIOS}, 7:\penalty0 447--456, 1991.
+
+\bibitem[Miller et~al.(1990)Miller, Ostell, and Rudd]{miller:1990a}
+W.~Miller, J.~Ostell, and K.E. Rudd.
+\newblock An algorithm for searching restriction maps.
+\newblock {\em CABIOS}, 3:\penalty0 247--252, 1990.
+
+\bibitem[Myers and Huang(1992)]{myers:1992a}
+E.W. Myers and X.~Huang.
+\newblock An $o(n^2 log n)$ restriction map comparison and search algorithm.
+\newblock {\em Bull. Math. Biol.}, 54:\penalty0 599--618, 1992.
+
+\bibitem[Needleman and Wunsch(1970)]{needleman:1970a}
+S.~B. Needleman and C.~D. Wunsch.
+\newblock A general method to search for similarities in the amino acid
+  sequence of two proteins.
+\newblock {\em Journal of molecular biology}, 48:\penalty0 443--453, 1970.
+
+\bibitem[Olson(2002)]{olson:2002a}
+S.A. Olson.
+\newblock {\texttt{EMBOSS} opens up sequence analysis. European Molecular
+  Biology Open Software Suite.}
+\newblock {\em Briefings in Bioinformatics}, 3:\penalty0 87--91, 2002.
+
+\bibitem[Pruitt et~al.(2005)Pruitt, Tatusova, and Maglott]{pruitt:2005a}
+K.D. Pruitt, T.~Tatusova, and D.R. Maglott.
+\newblock {NCBI Reference Sequence (\textsc{RefSeq}): a curated non-redundant
+  sequence database of genomes, transcripts and proteins.}
+\newblock {\em Nucleic Acids Research}, 33 Database Issue:\penalty0 D501--D504,
+  2005.
+
+\bibitem[Quandt et~al.(1996)Quandt, Grote, and Werner]{quandt:1996a}
+K.~Quandt, K.~Grote, and T.~Werner.
+\newblock {GenomeInspector}: a new approach to detect correlation patterns of
+  elements on genomic sequences.
+\newblock {\em CABIOS}, 12:\penalty0 404--413, 1996.
+
+\bibitem[Rahmann et~al.(2003)Rahmann, Muller, and Vingron]{rahmann:2003a}
+S.~Rahmann, T.~Muller, and M.~Vingron.
+\newblock On the power of profiles for transcription factor binding site
+  detection.
+\newblock {\em Statistical Applications in Genetics and Molecular Biology},
+  2:\penalty0 7, 2003.
+
+\bibitem[Robertson et~al.(2006)Robertson, Bilenky, Lin, He, W.Yuen,
+  et~al.]{robertson:2006a}
+A.G. Robertson, M.~Bilenky, K.~Lin, A.~He, W.Yuen, et~al.
+\newblock {cisRED}: a database system for genome-scale computational discovery
+  of regulatory elements.
+\newblock {\em Nucleic Acids Research}, 34:\penalty0 D68--D73, 2006.
+
+\bibitem[Roth et~al.(1998)Roth, Hughes, Estep, and Church]{roth:1998a}
+F.R. Roth, J.D. Hughes, P.E. Estep, and G.M. Church.
+\newblock Finding dna regulatory motifs within unaligned non-coding sequences
+  clustered by whole-genome mrna quantitation.
+\newblock {\em Nature Biotechnology}, 16:\penalty0 939--945, 1998.
+
+\bibitem[Sandelin et~al.(2004)Sandelin, Alkema, Engstrom, Wasserman, and
+  Lenhard]{sandelin:2004a}
+A.~Sandelin, W.~Alkema, P.~Engstrom, W.~W. Wasserman, and B.~Lenhard.
+\newblock {JASPAR}: an open-access database for eukaryotic transcription factor
+  binding profiles.
+\newblock {\em Nucleic Acids Research}, 32:\penalty0 D91--D94, 2004.
+
+\bibitem[Schneider and Stephens(1990)]{schneider:1990a}
+T.D. Schneider and R.M. Stephens.
+\newblock Sequence logos: a new way to display consensus sequences.
+\newblock {\em Nucleic Acids Research}, 18:\penalty0 6097--6100, 1990.
+
+\bibitem[Schones et~al.(2005)Schones, Sumazin, and Zhang]{schones:2005a}
+D.~E. Schones, P.~Sumazin, and M.~Q. Zhang.
+\newblock Similarity of position frequency matrices for transcription factor
+  binding sites.
+\newblock {\em Bioinformatics}, 21:\penalty0 307--313, 2005.
+
+\bibitem[Smale and Kadonaga(2003)]{smale:2003a}
+S.T. Smale and J.T. Kadonaga.
+\newblock The {RNA} polymerase {II} core promoter.
+\newblock {\em Annu. Rev. Biochem}, 72:\penalty0 449--479, 2003.
+
+\bibitem[Smith and Waterman(1981)]{smith:1981c}
+T.F. Smith and M.S. Waterman.
+\newblock Identification of common molecular subsequences.
+\newblock {\em Journal of Molecular Biology}, 147:\penalty0 195--197, 1981.
+
+\bibitem[Smith et~al.(1981)Smith, Waterman, and Fitch]{smith:1981b}
+T.F. Smith, M.S. Waterman, and W.M. Fitch.
+\newblock Comparative biosequence metrics.
+\newblock {\em Journal of Molecular Evolution}, 18:\penalty0 38--46, 1981.
+
+\bibitem[Stormo(2000)]{stormo:2000a}
+G.D. Stormo.
+\newblock Gene-finding approaches for eukaryotes.
+\newblock {\em Genome Research}, 10:\penalty0 394--397, 2000.
+
+\bibitem[Strachan and Read(1999)]{strachan:1999a}
+T.~Strachan and A.P. Read.
+\newblock {\em Human Molecular Genetics 2}.
+\newblock John Wiley \& Sons, Inc. (New York, USA), 1999.
+\newblock ISBN 0471330612.
+
+\bibitem[Suzuki et~al.(2004)Suzuki, Yamashita, Sugano, and Nakai]{suzuki:2004a}
+Y.~Suzuki, R.~Yamashita, S.~Sugano, and K.~Nakai.
+\newblock Dbtss: Database of transcriptional start sites: progress report 2004.
+\newblock {\em Nucleic Acids Research}, 32:\penalty0 D78 -- D81, 2004.
+
+\bibitem[{The Gene Ontology Consortium}(2000)]{tgoc:2000a}
+{The Gene Ontology Consortium}.
+\newblock Gene ontology: tool for the unification of biology.
+\newblock {\em Nature Genetics}, 25:\penalty0 25--29, 2000.
+
+\bibitem[Thompson et~al.(1994)Thompson, Higgins, and Gibson]{thompson:1994a}
+J.~D. Thompson, D.~G. Higgins, and T.~J. Gibson.
+\newblock Clustalw: improving the sensitivity of progressive multiple sequence
+  alignment through sequence weighting, position-specific gap penalties and
+  weight matrix choice.
+\newblock {\em Nucleic Acids Research}, 22:\penalty0 4673--4680, 1994.
+
+\bibitem[Tompa et~al.(2005)]{tompa:2005a}
+M.~Tompa et~al.
+\newblock Assessing computational tools for the discovery of transcription
+  factor binding sites.
+\newblock {\em Nature Biotechnology}, 23:\penalty0 137--144, 2005.
+
+\bibitem[Venter et~al.(2001)Venter, Adams, Myers, Li, Mural, Sutton, Smith,
+  Yandell, Evans, Holt, Gocayne, Amanatides, Ballew, Huson, Wortman,
+  et~al.]{venter:2001a}
+J.C. Venter, M.D. Adams, E.W. Myers, P.W. Li, R.J. Mural, G.G. Sutton, H.O.
+  Smith, M.~Yandell, C.A. Evans, R.A. Holt, J.D. Gocayne, P.~Amanatides, R.M.
+  Ballew, D.H. Huson, J.R. Wortman, et~al.
+\newblock The sequence of the human genome.
+\newblock {\em Science}, 291:\penalty0 1304--1351, 2001.
+
+\bibitem[Wasserman and Fickett(1998)]{wasserman:1998a}
+W.~W. Wasserman and J.~W. Fickett.
+\newblock Identification of regulatory regions which confer muscle-specific
+  gene expression.
+\newblock {\em Journal of Molecular Biology}, 278:\penalty0 167--181, 1998.
+
+\bibitem[Waterman et~al.(1984)Waterman, Smith, and Katcher]{waterman:1984c}
+M.~S. Waterman, T.~F. Smith, and H.~L. Katcher.
+\newblock Algorithms for restriction map comparisons.
+\newblock {\em Nucleic acids research}, 12:\penalty0 237--242, 1984.
+
+\bibitem[Waterman(1984)]{waterman:1984a}
+M.S. Waterman.
+\newblock General methods of sequence comparison.
+\newblock {\em Bulletin of mathematical biology}, 46:\penalty0 473--500, 1984.
+
+\bibitem[Waterman(1995)]{waterman:1995a}
+M.S. Waterman.
+\newblock {\em Introduction to computational biology}.
+\newblock Chapman and Hall, UK, 1995.
+\newblock ISBN 0-412-99391-0.
+
+\bibitem[Waterston et~al.(2002)Waterston, Lindblad-Toh, Birney, Rogers, Abril,
+  Agarwal, Agarwala, Ainscough, Alexandersson, An, Antonarakis, Attwood,
+  Baertsch, Bailey, Barlow, and others {(International Mouse Genome Sequencing
+  Consortium, IMGSC)}]{waterston:2002a}
+R.H. Waterston, K.~Lindblad-Toh, E.~Birney, J.~Rogers, J.F. Abril, P.~Agarwal,
+  R.~Agarwala, R.~Ainscough, M.~Alexandersson, P.~An, S.E. Antonarakis,
+  J.~Attwood, R.~Baertsch, J.~Bailey, K.~Barlow, and others {(International
+  Mouse Genome Sequencing Consortium, IMGSC)}.
+\newblock {Initial sequencing and comparative analysis of the mouse genome.}
+\newblock {\em Nature}, 420:\penalty0 520--562, 2002.
+
+\bibitem[Wray et~al.(2003)Wray, Hahn, Abouheif, Balhoff, Pizer, Rockman, and
+  Romano]{wray:2003a}
+G.A. Wray, M.W. Hahn, E.~Abouheif, J.P Balhoff, M.~Pizer, M.V. Rockman, and
+  L.A. Romano.
+\newblock The evolution of transcriptional ragulation in eukaryotes.
+\newblock {\em Molecular Biology and Evolution}, 20:\penalty0 1377--1419, 2003.
+
+\bibitem[Yamashita et~al.(2005)Yamashita, Suzuki, Sugano, and
+  Nakai]{yamashita:2005a}
+R.~Yamashita, Y.~Suzuki, S.~Sugano, and K.~Nakai.
+\newblock Genome-wide analysis reveals strong correlation between {CpG} islands
+  with nearby transcription start sites of genes and their tissue specificity.
+\newblock {\em Gene}, 350:\penalty0 129--136, 2005.
+
+\end{thebibliography}

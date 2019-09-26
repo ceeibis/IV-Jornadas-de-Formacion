@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99c (Web2C 7.4.5)
+The top-level auxiliary file: ./sections/algorithms.aux
+The style file: plainnat.bst
+Database file #1: sections/bibliography.bib
+I was expecting a `,' or a `}'---line 2010 of file sections/bibliography.bib
+ :   
+ :   journal = {Nature Genetics},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 2019 of file sections/bibliography.bib
+ :   
+ :   journal = {Nature},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--can't use both author and editor fields in gumbel:1962a
+Warning--empty title in hamming:1950a
+Warning--can't use both author and editor fields in ulam:1972a
+Warning--can't use both author and editor fields in white:2005a
+You've used 62 entries,
+            2633 wiz_defined-function locations,
+            923 strings with 13079 characters,
+and the built_in function-call counts, 28847 in all, are:
+= -- 2817
+> -- 1344
+< -- 56
++ -- 500
+- -- 423
+* -- 2135
+:= -- 4741
+add.period$ -- 193
+call.type$ -- 62
+change.case$ -- 380
+chr.to.int$ -- 60
+cite$ -- 66
+duplicate$ -- 1292
+empty$ -- 2273
+format.name$ -- 543
+if$ -- 5939
+int.to.chr$ -- 3
+int.to.str$ -- 1
+missing$ -- 75
+newline$ -- 323
+num.names$ -- 248
+pop$ -- 582
+preamble$ -- 1
+purify$ -- 327
+quote$ -- 0
+skip$ -- 972
+stack$ -- 0
+substring$ -- 1632
+swap$ -- 118
+text.length$ -- 11
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 617
+warning$ -- 4
+while$ -- 287
+width$ -- 0
+write$ -- 822
+(There were 2 error messages)

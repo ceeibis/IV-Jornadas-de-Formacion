@@ -1,0 +1,10 @@
+% makeindex style file created by LaTeX for document "cover" on 20th~November 2006
+keyword "\\glossaryentry"
+preamble "\\begin{theglossary}"
+postamble "\n\\end{theglossary}\n"
+group_skip "\\gloskip "
+item_0 "\n\\gloitem "
+delim_0 "\n\\glodelim "
+page_compositor "-"
+delim_n "\\delimN"
+delim_r "\\delimR"

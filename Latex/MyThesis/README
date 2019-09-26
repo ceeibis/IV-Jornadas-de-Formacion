@@ -1,0 +1,99 @@
+################################################################################
+###                                                                          ###
+###      PhD Thesis LaTeX TEMPLATE at Genome BioInformatics Laboratory       ###
+###                                                                          ###
+################################################################################
+###                                                                          ###
+###      CopyLeft 2004 and beyond, by Josep F. Abril - jabril@imim.es        ###
+###                                                                          ###
+###    This thesis template has been adapted from Sergi Castellano and       ###
+###    Genis Parra templates (2004),  which, in turn, largerly derived       ###
+###    from Robert Castelo and Sergio Mendoza PhD thesis templates (2002).   ###
+###                                                                          ###
+###                   Under GNU/GPL copyleft license                         ###
+###                                                                          ###
+###              Questions and suggestions are WELCOMED !!!                  ###
+###                  FEEL FREE TO USE AND IMPROVE IT !!!                     ###
+###                                                                          ###
+################################################################################
+###
+###  $Id$
+###
+
+  This README file describes how to use the PhD Thesis LaTex Template
+files, along with the Makefile automating the process of compiling
+figures, tables and documents.
+
+1. FILES:
+
+  README       This file, of course... ;,D
+
+  Makefile     The file containing the commands to compile all docs
+               and which tells "make" what dependencies there are among
+               the document files. So if any gets updated, only those
+               depending on the file changed will be regenerated.
+
+  thesis.tex   The main LaTeX document, collecting all the customization
+               files and the sections documents.
+
+  conf/        The preamble for each draft/final document (PS/PDF/PRESS)
+               and customized packages can be found here.
+
+  sections/    Where the LaTeX files for each section can be found.
+
+  papers/      The final PDF version of each publication included in 
+               this PhD thesis. 
+
+  figures/     The original LaTeX files to produce the document figures.
+               Once compiled, the final PostScript output is saved to "ps"
+               directory.
+
+  tables/      In order to get all the tables properly scaled into the current 
+               page layout, the best choice is to define them as separate
+               LaTeX document and include them as PostScript figures.
+               Once compiled, the final PostScript output is saved to "ps"
+               directory too.
+
+  ps/          Where all the PostScript final figures/tables can
+               be found by "includegraphics".
+
+  docbuilds/   The final documents from each compilation are stored here.
+
+
+  branches/
+  tags/
+  trunk/       These three subdirectories are only required if you are
+               going to use the "subversion" control version system
+               instead of the standard "CVS" (in such case you will have
+               a CVS subdirectory).
+
+
+2. COMPILING:
+
+Type "make pdf" at command-line to produce a new pdf version of the
+whole document thesis. The follwoing list shows all the parameters
+that can be passed to "make" in order to achieve different results:
+
+   <PARAM>      PROCESS
+
+       all
+       pdf
+        ps   
+     press  
+    backup   
+     clean
+  cleanall
+  forceall
+
+
+3. HISTORY
+
+Initial LaTeX template files and Makefile were devised by 
+
+
+################################################################################
+#        1         2         3         4         5         6         7         8
+#2345678901234567890123456789012345678901234567890123456789012345678901234567890
+################################################################################
+
+##################################### EOF ######################################

@@ -1,0 +1,126 @@
+\select@language {english}
+\gdef \the@ipfilectr {@-1}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-2}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-3}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-4}
+\chapterbegin 
+\contentsline {starchapter}{Preface}{vii}{chapter*.1}
+\gdef \the@ipfilectr {}
+\chapterbegin 
+\contentsline {starchapter}{Contents}{xi}{chapter*.2}
+\chapterbegin 
+\contentsline {starchapter}{List of Tables}{xiii}{chapter*.3}
+\chapterbegin 
+\contentsline {starchapter}{List of Figures}{xvii}{chapter*.4}
+\gdef \the@ipfilectr {@-5}
+\chapterbegin 
+\contentsline {starchapter}{Acknowledgments}{xix}{chapter*.5}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-6}
+\chapterbegin 
+\contentsline {starchapter}{Abstract}{xxi}{chapter*.6}
+\chapterbegin 
+\contentsline {starchapter}{Resumen}{xxiii}{chapter*.7}
+\chapterbegin 
+\contentsline {starchapter}{Resum}{xxv}{chapter*.8}
+\gdef \the@ipfilectr {}
+\contentsline {part}{I\hspace {1em}Preliminaries}{1}{part.1}
+\gdef \the@ipfilectr {@-7}
+\contentsline {chapter}{\numberline {1}Introduction}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}General objectives}{4}{section.1.1}
+\contentsline {section}{\numberline {1.2}Objectives}{4}{section.1.2}
+\contentsline {section}{\numberline {1.3}Thesis chronology}{5}{section.1.3}
+\contentsline {section}{\numberline {1.4}Outline of this thesis}{7}{section.1.4}
+\contentsline {section}{\numberline {1.5}Particular considerations}{8}{section.1.5}
+\contentsline {xpart}{Preliminaries}{3}{part.1}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-8}
+\contentsline {chapter}{\numberline {2}The post-genomic era}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}The genomic landscape}{10}{section.2.1}
+\contentsline {section}{\numberline {2.2}The genomic era}{17}{section.2.2}
+\contentsline {section}{\numberline {2.3}The post-genomic era}{24}{section.2.3}
+\gdef \the@ipfilectr {}
+\contentsline {part}{II\hspace {1em}State of the Art}{29}{part.2}
+\gdef \the@ipfilectr {@-9}
+\contentsline {chapter}{\numberline {3}The golden age of sequence analysis}{31}{chapter.3}
+\contentsline {section}{\numberline {3.1}Foundations of sequence comparison}{32}{section.3.1}
+\contentsline {section}{\numberline {3.2}Alphabets, sequences and alignments}{35}{section.3.2}
+\contentsline {section}{\numberline {3.3}An anthology of algorithms for global alignments}{40}{section.3.3}
+\contentsline {section}{\numberline {3.4}A short overview on local sequence alignment}{61}{section.3.4}
+\contentsline {section}{\numberline {3.5}A short overview on multiple sequence alignment}{69}{section.3.5}
+\contentsline {section}{\numberline {3.6}Map alignments}{72}{section.3.6}
+\contentsline {xpart}{State of the Art}{31}{part.2}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-10}
+\contentsline {chapter}{\numberline {4}Computational Gene and Promoter Characterization}{87}{chapter.4}
+\contentsline {section}{\numberline {4.1}Genes and promoters}{88}{section.4.1}
+\contentsline {section}{\numberline {4.2}Computational approaches}{95}{section.4.2}
+\contentsline {section}{\numberline {4.3}Detection of signals}{96}{section.4.3}
+\contentsline {section}{\numberline {4.4}Content recognition}{101}{section.4.4}
+\contentsline {section}{\numberline {4.5}Sequence comparison}{103}{section.4.5}
+\contentsline {section}{\numberline {4.6}The state of the art in gene identification}{107}{section.4.6}
+\contentsline {section}{\numberline {4.7}The state of the art in promoter characterization}{111}{section.4.7}
+\contentsline {section}{\numberline {4.8}Looking forward}{113}{section.4.8}
+\gdef \the@ipfilectr {}
+\contentsline {part}{III\hspace {1em}Meta-Alignment of Sequences}{123}{part.3}
+\gdef \the@ipfilectr {@-11}
+\contentsline {chapter}{\numberline {5}Meta-alignment of Biological Sequences}{125}{chapter.5}
+\contentsline {section}{\numberline {5.1}Biological maps: promoters}{126}{section.5.1}
+\contentsline {section}{\numberline {5.2}Transcription Factor maps}{128}{section.5.2}
+\contentsline {section}{\numberline {5.3}TF-map pairwise alignment}{128}{section.5.3}
+\contentsline {section}{\numberline {5.4}TF-map alignment training}{136}{section.5.4}
+\contentsline {section}{\numberline {5.5}TF-map alignments in orthologous genes}{144}{section.5.5}
+\contentsline {section}{\numberline {5.6}TF-map alignments in co-regulated genes}{148}{section.5.6}
+\contentsline {section}{\numberline {5.7}TF-map alignments and matrix specificity}{155}{section.5.7}
+\contentsline {section}{\numberline {5.8}Local TF-map alignments}{158}{section.5.8}
+\contentsline {section}{\numberline {5.9}Discussion}{162}{section.5.9}
+\contentsline {xpart}{Meta-Alignment of Sequences}{125}{part.3}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-12}
+\contentsline {chapter}{\numberline {6}Multiple Non-Collinear TF-map Alignment}{171}{chapter.6}
+\contentsline {section}{\numberline {6.1}The need for multiple TF-map alignment}{172}{section.6.1}
+\contentsline {section}{\numberline {6.2}Basic definitions}{174}{section.6.2}
+\contentsline {section}{\numberline {6.3}The algorithms}{176}{section.6.3}
+\contentsline {section}{\numberline {6.4}Non-colinear TF-map alignments}{181}{section.6.4}
+\contentsline {section}{\numberline {6.5}Biological results}{184}{section.6.5}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-13}
+\contentsline {chapter}{\numberline {7}Conclusions}{197}{chapter.7}
+\gdef \the@ipfilectr {}
+\contentsline {part}{IV\hspace {1em}\textbf {A}ppendices}{199}{part.4}
+\gdef \the@ipfilectr {@-14}
+\chapterbegin 
+\contentsline {starchapter}{\textit {Curriculum Vitae}}{201}{appendix*.127}
+\contentsline {xpart}{\textbf {A}ppendices}{201}{part.4}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-15}
+\chapterbegin 
+\contentsline {starchapter}{Software}{209}{appendix*.132}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-16}
+\chapterbegin 
+\contentsline {starchapter}{List of Publications}{211}{appendix*.137}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-17}
+\chapterbegin 
+\contentsline {starchapter}{Publications}{215}{appendix*.141}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-18}
+\chapterbegin 
+\contentsline {starchapter}{Posters}{229}{appendix*.149}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-19}
+\chapterbegin 
+\contentsline {starchapter}{Miscellanea}{237}{appendix*.154}
+\gdef \the@ipfilectr {}
+\chapterbegin 
+\contentsline {starchapter}{WebSite References}{241}{appendix*.160}
+\contentsline {starchapter}{Index}{245}{section*.161}
+\gdef \the@ipfilectr {@-20}
+\chapterbegin 
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-21}
+\gdef \the@ipfilectr {}

@@ -1,0 +1,12 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}\fi
+
+\bibitem[Lamport(1994)]{lamport:1994a}
+L.~Lamport.
+\newblock {\em \LaTeX\ A Document Preparation System.}
+\newblock Addison Wesley, second edition, 1994.
+\newblock ISBN 0201529831.
+
+\end{thebibliography}

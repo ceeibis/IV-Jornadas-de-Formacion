@@ -1,0 +1,366 @@
+\begin{theindex}
+{\avantgarboldlarge{}A}
+
+  \item ABS, \hyperpage{96}, \hyperpage{139}
+  \item acceptor, \hyperpage{89}
+  \item algorithms
+    \subitem BLAST, \hyperpage{67}
+    \subitem Carrillo and Lipman, \hyperpage{69}
+    \subitem CLUSTALW, \hyperpage{70}
+    \subitem FASTA, \hyperpage{66}
+    \subitem Gotoh, \hyperpage{57}
+    \subitem Hirschberg, \hyperpage{46}
+    \subitem Myers and Huang, \hyperpage{76}
+    \subitem Needleman and Wunsch, \hyperpage{40}
+    \subitem Needleman and Wunsch revisited, \hyperpage{51}
+    \subitem Sellers, \hyperpage{42}
+    \subitem Smith and Waterman, \hyperpage{61}
+    \subitem TF-map alignment, \hyperpage{132}
+    \subitem Waterman, Smith and Katcher, \hyperpage{74}
+  \item alignment, \hyperpage{36}
+    \subitem mismatch density, \hyperpage{64}
+    \subitem databases searches, \hyperpage{65}
+    \subitem BLAST, \hyperpage{67}
+    \subitem Carrillo and Lipman, \hyperpage{69}
+    \subitem classes, \hyperpage{39}
+    \subitem CLUSTALW, \hyperpage{70}
+    \subitem changes, \hyperpage{37}
+    \subitem example, \hyperpage{37}
+    \subitem FASTA, \hyperpage{66}
+    \subitem global, \hyperpage{39}
+    \subitem Gotoh, \hyperpage{57}
+    \subitem Hirschberg, \hyperpage{46}
+    \subitem local, \hyperpage{39}
+    \subitem meta-alignments, \hyperpage{128}
+    \subitem multiple meta-alignments, \hyperpage{175}
+    \subitem multiple TF-map alignments, \hyperpage{175}
+    \subitem multiple, \hyperpage{40}, \hyperpage{69}
+    \subitem number of, \hyperpage{38}
+    \subitem Needleman and Wunsch, \hyperpage{40}
+    \subitem Needleman and Wunsch revisited, \hyperpage{51}
+    \subitem pairwise, \hyperpage{40}
+    \subitem progressive, \hyperpage{70}
+    \subitem scoring function, \hyperpage{37}
+    \subitem Sellers, \hyperpage{42}
+    \subitem sequences and TF-maps, \hyperpage{131}
+    \subitem Smith and Waterman, \hyperpage{61}
+    \subitem TF-map alignments, \hyperpage{128}
+  \item alphabet, \hyperpage{35}
+    \subitem IUPAC alphabet, \hyperpage{35}
+  \item alternative splicing, \hyperpage{90}
+
+  \indexspace
+{\avantgarboldlarge{}B}
+
+  \item bacteria, \hyperpage{10}
+  \item binding sites, \hyperpage{92}
+  \item Bioinformatics, \hyperpage{17}
+  \item BLAST, \hyperpage{67}
+
+  \indexspace
+{\avantgarboldlarge{}C}
+
+  \item cancer, \hyperpage{25}
+  \item cell, \hyperpage{10}
+    \subitem cell cycle, \hyperpage{12}
+    \subitem primitive cells, \hyperpage{10}
+    \subitem multicellular organisms, \hyperpage{11}
+    \subitem cell mutations, \hyperpage{12}
+  \item chromatin, \hyperpage{15}, \hyperpage{93}
+  \item chromosomes, \hyperpage{15}
+  \item CISRED, \hyperpage{149}
+  \item CLUSTALW, \hyperpage{70}
+  \item coding statistic, \hyperpage{101}
+  \item codon
+    \subitem codon bias, \hyperpage{101}
+  \item codons, \hyperpage{14}
+  \item comparative gene prediction, \hyperpage{104}
+  \item comparative genomics, \hyperpage{103}
+  \item comparative promoter prediction, \hyperpage{104}
+  \item consensus, \hyperpage{97}
+  \item CpG island, \hyperpage{94}
+
+  \indexspace
+{\avantgarboldlarge{}D}
+
+  \item databases searches, \hyperpage{65}
+  \item distance, \hyperpage{38}
+    \subitem distance and similarity, \hyperpage{53}
+  \item DNA, \hyperpage{10}
+    \subitem binding sites, \hyperpage{92}
+    \subitem chromatin, \hyperpage{93}
+    \subitem complementation, \hyperpage{12}
+    \subitem double helix, \hyperpage{15}
+    \subitem intergenic, \hyperpage{15}
+    \subitem DNA and RNA, \hyperpage{10}
+    \subitem structure, \hyperpage{15}
+    \subitem histones, \hyperpage{93}
+    \subitem methylation, \hyperpage{94}
+    \subitem microarrays, \hyperpage{105}
+    \subitem nucleosomes, \hyperpage{93}
+    \subitem nucleotides, \hyperpage{12}
+    \subitem signals, \hyperpage{96}
+    \subitem strands, \hyperpage{12}
+  \item donor, \hyperpage{89}
+
+  \indexspace
+{\avantgarboldlarge{}E}
+
+  \item EMBL, \hyperpage{19}
+  \item enhancer, \hyperpage{93}
+  \item Ensembl, \hyperpage{20}
+  \item EPD, \hyperpage{97}
+  \item ESTs, \hyperpage{22}
+  \item eukaryotes, \hyperpage{11}
+  \item evolution, \hyperpage{10}
+  \item exon
+    \subitem classes, \hyperpage{89}
+    \subitem initial, \hyperpage{89}
+    \subitem intronless gene, \hyperpage{90}
+    \subitem internal, \hyperpage{89}
+    \subitem exon-defining signals, \hyperpage{88}
+    \subitem terminal, \hyperpage{89}
+  \item exons, \hyperpage{14}
+
+  \indexspace
+{\avantgarboldlarge{}F}
+
+  \item FASTA, \hyperpage{66}
+    \subitem format, \hyperpage{19}
+  \item first exon, \hyperpage{89}
+
+  \indexspace
+{\avantgarboldlarge{}G}
+
+  \item gap model
+    \subitem affine, \hyperpage{58}
+    \subitem concave, \hyperpage{60}
+    \subitem general, \hyperpage{55}
+  \item GenBank, \hyperpage{19}
+  \item gene, \hyperpage{12}
+    \subitem catalogue, \hyperpage{88}
+    \subitem protein-coding regions, \hyperpage{101}
+    \subitem gene expression, \hyperpage{91}
+    \subitem genefinding, \hyperpage{95}
+    \subitem cancer, \hyperpage{25}
+    \subitem alleles, \hyperpage{12}
+    \subitem genes and illness, \hyperpage{25}
+    \subitem promoters, \hyperpage{92}
+    \subitem signals, \hyperpage{88}
+    \subitem transcription, \hyperpage{14}
+    \subitem homology, \hyperpage{35}
+    \subitem intronless gene, \hyperpage{90}
+    \subitem CpG islands, \hyperpage{94}
+    \subitem orthology, \hyperpage{35}
+    \subitem paralogy, \hyperpage{35}
+    \subitem selenoproteins, \hyperpage{90}
+    \subitem silencing, \hyperpage{93}
+    \subitem structure, \hyperpage{88}
+    \subitem gene regulation, \hyperpage{92}
+    \subitem translation, \hyperpage{14}
+  \item Gene Ontology (GO), \hyperpage{22}
+  \item genefinding, \hyperpage{95}
+    \subitem state of the art, \hyperpage{107}
+  \item geneid, \hyperpage{109}
+  \item genetic code, \hyperpage{14}
+  \item genome, \hyperpage{15}
+    \subitem databases, \hyperpage{20}
+    \subitem landscape, \hyperpage{15}
+    \subitem complexity, \hyperpage{15}
+    \subitem projects, \hyperpage{20}
+    \subitem human genome, \hyperpage{126}
+  \item genomic mapping, \hyperpage{73}, \hyperpage{126}
+  \item genotype, \hyperpage{12}
+  \item GNU-GPL, \hyperpage{239}
+
+  \indexspace
+{\avantgarboldlarge{}H}
+
+  \item haplotype, \hyperpage{26}
+  \item histones, \hyperpage{93}
+  \item homology, \hyperpage{35}
+
+  \indexspace
+{\avantgarboldlarge{}I}
+
+  \item information content, \hyperpage{100}
+  \item initial exon, \hyperpage{89}
+  \item internal exon, \hyperpage{89}
+  \item introns, \hyperpage{14}
+
+  \indexspace
+{\avantgarboldlarge{}J}
+
+  \item JASPAR, \hyperpage{96}, \hyperpage{137}
+  \item JASPAR$_{TOP50}$, \hyperpage{143}
+
+  \indexspace
+{\avantgarboldlarge{}L}
+
+  \item log-likelihood ratio, \hyperpage{99}
+
+  \indexspace
+{\avantgarboldlarge{}M}
+
+  \item map alignment, \hyperpage{73}
+    \subitem example, \hyperpage{74}
+    \subitem Myers and Huang, \hyperpage{76}
+    \subitem Waterman, Smith and Katcher, \hyperpage{74}
+  \item maps, \hyperpage{72}, \hyperpage{126}
+    \subitem alignments, \hyperpage{73}
+    \subitem TF-maps, \hyperpage{128}
+  \item meta-alignments, \hyperpage{128}
+    \subitem accuracy, \hyperpage{142}
+    \subitem in CISRED, \hyperpage{148}
+    \subitem score distribution, \hyperpage{150}
+    \subitem training, \hyperpage{136}
+    \subitem parallel, \hyperpage{147}
+  \item microarray, \hyperpage{105}
+  \item multiple TF-map alignments, \hyperpage{175}
+    \subitem alignment of two clusters, \hyperpage{178}
+    \subitem non-collinear alignments, \hyperpage{181}
+    \subitem progressive alignment, \hyperpage{176}
+    \subitem training, \hyperpage{185}
+
+  \indexspace
+{\avantgarboldlarge{}N}
+
+  \item nucleosomes, \hyperpage{93}
+
+  \indexspace
+{\avantgarboldlarge{}O}
+
+  \item orthology, \hyperpage{35}
+
+  \indexspace
+{\avantgarboldlarge{}P}
+
+  \item paralogy, \hyperpage{35}
+  \item pattern discovery, \hyperpage{107}
+  \item pattern-driven methods, \hyperpage{96}
+  \item PGWS, \hyperpage{147}
+  \item pharmacogenomics, \hyperpage{25}
+  \item phenotype, \hyperpage{12}
+  \item phylogenetic footprinting, \hyperpage{105}
+  \item position weight matrices, \hyperpage{98}
+    \subitem JASPAR, \hyperpage{96}
+    \subitem PROMO, \hyperpage{96}
+    \subitem specificity, \hyperpage{155}
+    \subitem TRANSFAC, \hyperpage{96}
+  \item progressive alignment, \hyperpage{70}
+  \item prokaryotes, \hyperpage{10}
+  \item PROMO, \hyperpage{137}
+  \item promoter, \hyperpage{92}
+    \subitem enhancers, \hyperpage{93}
+    \subitem characterization, \hyperpage{95}
+    \subitem identification, \hyperpage{146}
+    \subitem TSS, \hyperpage{102}
+  \item promoter characterization
+    \subitem state of the art, \hyperpage{111}
+  \item protein synthesis, \hyperpage{14}
+  \item protein-coding regions, \hyperpage{101}
+  \item proteins, \hyperpage{15}
+  \item pseudogene, \hyperpage{90}
+
+  \indexspace
+{\avantgarboldlarge{}R}
+
+  \item reading frames, \hyperpage{14}
+  \item RefSeq, \hyperpage{20}
+  \item restriction enzymes, \hyperpage{72}
+  \item restriction map, \hyperpage{72}
+  \item RNA, \hyperpage{10}
+    \subitem nucleotides, \hyperpage{14}
+    \subitem messenger, \hyperpage{14}
+    \subitem splicing, \hyperpage{14}
+    \subitem types, \hyperpage{14}
+
+  \indexspace
+{\avantgarboldlarge{}S}
+
+  \item search
+    \subitem by content, \hyperpage{101}
+    \subitem by homology, \hyperpage{103}
+    \subitem by signal, \hyperpage{96}
+  \item selenoproteins, \hyperpage{90}, \hyperpage{110}
+  \item sequence, \hyperpage{36}
+    \subitem alignment, \hyperpage{36}
+    \subitem consensus, \hyperpage{97}
+    \subitem distance, \hyperpage{38}
+    \subitem evolution, \hyperpage{35}
+    \subitem sequence comparison, \hyperpage{35}, \hyperpage{103}, 
+		\hyperpage{126}
+    \subitem databases, \hyperpage{19}
+    \subitem signals, \hyperpage{96}
+    \subitem similarity, \hyperpage{37}
+  \item sequence-driven methods, \hyperpage{107}
+  \item signals, \hyperpage{96}
+    \subitem collections, \hyperpage{96}
+    \subitem representation, \hyperpage{97}
+  \item similarity, \hyperpage{37}, \hyperpage{103}
+    \subitem similarity and distance, \hyperpage{53}
+  \item sites, \hyperpage{96}
+    \subitem representation, \hyperpage{97}
+  \item SNP
+    \subitem classes, \hyperpage{26}
+    \subitem distribution, \hyperpage{26}
+  \item SNPs, \hyperpage{15}
+  \item software
+    \subitem typesetting
+      \subsubitem \BiBTeX, \hyperpage{237}
+      \subsubitem \LaTeX, \hyperpage{237--239}
+      \subsubitem \prog{pdflatex}, \hyperpage{237}
+      \subsubitem \prog{thumbpdf}, \hyperpage{237}
+  \item splicing, \hyperpage{14}
+    \subitem acceptor site, \hyperpage{89}
+    \subitem alternative splicing, \hyperpage{90}
+    \subitem donor site, \hyperpage{89}
+    \subitem non-canonical splicing, \hyperpage{90}
+  \item start codon, \hyperpage{88}
+  \item stop codon, \hyperpage{88}
+  \item subsequence, \hyperpage{36}
+  \item super-pattern, \hyperpage{166}
+  \item synteny, \hyperpage{103}
+
+  \indexspace
+{\avantgarboldlarge{}T}
+
+  \item terminal exon, \hyperpage{89}
+  \item TF-map alignments, \hyperpage{128}
+    \subitem accuracy, \hyperpage{142}
+    \subitem in CISRED, \hyperpage{148}
+    \subitem score distribution, \hyperpage{150}
+    \subitem enhanced algorithm, \hyperpage{132}
+    \subitem local, \hyperpage{158}
+    \subitem multiple TF-map alignments, \hyperpage{175}
+    \subitem naive algorithm, \hyperpage{132}
+    \subitem non-collinear alignments, \hyperpage{181}
+    \subitem promoter identification, \hyperpage{146}
+    \subitem sequence alignments, \hyperpage{131}
+    \subitem training, \hyperpage{136}
+    \subitem training datasets, \hyperpage{137}
+  \item TF-maps, \hyperpage{128}
+    \subitem alignments, \hyperpage{128}
+  \item thesis
+    \subitem chronology, \hyperpage{5}
+    \subitem conclusions, \hyperpage{197}
+    \subitem general objectives, \hyperpage{4}
+    \subitem objectives, \hyperpage{4}
+    \subitem outline, \hyperpage{7}
+  \item transcription factor, \hyperpage{92}
+    \subitem binding sites, \hyperpage{92}
+  \item transcriptional regulation, \hyperpage{92}
+  \item TRANSFAC, \hyperpage{96}, \hyperpage{137}
+  \item TSS, \hyperpage{102}
+
+  \indexspace
+{\avantgarboldlarge{}U}
+
+  \item UCSC genome browser, \hyperpage{20}
+
+  \indexspace
+{\avantgarboldlarge{}W}
+
+  \item weight matrices, \hyperpage{98}
+
+\end{theindex}

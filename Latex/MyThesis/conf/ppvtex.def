@@ -1,0 +1,82 @@
+%%
+%% This is file `ppvtex.def',
+%% generated with the docstrip utility.
+%%
+%% The original source files were:
+%%
+%% pdfpages.dtx  (with options: `ppvtexdef')
+%% 
+%% This is a package for PDFLaTeX, which makes it
+%% easy to insert pages of external PDF documents.
+%% 
+%% This file is part of the pdfpages package.
+%% 
+%% Copyright (C) 2001-2003 Andreas MATTHIAS.
+%% 
+%% Please send error reports and suggestions for improvements to
+%%   Andreas MATTHIAS <amat@kabsi.at>.
+%%
+\ProvidesFile{ppvtex.def}
+   [2004/01/31 v0.3e
+    Pdfpages driver for VTeX (AM)]
+\ifnum\VTeXversion<822
+  \PackageError{pdfpages}
+         {Package pdfpages requires at least\MessageBreak
+          VTeX version 8.22}
+         {Update your VTeX distribution.}%
+  \let\AM@endinput\relax
+\fi
+\AM@ifdriverlater{vtex}{2003/06/16}{}{%
+  \PackageError{pdfpages}{%
+       Your version of `vtex.def' is too old}
+       {Please, update your `vtex.def'!}%
+  \let\AM@endinput\relax
+  \expandafter\endinput
+}
+\def\AM@getpagecount{%
+  \getpagecount\count@ \AM@currentdocname\relax
+  \edef\AM@pagecount{\the\count@}%
+}
+\let\AM@pagewidth\mediawidth
+\let\AM@pageheight\mediaheight
+\def\AM@setpagedimen{%
+  \setlength{\mediawidth}{\the\wd\@tempboxa}%
+  \setlength{\mediaheight}{\the\ht\@tempboxa}%
+}
+\def\AM@setlscape{\special{pS:
+    [{ThisPage}\string<\string</Rotate 90\string>\string>%]
+    /PUT pdfmark}%
+}
+\def\AM@fitpaper@special{%
+  \immediate\xspecial{option updatemediasizes="on"}}
+\def\AM@findfile#1{%
+  \AM@findfile@i{#1}{pdf}%
+  \ifx\AM@currentdocname\relax
+    \AM@findfile@i{#1}{ps}%
+  \fi
+  \AM@findfile@ii{#1}%
+}
+\def\AM@linktodoc@special@begin{%
+  \special{!aref <\ifAM@newwindow n\fi
+           f=\AM@linkfilename>!\AM@linktodoc@page;
+           a=</Border [0 0 0]>}%
+}
+\def\AM@linktodoc@special@end{%
+  \special{!endaref}%
+}
+\def\AM@survey@special@begin{%
+  \special{!aref pdfpages.\AM@linktodoc@page@m@ne; a=</Border [0 0 0]>}%
+}
+\def\AM@survey@special@end{%
+  \special{!endaref}%
+}
+\def\AM@thread@special@begin{%
+  \special{!thread <\threadinfodict> \AM@threadname}%
+}
+\def\AM@thread@special@end{\special{!endthread}}
+\def\AM@dest@special{\special{!aname \AM@linkname.\AM@page}}
+\def\AM@anchor@special{\special{!aname pdfpages.\the\count1}}
+
+\endinput
+%%
+%% End of file `ppvtex.def'.

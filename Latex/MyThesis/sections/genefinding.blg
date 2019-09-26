@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99c (Web2C 7.4.5)
+The top-level auxiliary file: ./sections/genefinding.aux
+The style file: plainnat.bst
+Database file #1: sections/bibliography.bib
+I was expecting a `,' or a `}'---line 2010 of file sections/bibliography.bib
+ :   
+ :   journal = {Nature Genetics},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 2019 of file sections/bibliography.bib
+ :   
+ :   journal = {Nature},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--can't use both author and editor fields in blanco:2005a
+Warning--can't use both author and editor fields in blanco:2003a
+Warning--can't use both author and editor fields in guigo:1999a
+Warning--can't use both author and editor fields in quackenbush:2005a
+Warning--empty journal in various:1999a
+Warning--empty year in various:1999a
+Warning--empty journal in various:2001a
+Warning--empty year in various:2001a
+You've used 131 entries,
+            2633 wiz_defined-function locations,
+            1216 strings with 24664 characters,
+and the built_in function-call counts, 69388 in all, are:
+= -- 6527
+> -- 4142
+< -- 84
++ -- 1521
+- -- 1377
+* -- 5705
+:= -- 11643
+add.period$ -- 399
+call.type$ -- 131
+change.case$ -- 972
+chr.to.int$ -- 129
+cite$ -- 139
+duplicate$ -- 2683
+empty$ -- 4923
+format.name$ -- 1592
+if$ -- 13926
+int.to.chr$ -- 3
+int.to.str$ -- 1
+missing$ -- 137
+newline$ -- 667
+num.names$ -- 524
+pop$ -- 1287
+preamble$ -- 1
+purify$ -- 845
+quote$ -- 0
+skip$ -- 2009
+stack$ -- 0
+substring$ -- 4044
+swap$ -- 199
+text.length$ -- 12
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1411
+warning$ -- 8
+while$ -- 628
+width$ -- 0
+write$ -- 1719
+(There were 2 error messages)

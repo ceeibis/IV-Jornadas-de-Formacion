@@ -1,0 +1,63 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%                                                                          %%%
+%%%      PhD Thesis LaTeX TEMPLATE at Genome BioInformatics Laboratory       %%%
+%%%                                                                          %%%
+%%%  --- formatting_press.tex : Defining document layout to PDF (PRESS) ---  %%%
+%%%                                                                          %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%                                                                          %%%
+%%%      CopyLeft 2004 and beyond, by Josep F. Abril - jabril@imim.es        %%%
+%%%                                                                          %%%
+%%%    This thesis template has been adapted from Sergi Castellano and       %%%
+%%%    Genis Parra templates (2004),  which, in turn, largerly derived       %%%
+%%%    from Robert Castelo and Sergio Mendoza PhD thesis templates (2002).   %%%
+%%%                                                                          %%%
+%%%                   Under GNU/GPL copyleft license                         %%%
+%%%                                                                          %%%
+%%%              Questions and suggestions are WELCOMED !!!                  %%%
+%%%                  FEEL FREE TO USE AND IMPROVE IT !!!                     %%%
+%%%                                                                          %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%
+%%%  $Id: formatting_press.tex 11 2005-03-29 00:58:58Z jabril $
+%%%
+\documentclass[final]{book} % To produce final version
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Initializing boolean switches %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\input{conf/define_booleans}
+
+\setboolean{PDFflg}{true}
+\setboolean{PRESSflg}{true}
+								   
+
+%%%%%%%%%%%%%%%%%%%%
+%%% Paper layout %%%
+%%%%%%%%%%%%%%%%%%%% 
+
+\usepackage{geometry}
+           % Book size (FINAL SUBMISSION)
+\newcommand{\setpagelayout}{%
+  \geometry{paperwidth=\thesisWidth,%
+            paperheight=\thesisHeight,%
+            truedimen,twoside,%
+            pdftex,includemp=false,marginparwidth=0cm,%reversemarginpar,
+            hmargin={2cm,1cm},%
+            vmargin={2cm,1.75cm}%
+  }%geometry
+}%setpagelayout
+
+%%%%%%%%%%%%%%%%%%%%
+%%% PDF commands %%%
+%%%%%%%%%%%%%%%%%%%%
+
+\usepackage{pdfpages} % To produce final version
+                      % Declare it before \usepackage{graphicx}
+
+%%% Global pdfpages options %%%
+
+\includepdfset{frame=false,pagecommand={\thispagestyle{fancyplain}}}
+              % Used in each \includepdf call
+              % unless overwritten locally

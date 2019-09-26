@@ -1,0 +1,14 @@
+%
+% This commands are required to show the headings for
+% the index (say here a capital symbol for each first letter).
+%%
+headings_flag       1		% headings yes
+heading_prefix   "{\\avantgarboldlarge{}" 	% boldfont
+heading_suffix   "}\n"		% newline
+%%
+%
+% The following is needed by the repeatindex package
+%%
+% item_0 "\n  \\item ["
+% delim_0 "], "
+%%
